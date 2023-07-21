@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates (PASSED)</title>
+    <link>..
+    <description>**SUDAO-IP-21**
+
+**Membership, Treasury, and Voting Updates**
+
+**Rationale**
+
+As part of the DAO restructuring there are multiple updates needed in order for us to move forward.
+
+**Content of the Proposal**:
+
+* Add a discord role called, ‘Core SuperUMAns’ to those that continue to show up and contribute to the DAO. Core SuperUMAns: Bananchain, Deadcoin, EverythingBlockchain, Fruitycup, gmsteele, Gruad, Heruvim78, neondaemon, Poopster, PVMihalache, Victorfela, Surftranquille
+
+* Update to the SuperUMAn role: The SuperUMAn role is for members that might not have the time nor desire to contribute to the SU DAO but are still considered part of the community. If one wishes to move up and have voting rights to Core SuperUMAn it must be voted upon by the Core SuperUMAns (51%) on discord. Everyone with the current SU role and not part of the Core SU role will remain SuperUMAns.
+
+* Update for the treasury team so that when investment decisions are made in their meetings they don’t need consensus from the entire DAO. The signers on the main treasury eth wallet and the treasury team polygon wallet are the decision makers and executioners of any proposed transactions.
+
+* Voting updates to change from a multi tiered structure to a simpler flat structure. SU NFTs will no longer be used to reach consensus. Whenever a decision needs to be made it will be done through a discord poll. Only Core SuperUMAns will be allowed to vote (51%). Polls will be up for 3-7 days and require no quorum. Core SuperUMAns must be tagged in the discord when the proposal goes up to be valid.
+
+* Updating DAO recruitment to be free flowing. When members are needed we can start a recruitment campaign and outline the process without needing to add it to our design principles. When we don’t have a need for more members we can simply stop and place recruitment on pause.
+
+* Removal of UMAsters and Recruits from our design principles.
+
+* Update how the main Treasury wallet is managed, going from automatic dispersal with safesnap to manual dispersal via multisig.
+
+* If ratified there will be a follow-up proposal that will update our Design Principles to reflect all the changes.
+
+**What on-chain actions might this proposal entail**:
+
+NONE
+
+[poll type=multiple results=always min=1 max=1 public=true chartType=bar]
+# Would you formally support this proposal?
+* Yes
+* More Discussion Needed (Please comment below)
+* No
+[/poll]</description>
+    
+    <lastBuildDate>Wed, 05 Apr 2023 17:37:27 +0000</lastBuildDate>
+    <category>Formal Proposal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 11 Apr 2023 12:04:14 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1396-2</guid>
+        <source url=".. Membership, Treasury, and Voting Updates (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-21</strong></p>
+<p><strong>Membership, Treasury, and Voting Updates</strong></p>
+<p><strong>Rationale</strong></p>
+<p>As part of the DAO restructuring there are multiple updates needed in order for us to move forward.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<ul>
+<li>
+<p>Add a discord role called, ‘Core SuperUMAns’ to those that continue to show up and contribute to the DAO. Core SuperUMAns: Bananchain, Deadcoin, EverythingBlockchain, Fruitycup, gmsteele, Gruad, Heruvim78, neondaemon, Poopster, PVMihalache, Victorfela, Surftranquille</p>
+</li>
+<li>
+<p>Update to the SuperUMAn role: The SuperUMAn role is for members that might not have the time nor desire to contribute to the SU DAO but are still considered part of the community. If one wishes to move up and have voting rights to Core SuperUMAn it must be voted upon by the Core SuperUMAns (51%) on discord. Everyone with the current SU role and not part of the Core SU role will remain SuperUMAns.</p>
+</li>
+<li>
+<p>Update for the treasury team so that when investment decisions are made in their meetings they don’t need consensus from the entire DAO. The signers on the main treasury eth wallet and the treasury team polygon wallet are the decision makers and executioners of any proposed transactions.</p>
+</li>
+<li>
+<p>Voting updates to change from a multi tiered structure to a simpler flat structure. SU NFTs will no longer be used to reach consensus. Whenever a decision needs to be made it will be done through a discord poll. Only Core SuperUMAns will be allowed to vote (51%). Polls will be up for 3-7 days and require no quorum. Core SuperUMAns must be tagged in the discord when the proposal goes up to be valid.</p>
+</li>
+<li>
+<p>Updating DAO recruitment to be free flowing. When members are needed we can start a recruitment campaign and outline the process without needing to add it to our design principles. When we don’t have a need for more members we can simply stop and place recruitment on pause.</p>
+</li>
+<li>
+<p>Removal of UMAsters and Recruits from our design principles.</p>
+</li>
+<li>
+<p>Update how the main Treasury wallet is managed, going from automatic dispersal with safesnap to manual dispersal via multisig.</p>
+</li>
+<li>
+<p>If ratified there will be a follow-up proposal that will update our Design Principles to reflect all the changes.</p>
+</li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>NONE</p>
+<p><a href=".. to view the poll.</a></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 05 Apr 2023 17:37:27 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1396-1</guid>
+        <source url=".. Membership, Treasury, and Voting Updates (PASSED)</source>
+      </item>
+  </channel>
+</rss>

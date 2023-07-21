@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-10: Tier Membership Timeline Amendments (PASSED)</title>
+    <link>..
+    <description>**SUDAO-IP-10**
+
+**Tier Membership Timeline Amendments**
+
+**Rationale**
+
+Tier membership changes take a lot of manpower and energy to manage. There’s also growing concern that members are coming in as recruits and then being promoted too quickly, not giving them enough time to acclimate to our culture. The 6 week promotions process stemmed from previous quarters where UMA would do an activity check that would determine if an individual were to receive KPI options. Our payout systems and processes are very different from how we used to do things and it makes sense to change our promotions process to every quarter.
+
+**Content of the Proposal**:
+
+This document is to ratify the timeline to which we hold our promotions process.
+
+* Change our promotions process from every 6 weeks to once per quarter.
+
+* This would apply to recruits to superUMAns process and basic superUMAns to core superUMAns process.
+
+* This doesn’t apply to the Core SuperUMAns to UMAster process because this is already on a quarterly basis.
+
+* The two tier membership changes that are subject to change would be run on the final 2 weeks of each quarter.
+
+* The only process that will be unchanged at the 6 week/halfway mark is ‘Alumni Promotions’.
+
+**Reasoning:**
+
+* There is a lot of work that has to be done to create the promotions process, facilitate it, put up proposals, put up discord polls, announcing all the changes, keeping track of all the changes, making sure all questions are answered, reminding people of how the promotions process works, asking people to burn their NFTs, minting new NFTs, updating snapshot quorum, needing to change the snapshot block number, reaching out to all individuals on the inactive list, etc.
+
+* There is growing concern that individuals are moving up too quickly without being fully integrated into our culture!
+
+* Every 6 weeks we have core members of our DAO having to focus a lot of their time and energy, 2 weeks out of every quarter, to facilitate this process.
+
+* Having this process take place once a quarter is much more manageable.
+
+* Alumni promotions being the only process to still take place every 6 weeks will allow us to continue to ‘trim the fat’ and wouldn’t require an enormous amount of effort to implement by operations. This will also make it easier to reach quorum as inactive members increase the quorum but don’t contribute to the vote!
+
+**Changes to** [SuperUMAn DAO - Design Principles V2](..
+
+**Under Becoming SuperUMAn:**
+
+**From**:
+
+There will be a clearly defined process for a recruit to move to the SuperUMAn role as defined by the governance process. This may include
+
+* Completion of educational courses
+* Engagement with an allocated mentor from their chosen team
+* Evidence of active participation in the DAO
+* An example of a concrete initiative
+* Sponsorship by an existing SuperUMAn who can vouch for their activity.
+
+The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place every six weeks, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.
+
+**To**:
+
+There will be a clearly defined process for a recruit to move to the SuperUMAn role as defined by the governance process. This may include
+
+* Completion of educational courses
+* Engagement with an allocated mentor from their chosen team
+* Evidence of active participation in the DAO
+* An example of a concrete initiative
+* Sponsorship by an existing SuperUMAn who can vouch for their activity.
+
+The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place **on the last 2 weeks of each quarter**, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.
+
+Under **Membership of the SuperUMAn DAO** after **Becoming SuperUMAn:**
+
+**Becoming Core SuperUMAn:**
+
+**A Core SuperUMAn is not officially part of the membership of the DAO as becoming a Core SuperUMAn doesn’t change their voting weight. Their voting weight is the same as a SuperUMAn. Core SuperUMAn are seen as consistent contributing members of the DAO which have a large enough impact to receive higher compensation compared to a SuperUMAn.**
+
+**There will be a promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote that will take place in the last 2 weeks of each quarter. This process is further defined under Mechanism for Confirming Membership Tier changes.**
+
+**What on-chain actions might this proposal entail**:
+
+None at this time
+
+[poll type=multiple results=always min=1 max=1 public=true chartType=bar close=2022-04-15T13:00:00.000Z]
+# **Would you formally support this poll?**
+* **Yes**
+* **More Discussion Needed (Please leave a comment below)**
+* **No**
+[/poll]</description>
+    
+    <lastBuildDate>Mon, 11 Apr 2022 09:28:20 +0000</lastBuildDate>
+    <category>Formal Proposal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-10: Tier Membership Timeline Amendments (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 13 Apr 2022 10:41:21 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1307-5</guid>
+        <source url=".. Tier Membership Timeline Amendments (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-10: Tier Membership Timeline Amendments (PASSED)</title>
+        <dc:creator><![CDATA[Bananachain_Nanner]]></dc:creator>
+        <description><![CDATA[
+            <p>My reservations stem from the motivation which may be driving the current proposal and may be an outflow from the events at the end of epoch party, the causes of which have been intensely debated however possibly not thoroughly analysed:<br>
+“There’s also growing concern that members are coming in as recruits and then being promoted too quickly, not giving them enough time to acclimate to our culture.”</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 11 Apr 2022 09:28:20 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1307-4</guid>
+        <source url=".. Tier Membership Timeline Amendments (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-10: Tier Membership Timeline Amendments (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey surf I have a separate proposal coming regarding the promotions process itself! I want to keep things within their own realm as much as possible when shipping out a proposal so decided to separate the two!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 08 Apr 2022 13:52:31 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1307-3</guid>
+        <source url=".. Tier Membership Timeline Amendments (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-10: Tier Membership Timeline Amendments (PASSED)</title>
+        <dc:creator><![CDATA[SurfTranquille]]></dc:creator>
+        <description><![CDATA[
+            <p>I appreciate that we have a 700+ words proposal to change a timeline from bi-quaterly to quarterly promotions. However, I regret that we didn’t take the time to review the promotions process themselves, as there has been some feedback about them having shortcomings.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 08 Apr 2022 13:50:36 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1307-2</guid>
+        <source url=".. Tier Membership Timeline Amendments (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-10: Tier Membership Timeline Amendments (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-10</strong></p>
+<p><strong>Tier Membership Timeline Amendments</strong></p>
+<p><strong>Rationale</strong></p>
+<p>Tier membership changes take a lot of manpower and energy to manage. There’s also growing concern that members are coming in as recruits and then being promoted too quickly, not giving them enough time to acclimate to our culture. The 6 week promotions process stemmed from previous quarters where UMA would do an activity check that would determine if an individual were to receive KPI options. Our payout systems and processes are very different from how we used to do things and it makes sense to change our promotions process to every quarter.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<p>This document is to ratify the timeline to which we hold our promotions process.</p>
+<ul>
+<li>
+<p>Change our promotions process from every 6 weeks to once per quarter.</p>
+</li>
+<li>
+<p>This would apply to recruits to superUMAns process and basic superUMAns to core superUMAns process.</p>
+</li>
+<li>
+<p>This doesn’t apply to the Core SuperUMAns to UMAster process because this is already on a quarterly basis.</p>
+</li>
+<li>
+<p>The two tier membership changes that are subject to change would be run on the final 2 weeks of each quarter.</p>
+</li>
+<li>
+<p>The only process that will be unchanged at the 6 week/halfway mark is ‘Alumni Promotions’.</p>
+</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>
+<p>There is a lot of work that has to be done to create the promotions process, facilitate it, put up proposals, put up discord polls, announcing all the changes, keeping track of all the changes, making sure all questions are answered, reminding people of how the promotions process works, asking people to burn their NFTs, minting new NFTs, updating snapshot quorum, needing to change the snapshot block number, reaching out to all individuals on the inactive list, etc.</p>
+</li>
+<li>
+<p>There is growing concern that individuals are moving up too quickly without being fully integrated into our culture!</p>
+</li>
+<li>
+<p>Every 6 weeks we have core members of our DAO having to focus a lot of their time and energy, 2 weeks out of every quarter, to facilitate this process.</p>
+</li>
+<li>
+<p>Having this process take place once a quarter is much more manageable.</p>
+</li>
+<li>
+<p>Alumni promotions being the only process to still take place every 6 weeks will allow us to continue to ‘trim the fat’ and wouldn’t require an enormous amount of effort to implement by operations. This will also make it easier to reach quorum as inactive members increase the quorum but don’t contribute to the vote!</p>
+</li>
+</ul>
+<p><strong>Changes to</strong> <a href=".. DAO - Design Principles V2</a>:</p>
+<p><strong>Under Becoming SuperUMAn:</strong></p>
+<p><strong>From</strong>:</p>
+<p>There will be a clearly defined process for a recruit to move to the SuperUMAn role as defined by the governance process. This may include</p>
+<ul>
+<li>Completion of educational courses</li>
+<li>Engagement with an allocated mentor from their chosen team</li>
+<li>Evidence of active participation in the DAO</li>
+<li>An example of a concrete initiative</li>
+<li>Sponsorship by an existing SuperUMAn who can vouch for their activity.</li>
+</ul>
+<p>The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place every six weeks, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.</p>
+<p><strong>To</strong>:</p>
+<p>There will be a clearly defined process for a recruit to move to the SuperUMAn role as defined by the governance process. This may include</p>
+<ul>
+<li>Completion of educational courses</li>
+<li>Engagement with an allocated mentor from their chosen team</li>
+<li>Evidence of active participation in the DAO</li>
+<li>An example of a concrete initiative</li>
+<li>Sponsorship by an existing SuperUMAn who can vouch for their activity.</li>
+</ul>
+<p>The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place <strong>on the last 2 weeks of each quarter</strong>, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.</p>
+<p>Under <strong>Membership of the SuperUMAn DAO</strong> after <strong>Becoming SuperUMAn:</strong></p>
+<p><strong>Becoming Core SuperUMAn:</strong></p>
+<p><strong>A Core SuperUMAn is not officially part of the membership of the DAO as becoming a Core SuperUMAn doesn’t change their voting weight. Their voting weight is the same as a SuperUMAn. Core SuperUMAn are seen as consistent contributing members of the DAO which have a large enough impact to receive higher compensation compared to a SuperUMAn.</strong></p>
+<p><strong>There will be a promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote that will take place in the last 2 weeks of each quarter. This process is further defined under Mechanism for Confirming Membership Tier changes.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>None at this time</p>
+<p><a href=".. to view the poll.</a></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 08 Apr 2022 12:49:26 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1307-1</guid>
+        <source url=".. Tier Membership Timeline Amendments (PASSED)</source>
+      </item>
+  </channel>
+</rss>

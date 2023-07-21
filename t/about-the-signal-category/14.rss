@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>About the Signal category</title>
+    <link>..
+    <description>
+Proposals to the SuperUMAn DAO can be made in this category to obtain feedback.
+
+If the post receives 5 likes, it can then pass to the formal proposal stage. 
+
+If the proposal has not received 5 likes after 7 days then the topic will be closed. 
+
+Anyone can make a proposal. Proposals will be announced on the Discord #proposal-announcements channel.
+
+Signal proposals should be numbered with SUDAO-IP.  An example is given in SUDAO-IP 0
+
+*note that before a proposal is posted on Discourse, it is recommended to start a discussion in the #proposals channel of Discord to gain initial feedback.*</description>
+    
+    <lastBuildDate>Fri, 21 Jan 2022 12:31:27 +0000</lastBuildDate>
+    <category>Signal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Signal category</title>
+        <dc:creator><![CDATA[mhairi]]></dc:creator>
+        <description><![CDATA[
+            <p>Proposals to the SuperUMAn DAO can be made in this category to obtain feedback.</p>
+<p>If the post receives 5 likes, it can then pass to the formal proposal stage.</p>
+<p>If the proposal has not received 5 likes after 7 days then the topic will be closed.</p>
+<p>Anyone can make a proposal. Proposals will be announced on the Discord <span class="hashtag">#proposal-announcements</span> channel.</p>
+<p>Signal proposals should be numbered with SUDAO-IP.  An example is given in SUDAO-IP 0</p>
+<p><em>note that before a proposal is posted on Discourse, it is recommended to start a discussion in the <span class="hashtag">#proposals</span> channel of Discord to gain initial feedback.</em></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 28 Dec 2021 14:08:28 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-14-1</guid>
+        <source url=".. the Signal category</source>
+      </item>
+  </channel>
+</rss>

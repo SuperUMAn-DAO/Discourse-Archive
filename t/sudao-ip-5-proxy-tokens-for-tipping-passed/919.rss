@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+    <link>..
+    <description>**SUDAO-IP-5: Proxy Tokens for Tipping**
+
+**Rationale**
+So far we have been using our actual KPI Option tokens loaded into Tip.cc Bot to distribute tips, and have been doing so on Ethereum. This means we have been paying Ethereum gas fees for loading Tip.cc Bot, and recipients have been spending Ethereum gas fees (as KPI Options) for withdrawal.
+
+More importantly, each time we add a new KPI Options token to the Tip.cc Bot we have to pay a $1000 fee (currently, 6 months ago it was $500). 
+
+**Content of the Proposal:**
+
+To tackle these points I&#39;m proposing that for tipping, in place of our actual KPI Options token, we use:
+1. A blank token
+2. Minting on Polygon
+3. A limited in supply to ensure 1:1 matching, this epoch, with actual KPI Options minted for use as tips
+4. This blank token added on Tip.cc Bot only one time
+
+**We would then tip as we normally would, and for redemption follow this approach:** 
+- Recipients can claim the actual KPI Options, at any point or at the end of an epoch, by sending their accumulated blank tokens to their team leads
+- Given that the KPI Options are almost certainly going to be on Polygon it would be easy and cheap for (batch) sending KPI Options from Treasury
+- At the end of an epoch, all team leads send the tokens back to Operations and/or Treasury team, for redistribution next epoch
+- A tally would be done to ensure as much of the original token amount distributed that epoch is returned
+- We can always mint more blank tokens to match KPI Options needs over time
+- In the next epoch, to further reduce the chance of gaming the system, we could hike the equivalence to 10 blank:1 KPI option (TBD next epoch) 
+
+**Additional Notes:**
+1. Polygon has extremely low gas fees, normally around $0.01 or less - reduces loading costs
+2. As we are using the token for a single purpose it makes sense to only have to add it the one time on tip bot
+3. Recipients no longer need to be taught how to withdraw from Tip.cc Bot, only how to tip
+4. By using a blank token we resolve any security &amp; financial concerns of having actual tokens locked in Tip.cc Bot, in case it goes down/withdrawals are not working
+5. This adds a bit of operational overhead, but it eases the experience for end-users and could promote more widespread tipping
+6. We can institute this as soon as Teams have their budgets allocated to their multi-sigs, without having to wait for suINT (SU Epoch 1 KPI Options) to be minted
+
+**What on-chain actions might this proposal entail:**
+
+None at this time</description>
+    
+    <lastBuildDate>Wed, 23 Feb 2022 21:42:24 +0000</lastBuildDate>
+    <category>Signal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Thu, 24 Feb 2022 14:26:06 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-919-7</guid>
+        <source url=".. Proxy Tokens for Tipping (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+        <dc:creator><![CDATA[EAsports]]></dc:creator>
+        <description><![CDATA[
+            <p>I like the proposal and understanding that this is coming from team budgets is helpful to see the big picture as well. Seems like a great efficiency and ease of use plan for the future.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 23 Feb 2022 21:42:24 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-919-6</guid>
+        <source url=".. Proxy Tokens for Tipping (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+        <dc:creator><![CDATA[poopster]]></dc:creator>
+        <description><![CDATA[
+            <p>love this idea as it saves me a ton of time and headache as well having to mess with getting more tokens added to the tip bot!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 23 Feb 2022 20:26:56 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-919-5</guid>
+        <source url=".. Proxy Tokens for Tipping (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+        <dc:creator><![CDATA[Amadex360]]></dc:creator>
+        <description><![CDATA[
+            <p>Minting on Polygon which has a relative low gas fee is ideal. That will save heads from the murderous ETH😁</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 23 Feb 2022 20:06:54 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-919-4</guid>
+        <source url=".. Proxy Tokens for Tipping (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+        <dc:creator><![CDATA[PVMihalache]]></dc:creator>
+        <description><![CDATA[
+            <p>Minting on Polygon sounds like a good option</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 23 Feb 2022 19:12:11 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-919-3</guid>
+        <source url=".. Proxy Tokens for Tipping (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey guys this proposal was by Wraithers! Great job! Not sure if it allows me to like it because I posted it but I do formally like this proposal</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 23 Feb 2022 19:06:31 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-919-2</guid>
+        <source url=".. Proxy Tokens for Tipping (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-5: Proxy Tokens for Tipping</strong></p>
+<p><strong>Rationale</strong><br>
+So far we have been using our actual KPI Option tokens loaded into Tip.cc Bot to distribute tips, and have been doing so on Ethereum. This means we have been paying Ethereum gas fees for loading Tip.cc Bot, and recipients have been spending Ethereum gas fees (as KPI Options) for withdrawal.</p>
+<p>More importantly, each time we add a new KPI Options token to the Tip.cc Bot we have to pay a $1000 fee (currently, 6 months ago it was $500).</p>
+<p><strong>Content of the Proposal:</strong></p>
+<p>To tackle these points I’m proposing that for tipping, in place of our actual KPI Options token, we use:</p>
+<ol>
+<li>A blank token</li>
+<li>Minting on Polygon</li>
+<li>A limited in supply to ensure 1:1 matching, this epoch, with actual KPI Options minted for use as tips</li>
+<li>This blank token added on Tip.cc Bot only one time</li>
+</ol>
+<p><strong>We would then tip as we normally would, and for redemption follow this approach:</strong></p>
+<ul>
+<li>Recipients can claim the actual KPI Options, at any point or at the end of an epoch, by sending their accumulated blank tokens to their team leads</li>
+<li>Given that the KPI Options are almost certainly going to be on Polygon it would be easy and cheap for (batch) sending KPI Options from Treasury</li>
+<li>At the end of an epoch, all team leads send the tokens back to Operations and/or Treasury team, for redistribution next epoch</li>
+<li>A tally would be done to ensure as much of the original token amount distributed that epoch is returned</li>
+<li>We can always mint more blank tokens to match KPI Options needs over time</li>
+<li>In the next epoch, to further reduce the chance of gaming the system, we could hike the equivalence to 10 blank:1 KPI option (TBD next epoch)</li>
+</ul>
+<p><strong>Additional Notes:</strong></p>
+<ol>
+<li>Polygon has extremely low gas fees, normally around $0.01 or less - reduces loading costs</li>
+<li>As we are using the token for a single purpose it makes sense to only have to add it the one time on tip bot</li>
+<li>Recipients no longer need to be taught how to withdraw from Tip.cc Bot, only how to tip</li>
+<li>By using a blank token we resolve any security &amp; financial concerns of having actual tokens locked in Tip.cc Bot, in case it goes down/withdrawals are not working</li>
+<li>This adds a bit of operational overhead, but it eases the experience for end-users and could promote more widespread tipping</li>
+<li>We can institute this as soon as Teams have their budgets allocated to their multi-sigs, without having to wait for suINT (SU Epoch 1 KPI Options) to be minted</li>
+</ol>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p>None at this time</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 23 Feb 2022 19:04:30 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-919-1</guid>
+        <source url=".. Proxy Tokens for Tipping (PASSED)</source>
+      </item>
+  </channel>
+</rss>

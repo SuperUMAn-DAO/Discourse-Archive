@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>About the Formal Proposal category</title>
+    <link>..
+    <description>Once a signal proposal has received 5 likes to indicate that it has a level of support within the community, it can be posted as a formal proposal. 
+
+The formal proposal should be a detailed write up of the signal proposal that has gained support, and be identified by the same number.  An example is given in *SUDAO-IP 0: Example proposal.*  If two or more different proposals are made from the same signal check, these should be indicated by versioning number.  Examples are given in SUDAO-IP 0.1: Example proposal and Example proposal 0.2.
+
+ This proposal should include a poll with three elements
+ - Yes
+ - More Discussion
+ - No
+
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for a maximum of 7 days.  If at the end of 7 days the quorum is not met, or there is no majority, the proposal will fail. 
+
+Formal proposals will be announced on a Discord announcements channel</description>
+    
+    <lastBuildDate>Fri, 21 Jan 2022 12:45:59 +0000</lastBuildDate>
+    <category>Formal Proposal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Formal Proposal category</title>
+        <dc:creator><![CDATA[mhairi]]></dc:creator>
+        <description><![CDATA[
+            <p>Once a signal proposal has received 5 likes to indicate that it has a level of support within the community, it can be posted as a formal proposal.</p>
+<p>The formal proposal should be a detailed write up of the signal proposal that has gained support, and be identified by the same number.  An example is given in <em>SUDAO-IP 0: Example proposal.</em>  If two or more different proposals are made from the same signal check, these should be indicated by versioning number.  Examples are given in SUDAO-IP 0.1: Example proposal and Example proposal 0.2.</p>
+<p>This proposal should include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No</li>
+</ul>
+<p>In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for a maximum of 7 days.  If at the end of 7 days the quorum is not met, or there is no majority, the proposal will fail.</p>
+<p>Formal proposals will be announced on a Discord announcements channel</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 28 Dec 2021 14:27:50 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-15-1</guid>
+        <source url=".. the Formal Proposal category</source>
+      </item>
+  </channel>
+</rss>

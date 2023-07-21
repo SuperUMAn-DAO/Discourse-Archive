@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-19: Zero-based Budgeting Infrastructure [PASSED]</title>
+    <link>..
+    <description>**SUDAO-IP-19:**
+
+**Zero-based Budgeting Infrastructure**
+
+**Rationale:**
+
+This document is to ratify our current budgeting structure as written in our SuperUMAn DAO Design Principles.
+
+**Content of the Proposal:**
+
+* All teams will request all their budgetary needs from the Treasury team.
+* Every team’s multisig funds will be moved to the Treasury teams multisig.
+* The treasury team will set aside $X of their choosing for operational costs / grants / emergencies.
+* The treasury team will come up with plans on how to utilize the rest of the leftover funds.
+* There will be an announcement made to the rest of the DAO of what the Treasury team plans on doing with these leftover funds. It will then be put to a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.
+
+**Changes to [SuperUMAn DAO - Design Principles V2 - Google Docs](..
+
+**Under Governance of the SuperUMAn DAO - Preamble**
+
+**From:**
+
+Topics that require broad consensus for the DAO itself or require the use of our resources should go through governance, including requests for the treasury to unlock tranches of funds. Strategy management decisions and membership management would also be confirmed by governance.
+
+**To:**
+
+Topics that require broad consensus for the DAO itself or require the use of our resources should go through **our formal** governance **process**, including requests for the **SuperUMAn DAO** treasury to unlock tranches of funds. **This will not include funds the treasury team manages in its multisig which will have its own separate consensus process**. Strategy management decisions and membership management would also be confirmed by governance.
+
+**Under Managing the Treasury of the SuperUMAn DAO - Funding Allocation for Teams**
+
+**From:**
+
+It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget each quarter, a minimum of three weeks before the end of epoch. These requests would be aggregated together and then put forward as a governance proposal.
+
+It would be expected that each team budget request should not exceed a value of greater than $2500 (excluding any team based compensation). Funds in excess of this value should be considered a bounty or grant project and would require a dedicated governance proposal for the funds to be released. Team funds will be managed through a multi-sig composed of members of that team in a 2 of 3 structure.
+
+**To:**
+
+It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget as needed to the **Treasury team. It will be dispersed from the Treasury team’s multisig if approved by the treasury team.** Team funds will be managed through a multi-sig composed of members of that team in **at least** a 2 of 3 structure.
+
+**Under Managing the Treasury of the SuperUMAn DAO - Emergency Funds:**
+
+**From:**
+
+**Emergency Funds**
+
+Additionally there should be a “petty cash” wallet controlled by the Treasury team through a 2 of 3 multisig, initially funded to the value of $25k that can be used as an emergency budget. This will be replenished through the governance process. Requests from DAO members to the emergency fund should only be made for activities which can demonstrate a critical need which is time-sensitive, which will then be evaluated by the Treasury team. Should the request be granted, a retrospective should be conducted to ensure emergency requests are minimised.
+
+**To:**
+
+**“Petty cash” Funds**
+
+Additionally there should be a “petty cash” wallet controlled by the Treasury team **multisig of an amount of their choosing for operational costs / grants / emergencies. The multisig must at least be a 2 of 3.**
+
+**Under Managing the Treasury of the SuperUMAn DAO - Treasury Governance:**
+
+**From:**
+
+The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure.
+
+**To:**
+
+The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure. **The Treasury team will come up with a plan to utilize funds that are within its multisig and not part of its “petty cash” stash. It will make an announcement to the DAO of its plans for the funds and set up a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.**
+
+**What on-chain actions might this proposal entail**: NONE
+
+[poll type=multiple results=always min=1 max=1 public=true chartType=bar close=2022-09-27T07:00:00.000Z]
+# **Would you formally support this proposal?**
+* Yes
+* More Discussion Needed (Please comment below)
+* No
+[/poll]</description>
+    
+    <lastBuildDate>Tue, 20 Sep 2022 15:04:04 +0000</lastBuildDate>
+    <category>Formal Proposal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-19: Zero-based Budgeting Infrastructure [PASSED]</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 26 Sep 2022 13:46:17 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1377-2</guid>
+        <source url=".. Zero-based Budgeting Infrastructure [PASSED]</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-19: Zero-based Budgeting Infrastructure [PASSED]</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-19:</strong></p>
+<p><strong>Zero-based Budgeting Infrastructure</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>This document is to ratify our current budgeting structure as written in our SuperUMAn DAO Design Principles.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<ul>
+<li>All teams will request all their budgetary needs from the Treasury team.</li>
+<li>Every team’s multisig funds will be moved to the Treasury teams multisig.</li>
+<li>The treasury team will set aside $X of their choosing for operational costs / grants / emergencies.</li>
+<li>The treasury team will come up with plans on how to utilize the rest of the leftover funds.</li>
+<li>There will be an announcement made to the rest of the DAO of what the Treasury team plans on doing with these leftover funds. It will then be put to a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Governance of the SuperUMAn DAO - Preamble</strong></p>
+<p><strong>From:</strong></p>
+<p>Topics that require broad consensus for the DAO itself or require the use of our resources should go through governance, including requests for the treasury to unlock tranches of funds. Strategy management decisions and membership management would also be confirmed by governance.</p>
+<p><strong>To:</strong></p>
+<p>Topics that require broad consensus for the DAO itself or require the use of our resources should go through <strong>our formal</strong> governance <strong>process</strong>, including requests for the <strong>SuperUMAn DAO</strong> treasury to unlock tranches of funds. <strong>This will not include funds the treasury team manages in its multisig which will have its own separate consensus process</strong>. Strategy management decisions and membership management would also be confirmed by governance.</p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Funding Allocation for Teams</strong></p>
+<p><strong>From:</strong></p>
+<p>It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget each quarter, a minimum of three weeks before the end of epoch. These requests would be aggregated together and then put forward as a governance proposal.</p>
+<p>It would be expected that each team budget request should not exceed a value of greater than $2500 (excluding any team based compensation). Funds in excess of this value should be considered a bounty or grant project and would require a dedicated governance proposal for the funds to be released. Team funds will be managed through a multi-sig composed of members of that team in a 2 of 3 structure.</p>
+<p><strong>To:</strong></p>
+<p>It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget as needed to the <strong>Treasury team. It will be dispersed from the Treasury team’s multisig if approved by the treasury team.</strong> Team funds will be managed through a multi-sig composed of members of that team in <strong>at least</strong> a 2 of 3 structure.</p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Emergency Funds:</strong></p>
+<p><strong>From:</strong></p>
+<p><strong>Emergency Funds</strong></p>
+<p>Additionally there should be a “petty cash” wallet controlled by the Treasury team through a 2 of 3 multisig, initially funded to the value of $25k that can be used as an emergency budget. This will be replenished through the governance process. Requests from DAO members to the emergency fund should only be made for activities which can demonstrate a critical need which is time-sensitive, which will then be evaluated by the Treasury team. Should the request be granted, a retrospective should be conducted to ensure emergency requests are minimised.</p>
+<p><strong>To:</strong></p>
+<p><strong>“Petty cash” Funds</strong></p>
+<p>Additionally there should be a “petty cash” wallet controlled by the Treasury team <strong>multisig of an amount of their choosing for operational costs / grants / emergencies. The multisig must at least be a 2 of 3.</strong></p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Treasury Governance:</strong></p>
+<p><strong>From:</strong></p>
+<p>The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure.</p>
+<p><strong>To:</strong></p>
+<p>The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure. <strong>The Treasury team will come up with a plan to utilize funds that are within its multisig and not part of its “petty cash” stash. It will make an announcement to the DAO of its plans for the funds and set up a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>: NONE</p>
+<p><a href=".. to view the poll.</a></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 20 Sep 2022 15:04:04 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1377-1</guid>
+        <source url=".. Zero-based Budgeting Infrastructure [PASSED]</source>
+      </item>
+  </channel>
+</rss>

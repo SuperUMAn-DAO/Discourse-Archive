@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-14: Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</title>
+    <link>..
+    <description>**SUDAO-IP-14**
+
+**Recruits, Alumni, and Honorary DAOplomats Amendments**
+
+**Rationale**
+
+This document is to ratify a recruits offboarding process, removal of inactive Alumni that dont have a NFT from our roster, and removal of Honorary DAOplomats as a membership tier.
+
+**Content of the Proposal**:
+* Rename the ‘Alumni Promotions’ to ‘Alumni Redesignation + Recruits Offboarding’
+
+* ‘Alumni Redesignation + Recruits offboarding’ to now include inactive recruits list alongside inactive SuperUMAns list.
+
+* The onboarding team, operations masters, and team leads will be requested to provide names of inactive recruits. This will happen the week before ‘Alumni Redesignation + Recruits Offboarding’ tier change process.
+
+* All names collected during that week will be added to the inactive recruits list.
+
+* There will be a clear distinction between the inactive SuperUMAns list and inactive Recruits list.
+
+* If a recruit is deemed inactive by the DAO they will have their NFTs burned or blacklisted, effectively removing them from our governance structure, removing the recruits discord role and being given the ‘UMAn’ discord role.
+
+* Honorary DAOplomats to be removed from our governance structure but remain as a discord role.
+
+* Those that are added onto the inactive lists will be contacted directly via DM once the ‘Alumni redesignation + Recruits offboarding’ process goes live.
+
+* Clarify that only SuperUMAns may vote to exclude those added to the inactive lists.
+
+* Removal of any Alumni that are currently on our roster but never actively tried to get their Alumni NFT. If any Alumni are in the SuperUMAn server and have the Alumni discord tag, and don’t have the Alumni NFT, they will be contacted once more to see if they are interested in participating in our governance process. They will be given a week to respond. All the rest of the Alumni will be removed from our roster list which can be viewed here: [DAO Members | Table View (notion.site)](..
+
+* Alumnis that don&#39;t respond after 1 week and currently have the Alumni discord tag but don’t have the Alumni NFT or aren&#39;t interested to receive the Alumni NFT will have their Alumni discord tag removed and given the ‘UMAn’ tag.
+
+**Reasoning:**
+
+* As the alumni promotions already have a solid structure it makes sense to simply add an inactive recruits list that will follow along the same process.
+
+* The only difference is inactive recruits have their NFT burned/blacklisted and are completely removed from our governance structure. They will be given a ‘UMAn’ discord role.
+
+* This will lower the quorum needed to pass governance proposals and keep each of our tiers active and vibrant.
+
+* As honorary DAOplomats are more so friends of the DAO and after 4 months we haven’t had any interested in participating in governance, it doesn&#39;t make sense to involve them directly in our governance structure.
+
+* Our full roster has about 33 Alumni listed. Out of 33 about only 2 or 3 actually cared to receive their Alumni NFT. This is inflating our membership numbers tremendously and it&#39;s recommended we remove inactive Alumni from our roster to get an accurate active membership count.
+
+**Changes to [SuperUMAn DAO - Design Principles V2 - Google Docs](..
+
+**Under Initial Membership and Membership Tiers:**
+
+**From:**
+
+The founding members of the SuperUMAn DAO will be comprised of
+
+* Those who currently hold the UMAster, SuperUMAn and Recruit tags on discord at the 31st December 2021.
+* Specific others who are identified as those whose influence would add value to the DAO, such as those who hold the Honorary DAOplomats tag
+
+It is recognised that while all of the above groups have a stake in the development and wellbeing of the DAO, some of the above are more closely aligned with its mission, and have a greater stake in the DAO’s growth than others, consequently it is suggested that there is a three tier system in place to allow the level of influence in the DAO to reflect those differential stakes.
+
+Tier membership will confer differential voting rights through a multiplier effect.
+
+The proposed tiers are
+
+* Basic (Recruits + Honorary DAOplomats + Alumni): one member, one vote
+* SuperUMAns - enhanced: one member, 10 votes
+* UMAsters - enhanced plus: one member 20 votes
+
+These voting parameters can be modified by governance.
+
+Members of the DAO will be identified by an NFT tied to a wallet address that they provide. That NFT and wallet will be used both as a means of voting in the governance process, and also as the wallet identifier of any compensation due to them as DAO members.
+
+**To:**
+
+The founding members of the SuperUMAn DAO will be comprised of
+
+* Those who currently hold the UMAster, SuperUMAn and Recruit tags on discord at the 31st December 2021.
+* Specific others who are identified as those whose influence would add value to the DAO, such as those who hold the Honorary DAOplomats tag
+
+It is recognised that while all of the above groups have a stake in the development and wellbeing of the DAO, some of the above are more closely aligned with its mission, and have a greater stake in the DAO’s growth than others, consequently it is suggested that there is a three tier system in place to allow the level of influence in the DAO to reflect those differential stakes.
+
+Tier membership will confer differential voting rights through a multiplier effect.
+
+The proposed tiers are
+
+* Basic **(Recruits + Alumni):** one member, one vote
+* SuperUMAns - enhanced: one member, 10 votes
+* UMAsters - enhanced plus: one member 20 votes
+
+These voting parameters can be modified by governance.
+
+Members of the DAO will be identified by an NFT tied to a wallet address that they provide. That NFT and wallet will be used both as a means of voting in the governance process, and also as the wallet identifier of any compensation due to them as DAO members.
+
+**Under Who has Governance Power:**
+
+**From:**
+
+Members of the DAO belong to one of three tiers - Basic, SuperUMAn and UMAster. These tiers are indicated by NFTs belonging to DAO members and provided either at the founding of the DAO or when a new member is recruited.
+
+These tiers of memberships confer differential voting rights.
+
+The tiers are
+
+* Basic (Recruits + Honorary DAOplomats + Alumni)
+
+baseline: one member, 1 vote
+
+* SuperUMAn
+enhanced: one member, 10 votes
+* UMAster
+enhanced plus: one member, 20 votes
+
+**To:**
+
+Members of the DAO belong to one of three tiers - Basic, SuperUMAn and UMAster. These tiers are indicated by NFTs belonging to DAO members and provided either at the founding of the DAO or when a new member is recruited.
+
+These tiers of memberships confer differential voting rights.
+
+The tiers are
+
+* Basic **(Recruits + Alumni)**
+
+baseline: one member, 1 vote
+
+* SuperUMAn
+enhanced: one member, 10 votes
+* UMAster
+enhanced plus: one member, 20 votes
+
+**Under Mechanism for Confirming Membership Tier changes #4:**
+
+**From:**
+
+4. The Operations Teams will collate nominations from teams of SuperUMAns who are being recommended to be moved to Alumni. The Operations team will organise an emoji based poll for SuperUMAns to Alumni, with min of 5 emojis to exclude from the proposal.
+
+**To:**
+
+**4. ‘Alumni Redesignation + Recruits Offboarding’**
+
+The Operations **Team** will collate nominations from **team leads, operations masters, and the onboarding team for inactive recruits and inactive SuperUMAns the week before the discord poll goes live. There will be two separate lists, inactive recruits and inactive SuperUMAns, that will be posted on Discord.** The Operations team will **organize** an emoji based poll for SuperUMAns to Alumni **and Recruits offboarding,** with **a minimum** of 5 emojis to **be excluded** from the proposal. **Only SuperUMAns are allowed to vote on this poll and the poll will run for 1 week. If an individual is on the inactive list they can’t vote for themselves to be removed from the list.**
+
+**This tier membership change process will run in the middle and end of every epoch. Each SuperUMAn and recruit that make it on either of the ‘Alumni Redesignation + Recruits Offboarding’ lists will be informed directly via discord DM when the poll goes live. If a recruit nominee is not excluded at the end of 7 days then, pending the snapshot vote, will have their NFT burned/blacklisted, recruits tags removed, and given the ‘UMAn’ discord tag. If a SuperUMAn nominee is not excluded from their list after 7 days then, pending the snapshot vote, will have their NFT burned/blacklisted and given an Alumni NFT as well as removing their SuperUMAn discord tag and given the ‘Alumni’ tag.**
+
+**What on-chain actions might this proposal entail**: 
+None at this time</description>
+    
+    <lastBuildDate>Tue, 26 Apr 2022 11:56:32 +0000</lastBuildDate>
+    <category>Signal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-14: Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 26 Apr 2022 12:02:14 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1331-5</guid>
+        <source url=".. Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-14: Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for the question Banana! There’s a few reasons why I think we need to address inactive ‘founding’ members. The alumnis that have been contacted in the past, to receive their NFTs if they wish to be part of the SuperUMAns, are inflating the amount of UMAsters spots allotted each quarter. As it stands its 20% of our membership even including those that don’t have NFTs. This will give us a more accurate count of UMAster spots moving forward.</p>
+<p>As were working through a new structure we will also eventually need new amendments to how we distribute NFTs and put some sort of timelines one must receive their NFT. The issue right now is we have to manually hand out NFTs which can take quite some time if people all of a sudden become unresponsive which then holds up our entire governance process. There will be another proposal to address this, as for this proposal the alumni portion is a temporary solution that will have a more permanent fix once talks continue to move forward regarding the new infrastructure.</p>
+<p>I hope this helped answer your question if not please let me know!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 26 Apr 2022 11:56:32 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1331-4</guid>
+        <source url=".. Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-14: Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</title>
+        <dc:creator><![CDATA[Bananachain_Nanner]]></dc:creator>
+        <description><![CDATA[
+            <p>How does the distinction of founding members until 31.12.2021 and after affect this proposal? Over time there will be a new group of members, so am wondering how this kind of distinction is of any value and whether it would need to be changed again at some point?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 26 Apr 2022 10:32:39 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1331-3</guid>
+        <source url=".. Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-14: Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey guys I know were moving towards a totally new infrastructure which will also change the way we distribute and handle NFTs but I think its important we continue to iterate on our current structure until these larger infrastructure changes are in place! As we do plan on using a chunk of our current structure into the new structure I think its still worth to take some time to improving our current structure while we work on the new one.</p>
+<p>This proposal will also help give an accurate count of our current active membership when it comes time for the LFG request.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 25 Apr 2022 17:36:25 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1331-2</guid>
+        <source url=".. Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-14: Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-14</strong></p>
+<p><strong>Recruits, Alumni, and Honorary DAOplomats Amendments</strong></p>
+<p><strong>Rationale</strong></p>
+<p>This document is to ratify a recruits offboarding process, removal of inactive Alumni that dont have a NFT from our roster, and removal of Honorary DAOplomats as a membership tier.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<ul>
+<li>
+<p>Rename the ‘Alumni Promotions’ to ‘Alumni Redesignation + Recruits Offboarding’</p>
+</li>
+<li>
+<p>‘Alumni Redesignation + Recruits offboarding’ to now include inactive recruits list alongside inactive SuperUMAns list.</p>
+</li>
+<li>
+<p>The onboarding team, operations masters, and team leads will be requested to provide names of inactive recruits. This will happen the week before ‘Alumni Redesignation + Recruits Offboarding’ tier change process.</p>
+</li>
+<li>
+<p>All names collected during that week will be added to the inactive recruits list.</p>
+</li>
+<li>
+<p>There will be a clear distinction between the inactive SuperUMAns list and inactive Recruits list.</p>
+</li>
+<li>
+<p>If a recruit is deemed inactive by the DAO they will have their NFTs burned or blacklisted, effectively removing them from our governance structure, removing the recruits discord role and being given the ‘UMAn’ discord role.</p>
+</li>
+<li>
+<p>Honorary DAOplomats to be removed from our governance structure but remain as a discord role.</p>
+</li>
+<li>
+<p>Those that are added onto the inactive lists will be contacted directly via DM once the ‘Alumni redesignation + Recruits offboarding’ process goes live.</p>
+</li>
+<li>
+<p>Clarify that only SuperUMAns may vote to exclude those added to the inactive lists.</p>
+</li>
+<li>
+<p>Removal of any Alumni that are currently on our roster but never actively tried to get their Alumni NFT. If any Alumni are in the SuperUMAn server and have the Alumni discord tag, and don’t have the Alumni NFT, they will be contacted once more to see if they are interested in participating in our governance process. They will be given a week to respond. All the rest of the Alumni will be removed from our roster list which can be viewed here: <a href=".. Members | Table View (notion.site)</a></p>
+</li>
+<li>
+<p>Alumnis that don’t respond after 1 week and currently have the Alumni discord tag but don’t have the Alumni NFT or aren’t interested to receive the Alumni NFT will have their Alumni discord tag removed and given the ‘UMAn’ tag.</p>
+</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>
+<p>As the alumni promotions already have a solid structure it makes sense to simply add an inactive recruits list that will follow along the same process.</p>
+</li>
+<li>
+<p>The only difference is inactive recruits have their NFT burned/blacklisted and are completely removed from our governance structure. They will be given a ‘UMAn’ discord role.</p>
+</li>
+<li>
+<p>This will lower the quorum needed to pass governance proposals and keep each of our tiers active and vibrant.</p>
+</li>
+<li>
+<p>As honorary DAOplomats are more so friends of the DAO and after 4 months we haven’t had any interested in participating in governance, it doesn’t make sense to involve them directly in our governance structure.</p>
+</li>
+<li>
+<p>Our full roster has about 33 Alumni listed. Out of 33 about only 2 or 3 actually cared to receive their Alumni NFT. This is inflating our membership numbers tremendously and it’s recommended we remove inactive Alumni from our roster to get an accurate active membership count.</p>
+</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Initial Membership and Membership Tiers:</strong></p>
+<p><strong>From:</strong></p>
+<p>The founding members of the SuperUMAn DAO will be comprised of</p>
+<ul>
+<li>Those who currently hold the UMAster, SuperUMAn and Recruit tags on discord at the 31st December 2021.</li>
+<li>Specific others who are identified as those whose influence would add value to the DAO, such as those who hold the Honorary DAOplomats tag</li>
+</ul>
+<p>It is recognised that while all of the above groups have a stake in the development and wellbeing of the DAO, some of the above are more closely aligned with its mission, and have a greater stake in the DAO’s growth than others, consequently it is suggested that there is a three tier system in place to allow the level of influence in the DAO to reflect those differential stakes.</p>
+<p>Tier membership will confer differential voting rights through a multiplier effect.</p>
+<p>The proposed tiers are</p>
+<ul>
+<li>Basic (Recruits + Honorary DAOplomats + Alumni): one member, one vote</li>
+<li>SuperUMAns - enhanced: one member, 10 votes</li>
+<li>UMAsters - enhanced plus: one member 20 votes</li>
+</ul>
+<p>These voting parameters can be modified by governance.</p>
+<p>Members of the DAO will be identified by an NFT tied to a wallet address that they provide. That NFT and wallet will be used both as a means of voting in the governance process, and also as the wallet identifier of any compensation due to them as DAO members.</p>
+<p><strong>To:</strong></p>
+<p>The founding members of the SuperUMAn DAO will be comprised of</p>
+<ul>
+<li>Those who currently hold the UMAster, SuperUMAn and Recruit tags on discord at the 31st December 2021.</li>
+<li>Specific others who are identified as those whose influence would add value to the DAO, such as those who hold the Honorary DAOplomats tag</li>
+</ul>
+<p>It is recognised that while all of the above groups have a stake in the development and wellbeing of the DAO, some of the above are more closely aligned with its mission, and have a greater stake in the DAO’s growth than others, consequently it is suggested that there is a three tier system in place to allow the level of influence in the DAO to reflect those differential stakes.</p>
+<p>Tier membership will confer differential voting rights through a multiplier effect.</p>
+<p>The proposed tiers are</p>
+<ul>
+<li>Basic <strong>(Recruits + Alumni):</strong> one member, one vote</li>
+<li>SuperUMAns - enhanced: one member, 10 votes</li>
+<li>UMAsters - enhanced plus: one member 20 votes</li>
+</ul>
+<p>These voting parameters can be modified by governance.</p>
+<p>Members of the DAO will be identified by an NFT tied to a wallet address that they provide. That NFT and wallet will be used both as a means of voting in the governance process, and also as the wallet identifier of any compensation due to them as DAO members.</p>
+<p><strong>Under Who has Governance Power:</strong></p>
+<p><strong>From:</strong></p>
+<p>Members of the DAO belong to one of three tiers - Basic, SuperUMAn and UMAster. These tiers are indicated by NFTs belonging to DAO members and provided either at the founding of the DAO or when a new member is recruited.</p>
+<p>These tiers of memberships confer differential voting rights.</p>
+<p>The tiers are</p>
+<ul>
+<li>Basic (Recruits + Honorary DAOplomats + Alumni)</li>
+</ul>
+<p>baseline: one member, 1 vote</p>
+<ul>
+<li>SuperUMAn<br>
+enhanced: one member, 10 votes</li>
+<li>UMAster<br>
+enhanced plus: one member, 20 votes</li>
+</ul>
+<p><strong>To:</strong></p>
+<p>Members of the DAO belong to one of three tiers - Basic, SuperUMAn and UMAster. These tiers are indicated by NFTs belonging to DAO members and provided either at the founding of the DAO or when a new member is recruited.</p>
+<p>These tiers of memberships confer differential voting rights.</p>
+<p>The tiers are</p>
+<ul>
+<li>Basic <strong>(Recruits + Alumni)</strong>
+</li>
+</ul>
+<p>baseline: one member, 1 vote</p>
+<ul>
+<li>SuperUMAn<br>
+enhanced: one member, 10 votes</li>
+<li>UMAster<br>
+enhanced plus: one member, 20 votes</li>
+</ul>
+<p><strong>Under Mechanism for Confirming Membership Tier changes <span class="hashtag">#4:</span></strong></p>
+<p><strong>From:</strong></p>
+<ol start="4">
+<li>The Operations Teams will collate nominations from teams of SuperUMAns who are being recommended to be moved to Alumni. The Operations team will organise an emoji based poll for SuperUMAns to Alumni, with min of 5 emojis to exclude from the proposal.</li>
+</ol>
+<p><strong>To:</strong></p>
+<p><strong>4. ‘Alumni Redesignation + Recruits Offboarding’</strong></p>
+<p>The Operations <strong>Team</strong> will collate nominations from <strong>team leads, operations masters, and the onboarding team for inactive recruits and inactive SuperUMAns the week before the discord poll goes live. There will be two separate lists, inactive recruits and inactive SuperUMAns, that will be posted on Discord.</strong> The Operations team will <strong>organize</strong> an emoji based poll for SuperUMAns to Alumni <strong>and Recruits offboarding,</strong> with <strong>a minimum</strong> of 5 emojis to <strong>be excluded</strong> from the proposal. <strong>Only SuperUMAns are allowed to vote on this poll and the poll will run for 1 week. If an individual is on the inactive list they can’t vote for themselves to be removed from the list.</strong></p>
+<p><strong>This tier membership change process will run in the middle and end of every epoch. Each SuperUMAn and recruit that make it on either of the ‘Alumni Redesignation + Recruits Offboarding’ lists will be informed directly via discord DM when the poll goes live. If a recruit nominee is not excluded at the end of 7 days then, pending the snapshot vote, will have their NFT burned/blacklisted, recruits tags removed, and given the ‘UMAn’ discord tag. If a SuperUMAn nominee is not excluded from their list after 7 days then, pending the snapshot vote, will have their NFT burned/blacklisted and given an Alumni NFT as well as removing their SuperUMAn discord tag and given the ‘Alumni’ tag.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>:<br>
+None at this time</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 25 Apr 2022 16:09:20 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1331-1</guid>
+        <source url=".. Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</source>
+      </item>
+  </channel>
+</rss>

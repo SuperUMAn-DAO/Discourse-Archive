@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-11: Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</title>
+    <link>..
+    <description>**SUDAO-IP-11: Mechanics of suINT KPI Options Redemption**
+
+**Rationale:**
+
+In [SUDAO-IP-7 ](.. one time proposal to solve the blockers around distribution of our suINT 1st epoch KPI Options.
+
+**The main blocker being:**
+
+`A snapshot vote is unable to trigger the SU safe into the actions of approving contract collateral or minting the Long / Short tokens. We require an alternate method.`
+
+Our epoch 1 KPI Options (suINT) has now expired and the DAO currently holds 75,000 suINT short tokens and 2,976 suINT long tokens.
+
+It is hereby put forth that the Treasury team’s Gnosis Multi-sig safe handles the steps in a similar mechanic described in [SUDAO-IP-7 ](.. allow us redeem our now expired KPI Options for their underlying collateral ($UMA tokens).
+
+**Content of the proposal**
+
+**Proposed Mechanics**
+
+* The SU DAO Treasury’s Polygon safe will be authorized by a successful vote of this proposal to send 75,000 suINT short tokens and 2,976 suINT long tokens to the Treasury’s team Multi-sig.
+* The Treasury team Multi-sig will redeem our expired KPI Options for their underlying collateral ($UMA tokens)
+* Immediately following the redemption of said tokens, the Treasury team Multi-sig will send the redeemed $UMA tokens to the SU DAO Treasury’s Polygon Safe.
+
+**What on-chain actions might this proposal entail:**
+
+Ratification of this proposal via quorum on a snapshot vote would trigger the SU DAO Treasury’s Polygon Safe to send 75,000 suINT short tokens and 2,976 suINT long tokens to the Treasury’s Team Gnosis Multi - Sig.
+
+**Here’s the Treasury’s Team Gnosis Multi-sig Address:**
+
+[0x321Ae246673ab8F31A73d7bB5900C7B97D4AD38A](..
+
+[poll type=regular results=always public=true chartType=bar close=2022-04-24T11:00:00.000Z]
+* Yes
+* No
+[/poll]</description>
+    
+    <lastBuildDate>Fri, 22 Apr 2022 11:17:21 +0000</lastBuildDate>
+    <category>Formal Proposal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-11: Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 24 Apr 2022 11:42:07 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1319-4</guid>
+        <source url=".. Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-11: Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</title>
+        <dc:creator><![CDATA[Deadcoin]]></dc:creator>
+        <description><![CDATA[
+            <p>I dont know why we do not do this with voting on UMA’s governance.  Ive not seen one member vote “no” on using a temp multisig.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 22 Apr 2022 11:17:21 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1319-3</guid>
+        <source url=".. Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-11: Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>thanks for moving this forward!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 19 Apr 2022 11:05:53 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1319-2</guid>
+        <source url=".. Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-11: Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</title>
+        <dc:creator><![CDATA[Henrystats]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-11: Mechanics of suINT KPI Options Redemption</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>In <a href=".. </a>a one time proposal to solve the blockers around distribution of our suINT 1st epoch KPI Options.</p>
+<p><strong>The main blocker being:</strong></p>
+<p><code>A snapshot vote is unable to trigger the SU safe into the actions of approving contract collateral or minting the Long / Short tokens. We require an alternate method.</code></p>
+<p>Our epoch 1 KPI Options (suINT) has now expired and the DAO currently holds 75,000 suINT short tokens and 2,976 suINT long tokens.</p>
+<p>It is hereby put forth that the Treasury team’s Gnosis Multi-sig safe handles the steps in a similar mechanic described in <a href=".. </a>to allow us redeem our now expired KPI Options for their underlying collateral ($UMA tokens).</p>
+<p><strong>Content of the proposal</strong></p>
+<p><strong>Proposed Mechanics</strong></p>
+<ul>
+<li>The SU DAO Treasury’s Polygon safe will be authorized by a successful vote of this proposal to send 75,000 suINT short tokens and 2,976 suINT long tokens to the Treasury’s team Multi-sig.</li>
+<li>The Treasury team Multi-sig will redeem our expired KPI Options for their underlying collateral ($UMA tokens)</li>
+<li>Immediately following the redemption of said tokens, the Treasury team Multi-sig will send the redeemed $UMA tokens to the SU DAO Treasury’s Polygon Safe.</li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p>Ratification of this proposal via quorum on a snapshot vote would trigger the SU DAO Treasury’s Polygon Safe to send 75,000 suINT short tokens and 2,976 suINT long tokens to the Treasury’s Team Gnosis Multi - Sig.</p>
+<p><strong>Here’s the Treasury’s Team Gnosis Multi-sig Address:</strong></p>
+<p><a href="..
+<p><a href=".. to view the poll.</a></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 19 Apr 2022 11:01:17 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1319-1</guid>
+        <source url=".. Mechanics of suINT KPI Options Redemption (Formal Proposal) (PASSED)</source>
+      </item>
+  </channel>
+</rss>

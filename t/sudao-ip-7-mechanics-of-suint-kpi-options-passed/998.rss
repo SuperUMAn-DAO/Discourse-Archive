@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+    <link>..
+    <description>## SUDAO-IP-7: Mechanics of suINT KPI Options
+
+**Rationale**
+
+SuINT KPI Options has passed full quorum on [snapshot](.. this proposal only applies to the mechanics of minting and distribution of said tokens.
+
+The need to define the mechanics arises from the inability of the main SU safe to complete the necessary steps. This comes as a result of removing all signatories from the main safe, now controlled solely through a snapshot vote.
+
+A snapshot vote is unable to trigger the SU safe into the actions of approving contract collateral or minting the Long / Short tokens. We require an alternate method.
+
+It is hereby put forth that the Ambassador team&#39;s Gnosis MultiSig safe handles the steps described in &#39;Proposed Mechanics&#39; below to enable the final distribution of our suINT KPI options.
+
+**Content of the proposal**
+
+**Proposed Mechanics:**
+
+1. Add gruad and poopster as backup signatories to the ambassador’s gnosis safe if for any reason the original ambassador signatories are unable to sign.
+2. The main SU Treasury safe will be authorized by a successful vote of this proposal to send the UMA tokens required to mint suINT KPI options, per our [ratified compensation plan](.. to the Ambassador Gnosis MultiSig.
+3. The Ambassador MultiSig will then approve the contract collateral ($UMA) and mint the ratified amount of Long / Short tokens.
+4. Immediately following the minting of said tokens, the Ambassador Gnosis MultiSig will send all the suINT Long / Short tokens to the main SuperUMAn DAO safe.
+5. A following snapshot vote will be required to send out the ratified distribution of the Long tokens. The main SU safe will hold the Short Pair until expiry and redemption of the contract.
+
+**Security Considerations**
+
+It is recognized by the DAO as well as the Ambassador signatories that the above proposal carries certain risks. It would require only a short period of time for the Ambassador team to perform the process described above.
+
+A two of three MultiSig makes for a quick and smooth mechanical process. It also requires an amount of trust by the wider DAO that the Ambassador signatories will indeed carry out the steps as described above. The signatories on the Ambassador team consist of **inalittlewhile**, **arcology**, and **coach**. If this proposal is approved the signatory roster will include **gruad** and **poopster** as backups.
+
+**What on-chain actions might this proposal entail:**
+
+**Ratification of this proposal via quorum on a snapshot vote would trigger the main SU safe to send 45,000 UMA tokens to the Ambassador Gnosis MultiSig.**</description>
+    
+    <lastBuildDate>Wed, 02 Mar 2022 01:51:05 +0000</lastBuildDate>
+    <category>Signal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 02 Mar 2022 10:43:10 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-998-7</guid>
+        <source url=".. Mechanics of suINT KPI Options (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+        <dc:creator><![CDATA[SBSINGH]]></dc:creator>
+        <description><![CDATA[
+            <p>Suggest to do a video call/ stream  of the SuINT KPI options were we can see the process and learn first hand from this whole process of setting up.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 02 Mar 2022 01:51:05 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-998-6</guid>
+        <source url=".. Mechanics of suINT KPI Options (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+        <dc:creator><![CDATA[Victorfela]]></dc:creator>
+        <description><![CDATA[
+            <p>Looks all set out. Great work</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 01 Mar 2022 22:02:38 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-998-5</guid>
+        <source url=".. Mechanics of suINT KPI Options (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+        <dc:creator><![CDATA[Inalittlewhile1]]></dc:creator>
+        <description><![CDATA[
+            <p>One note for the the final proposal. The Ambassador MultiSig will change to a three of five safe. We will add <a class="mention" href=".. and <a class="mention" href=".. to the list of signatories. Backup was a term used to describe adding more signatories. Once the steps described in this proposal (if it passes a snapshot vote) are carried out, the Ambassador team will remove Poopster and Gruad as safe signatories.</p>
+<p>We’ll need to add this terminology to the final draft should this proposal have enough support to proceed.</p>
+<p>Note also that this is a one time proposal intended to solve the blockers on distribution of our suINT 1st epoch KPI Options. Any future distribution of KPI Options will need a new proposal.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 01 Mar 2022 21:58:20 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-998-4</guid>
+        <source url=".. Mechanics of suINT KPI Options (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+        <dc:creator><![CDATA[Berry]]></dc:creator>
+        <description><![CDATA[
+            <p>Sensible work around. Fully support</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 01 Mar 2022 19:28:46 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-998-3</guid>
+        <source url=".. Mechanics of suINT KPI Options (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey guys inalittlewhile wrote this proposal! It wont let me like it because I put it up on discourse but I do formally ‘like’ this proposal! Great job!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 01 Mar 2022 18:00:07 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-998-2</guid>
+        <source url=".. Mechanics of suINT KPI Options (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <h2>
+<a name="sudao-ip-7-mechanics-of-suint-kpi-options-1" class="anchor" href=".. Mechanics of suINT KPI Options</h2>
+<p><strong>Rationale</strong></p>
+<p>SuINT KPI Options has passed full quorum on <a href=".. this proposal only applies to the mechanics of minting and distribution of said tokens.</p>
+<p>The need to define the mechanics arises from the inability of the main SU safe to complete the necessary steps. This comes as a result of removing all signatories from the main safe, now controlled solely through a snapshot vote.</p>
+<p>A snapshot vote is unable to trigger the SU safe into the actions of approving contract collateral or minting the Long / Short tokens. We require an alternate method.</p>
+<p>It is hereby put forth that the Ambassador team’s Gnosis MultiSig safe handles the steps described in ‘Proposed Mechanics’ below to enable the final distribution of our suINT KPI options.</p>
+<p><strong>Content of the proposal</strong></p>
+<p><strong>Proposed Mechanics:</strong></p>
+<ol>
+<li>Add gruad and poopster as backup signatories to the ambassador’s gnosis safe if for any reason the original ambassador signatories are unable to sign.</li>
+<li>The main SU Treasury safe will be authorized by a successful vote of this proposal to send the UMA tokens required to mint suINT KPI options, per our <a href=".. compensation plan</a>, to the Ambassador Gnosis MultiSig.</li>
+<li>The Ambassador MultiSig will then approve the contract collateral ($UMA) and mint the ratified amount of Long / Short tokens.</li>
+<li>Immediately following the minting of said tokens, the Ambassador Gnosis MultiSig will send all the suINT Long / Short tokens to the main SuperUMAn DAO safe.</li>
+<li>A following snapshot vote will be required to send out the ratified distribution of the Long tokens. The main SU safe will hold the Short Pair until expiry and redemption of the contract.</li>
+</ol>
+<p><strong>Security Considerations</strong></p>
+<p>It is recognized by the DAO as well as the Ambassador signatories that the above proposal carries certain risks. It would require only a short period of time for the Ambassador team to perform the process described above.</p>
+<p>A two of three MultiSig makes for a quick and smooth mechanical process. It also requires an amount of trust by the wider DAO that the Ambassador signatories will indeed carry out the steps as described above. The signatories on the Ambassador team consist of <strong>inalittlewhile</strong>, <strong>arcology</strong>, and <strong>coach</strong>. If this proposal is approved the signatory roster will include <strong>gruad</strong> and <strong>poopster</strong> as backups.</p>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p><strong>Ratification of this proposal via quorum on a snapshot vote would trigger the main SU safe to send 45,000 UMA tokens to the Ambassador Gnosis MultiSig.</strong></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 01 Mar 2022 17:58:07 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-998-1</guid>
+        <source url=".. Mechanics of suINT KPI Options (PASSED)</source>
+      </item>
+  </channel>
+</rss>

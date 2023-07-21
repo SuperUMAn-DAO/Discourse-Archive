@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse=".. xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SuperUMAns Discourse - Latest posts</title>
+    <link>..
+    <description>Latest posts</description>
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates (PASSED)</title>
+        <dc:creator><![CDATA[@FruityCup FruityCup]]></dc:creator>
+        <description><![CDATA[ <p><strong>SUDAO-IP-21</strong></p>
+<p><strong>Membership, Treasury, and Voting Updates</strong></p>
+<p><strong>Rationale</strong></p>
+<p>As part of the DAO restructuring there are multiple updates needed in order for us to move forward.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<ul>
+<li>
+<p>Add a discord role called, ‘Core SuperUMAns’ to those that continue to show up and contribute to the DAO. Core SuperUMAns: Bananchain, Deadcoin, EverythingBlockchain, Fruitycup, gmsteele, Gruad, Heruvim78, neondaemon, Poopster, PVMihalache, Victorfela, Surftranquille</p>
+</li>
+<li>
+<p>Update to the SuperUMAn role: The SuperUMAn role is for members that might not have the time nor desire to contribute to the SU DAO but are still considered part of the community. If one wishes to move up and have voting rights to Core SuperUMAn it must be voted upon by the Core SuperUMAns (51%) on discord. Everyone with the current SU role and not part of the Core SU role will remain SuperUMAns.</p>
+</li>
+<li>
+<p>Update for the treasury team so that when investment decisions are made in their meetings they don’t need consensus from the entire DAO. The signers on the main treasury eth wallet and the treasury team polygon wallet are the decision makers and executioners of any proposed transactions.</p>
+</li>
+<li>
+<p>Voting updates to change from a multi tiered structure to a simpler flat structure. SU NFTs will no longer be used to reach consensus. Whenever a decision needs to be made it will be done through a discord poll. Only Core SuperUMAns will be allowed to vote (51%). Polls will be up for 3-7 days and require no quorum. Core SuperUMAns must be tagged in the discord when the proposal goes up to be valid.</p>
+</li>
+<li>
+<p>Updating DAO recruitment to be free flowing. When members are needed we can start a recruitment campaign and outline the process without needing to add it to our design principles. When we don’t have a need for more members we can simply stop and place recruitment on pause.</p>
+</li>
+<li>
+<p>Removal of UMAsters and Recruits from our design principles.</p>
+</li>
+<li>
+<p>Update how the main Treasury wallet is managed, going from automatic dispersal with safesnap to manual dispersal via multisig.</p>
+</li>
+<li>
+<p>If ratified there will be a follow-up proposal that will update our Design Principles to reflect all the changes.</p>
+</li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>NONE</p>
+<p><a href=".. to view the poll.</a></p> ]]></description>
+        <link>..
+        <pubDate>Wed, 05 Apr 2023 17:37:27 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1710</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates [PASSED]</title>
+        <dc:creator><![CDATA[@Heruvim78 Heruvim78]]></dc:creator>
+        <description><![CDATA[ <p>Seems good to me. What can I do to help?</p> ]]></description>
+        <link>..
+        <pubDate>Mon, 03 Apr 2023 21:00:02 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1708</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates [PASSED]</title>
+        <dc:creator><![CDATA[@gmsteele gmsteele]]></dc:creator>
+        <description><![CDATA[ <p>Yessir good realignment</p> ]]></description>
+        <link>..
+        <pubDate>Mon, 03 Apr 2023 18:37:26 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1707</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates [PASSED]</title>
+        <dc:creator><![CDATA[@Everythingblockchain Everythingblockchain]]></dc:creator>
+        <description><![CDATA[ <p>As much as I support this proposal primarily for the lack of interest from other DAO members, I am still curious to hear thoughts from folks who are not Core SuperUmans atm.</p>
+<p>The proposal’s aim, as I understand, is to be ree-flowing, especially wrt decision making. We have had reduced participation from other DAO members and this could help ease that.</p> ]]></description>
+        <link>..
+        <pubDate>Mon, 03 Apr 2023 17:03:52 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1706</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates [PASSED]</title>
+        <dc:creator><![CDATA[@PVMihalache PVMihalache]]></dc:creator>
+        <description><![CDATA[ <p>Totally support this!</p> ]]></description>
+        <link>..
+        <pubDate>Mon, 03 Apr 2023 15:53:16 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1705</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates [PASSED]</title>
+        <dc:creator><![CDATA[@poopster poopster]]></dc:creator>
+        <description><![CDATA[ <p>i concur with the OP. great proposal</p> ]]></description>
+        <link>..
+        <pubDate>Mon, 03 Apr 2023 15:49:56 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1704</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates [PASSED]</title>
+        <dc:creator><![CDATA[@FruityCup FruityCup]]></dc:creator>
+        <description><![CDATA[ <p><strong>SUDAO-IP-21</strong></p>
+<p><strong>Membership, Treasury, and Voting Updates</strong></p>
+<p><strong>Rationale</strong></p>
+<p>As part of the DAO restructuring there are multiple updates needed in order for us to move forward.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<ul>
+<li>
+<p>Add a discord role called, ‘Core SuperUMAns’ to those that continue to show up and contribute to the DAO. Core SuperUMAns: Bananchain, Deadcoin, EverythingBlockchain, Fruitycup, gmsteele, Gruad, Heruvim78, neondaemon, Poopster, PVMihalache, Victorfela, Surftranquille</p>
+</li>
+<li>
+<p>Update to the SuperUMAn role: The SuperUMAn role is for members that might not have the time nor desire to contribute to the SU DAO but are still considered part of the community. If one wishes to move up and have voting rights to Core SuperUMAn it must be voted upon by the Core SuperUMAns (51%) on discord. Everyone with the current SU role and not part of the Core SU role will remain SuperUMAns.</p>
+</li>
+<li>
+<p>Update for the treasury team so that when investment decisions are made in their meetings they don’t need consensus from the entire DAO. The signers on the main treasury eth wallet and the treasury team polygon wallet are the decision makers and executioners of any proposed transactions.</p>
+</li>
+<li>
+<p>Voting updates to change from a multi tiered structure to a simpler flat structure. SU NFTs will no longer be used to reach consensus. Whenever a decision needs to be made it will be done through a discord poll. Only Core SuperUMAns will be allowed to vote (51%). Polls will be up for 3-7 days and require no quorum. Core SuperUMAns must be tagged in the discord when the proposal goes up to be valid.</p>
+</li>
+<li>
+<p>Updating DAO recruitment to be free flowing. When members are needed we can start a recruitment campaign and outline the process without needing to add it to our design principles. When we don’t have a need for more members we can simply stop and place recruitment on pause.</p>
+</li>
+<li>
+<p>Removal of UMAsters and Recruits from our design principles.</p>
+</li>
+<li>
+<p>Update how the main Treasury wallet is managed, going from automatic dispersal with safesnap to manual dispersal via multisig.</p>
+</li>
+<li>
+<p>If ratified there will be a follow-up proposal that will update our Design Principles to reflect all the changes.</p>
+</li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>NONE</p> ]]></description>
+        <link>..
+        <pubDate>Mon, 03 Apr 2023 15:41:18 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1703</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes (PASSED)</title>
+        <dc:creator><![CDATA[@PVMihalache PVMihalache]]></dc:creator>
+        <description><![CDATA[ <p>That 100% until now looks good</p> ]]></description>
+        <link>..
+        <pubDate>Fri, 11 Nov 2022 05:40:44 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1694</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes (PASSED)</title>
+        <dc:creator><![CDATA[@FruityCup FruityCup]]></dc:creator>
+        <description><![CDATA[ <p><strong>SUDAO-IP-20:</strong></p>
+<p><strong>Snapshot Quorum Change</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>This document is to ratify our current Snapshot Quorum as written in our SuperUMAn DAO Design Principles.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<ul>
+<li>Change snapshot quorum from needing 50% of total voting power to no quorum.</li>
+<li>There still needs to be a simple majority (51%) to pass a proposal through snapshot.</li>
+<li>Remove quorum from the “Formal Proposal and Poll” proposal stage. It will simply need a simple majority (51%) to pass.</li>
+<li>Change the Discourse poll minimum timeline from 5-7 days to 3-7 days which matches the Snapshot phase.</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Governance of the SuperUMAn DAO - Stage 3 Formal Proposal and Poll</strong></p>
+<p><strong>From:</strong></p>
+<p>A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No<br>
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for 5-7 days. Formal proposals will be announced on a Discord announcements channel</li>
+</ul>
+<p><strong>To:</strong></p>
+<p>A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No<br>
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. <strong>The poll will run for 3-7 days</strong>. Formal proposals will be announced on a Discord announcements channel</li>
+</ul>
+<p><strong>Under Governance of the SuperUMAn DAO - Stage 4 Snapshot Vote</strong></p>
+<p><strong>From:</strong></p>
+<p>If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO. The snapshot will be open for 3-7 days.</p>
+<p><strong>To:</strong></p>
+<p>If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. <strong>This snapshot vote requires a 51% majority and no quorum.</strong> The snapshot will be open for 3-7 days.</p>
+<p><strong>Under Governance of the SuperUMAn DAO - Normal Track / Regular Governance</strong></p>
+<p><strong>From:</strong></p>
+<p>The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify the membership tiers which will be reflected in Discord roles in order that the members meeting the quorum requirement can be identified. The minimum amount of time it would take for a proposal to be passed is 8 days.</p>
+<p><strong>To:</strong></p>
+<p>The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify <strong>members who are eligible to participate in the governance process.</strong> The minimum amount of time it would take for a proposal to be passed is <strong>6</strong> days.</p>
+<p><strong>What on-chain actions might this proposal entail:</strong> NONE</p>
+<p><a href=".. to view the poll.</a></p> ]]></description>
+        <link>..
+        <pubDate>Tue, 08 Nov 2022 01:07:44 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1681</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[@gr8ness Gr8ness]]></dc:creator>
+        <description><![CDATA[ <p>Fruity i love and salute all you do</p> ]]></description>
+        <link>..
+        <pubDate>Tue, 08 Nov 2022 00:51:41 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1679</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[@Victorfela Victorfela]]></dc:creator>
+        <description><![CDATA[ <p>Neat! Thank you Fruity.</p> ]]></description>
+        <link>..
+        <pubDate>Tue, 08 Nov 2022 00:40:47 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1678</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[@PVMihalache PVMihalache]]></dc:creator>
+        <description><![CDATA[ <p>Let’s make SU great again!</p> ]]></description>
+        <link>..
+        <pubDate>Mon, 07 Nov 2022 23:04:10 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1677</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[@FruityCup FruityCup]]></dc:creator>
+        <description><![CDATA[ <p><strong>SUDAO-IP-20:</strong></p>
+<p><strong>Snapshot Quorum Change</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>This document is to ratify our current Snapshot Quorum as written in our SuperUMAn DAO Design Principles.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<ul>
+<li>Change snapshot quorum from needing 50% of total voting power to no quorum.</li>
+<li>There still needs to be a simple majority (51%) to pass a proposal through snapshot.</li>
+<li>Remove quorum from the “Formal Proposal and Poll” proposal stage. It will simply need a simple majority (51%) to pass.</li>
+<li>Change the Discourse poll minimum timeline from 5-7 days to 3-7 days which matches the Snapshot phase.</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Governance of the SuperUMAn DAO - Stage 3 Formal Proposal and Poll</strong></p>
+<p><strong>From:</strong></p>
+<p>A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No<br>
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for 5-7 days. Formal proposals will be announced on a Discord announcements channel</li>
+</ul>
+<p><strong>To:</strong></p>
+<p>A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No<br>
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. <strong>The poll will run for 3-7 days</strong>. Formal proposals will be announced on a Discord announcements channel</li>
+</ul>
+<p><strong>Under Governance of the SuperUMAn DAO - Stage 4 Snapshot Vote</strong></p>
+<p><strong>From:</strong></p>
+<p>If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO. The snapshot will be open for 3-7 days.</p>
+<p><strong>To:</strong></p>
+<p>If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. <strong>This snapshot vote requires a 51% majority and no quorum.</strong> The snapshot will be open for 3-7 days.</p>
+<p><strong>Under Governance of the SuperUMAn DAO - Normal Track / Regular Governance</strong></p>
+<p><strong>From:</strong></p>
+<p>The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify the membership tiers which will be reflected in Discord roles in order that the members meeting the quorum requirement can be identified. The minimum amount of time it would take for a proposal to be passed is 8 days.</p>
+<p><strong>To:</strong></p>
+<p>The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify <strong>members who are eligible to participate in the governance process.</strong> The minimum amount of time it would take for a proposal to be passed is <strong>6</strong> days.</p>
+<p><strong>What on-chain actions might this proposal entail:</strong> NONE</p> ]]></description>
+        <link>..
+        <pubDate>Mon, 07 Nov 2022 22:50:12 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1676</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-19: Zero-based Budgeting Infrastructure [PASSED]</title>
+        <dc:creator><![CDATA[@FruityCup FruityCup]]></dc:creator>
+        <description><![CDATA[ <p><strong>SUDAO-IP-19:</strong></p>
+<p><strong>Zero-based Budgeting Infrastructure</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>This document is to ratify our current budgeting structure as written in our SuperUMAn DAO Design Principles.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<ul>
+<li>All teams will request all their budgetary needs from the Treasury team.</li>
+<li>Every team’s multisig funds will be moved to the Treasury teams multisig.</li>
+<li>The treasury team will set aside $X of their choosing for operational costs / grants / emergencies.</li>
+<li>The treasury team will come up with plans on how to utilize the rest of the leftover funds.</li>
+<li>There will be an announcement made to the rest of the DAO of what the Treasury team plans on doing with these leftover funds. It will then be put to a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Governance of the SuperUMAn DAO - Preamble</strong></p>
+<p><strong>From:</strong></p>
+<p>Topics that require broad consensus for the DAO itself or require the use of our resources should go through governance, including requests for the treasury to unlock tranches of funds. Strategy management decisions and membership management would also be confirmed by governance.</p>
+<p><strong>To:</strong></p>
+<p>Topics that require broad consensus for the DAO itself or require the use of our resources should go through <strong>our formal</strong> governance <strong>process</strong>, including requests for the <strong>SuperUMAn DAO</strong> treasury to unlock tranches of funds. <strong>This will not include funds the treasury team manages in its multisig which will have its own separate consensus process</strong>. Strategy management decisions and membership management would also be confirmed by governance.</p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Funding Allocation for Teams</strong></p>
+<p><strong>From:</strong></p>
+<p>It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget each quarter, a minimum of three weeks before the end of epoch. These requests would be aggregated together and then put forward as a governance proposal.</p>
+<p>It would be expected that each team budget request should not exceed a value of greater than $2500 (excluding any team based compensation). Funds in excess of this value should be considered a bounty or grant project and would require a dedicated governance proposal for the funds to be released. Team funds will be managed through a multi-sig composed of members of that team in a 2 of 3 structure.</p>
+<p><strong>To:</strong></p>
+<p>It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget as needed to the <strong>Treasury team. It will be dispersed from the Treasury team’s multisig if approved by the treasury team.</strong> Team funds will be managed through a multi-sig composed of members of that team in <strong>at least</strong> a 2 of 3 structure.</p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Emergency Funds:</strong></p>
+<p><strong>From:</strong></p>
+<p><strong>Emergency Funds</strong></p>
+<p>Additionally there should be a “petty cash” wallet controlled by the Treasury team through a 2 of 3 multisig, initially funded to the value of $25k that can be used as an emergency budget. This will be replenished through the governance process. Requests from DAO members to the emergency fund should only be made for activities which can demonstrate a critical need which is time-sensitive, which will then be evaluated by the Treasury team. Should the request be granted, a retrospective should be conducted to ensure emergency requests are minimised.</p>
+<p><strong>To:</strong></p>
+<p><strong>“Petty cash” Funds</strong></p>
+<p>Additionally there should be a “petty cash” wallet controlled by the Treasury team <strong>multisig of an amount of their choosing for operational costs / grants / emergencies. The multisig must at least be a 2 of 3.</strong></p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Treasury Governance:</strong></p>
+<p><strong>From:</strong></p>
+<p>The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure.</p>
+<p><strong>To:</strong></p>
+<p>The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure. <strong>The Treasury team will come up with a plan to utilize funds that are within its multisig and not part of its “petty cash” stash. It will make an announcement to the DAO of its plans for the funds and set up a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>: NONE</p>
+<p><a href=".. to view the poll.</a></p> ]]></description>
+        <link>..
+        <pubDate>Tue, 20 Sep 2022 15:04:04 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1669</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-19: Zero-based Budgeting Infrastructure (PASSED)</title>
+        <dc:creator><![CDATA[@ifun ifun]]></dc:creator>
+        <description><![CDATA[ <p>Makes alota sense, in support of this</p> ]]></description>
+        <link>..
+        <pubDate>Tue, 20 Sep 2022 14:16:06 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1667</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-19: Zero-based Budgeting Infrastructure (PASSED)</title>
+        <dc:creator><![CDATA[@PVMihalache PVMihalache]]></dc:creator>
+        <description><![CDATA[ <p>All for it! Let’s embrace the change!</p> ]]></description>
+        <link>..
+        <pubDate>Tue, 20 Sep 2022 14:00:30 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1666</guid>
+      </item>
+      <item>
+        <title>SUDAO-IP-19: Zero-based Budgeting Infrastructure (PASSED)</title>
+        <dc:creator><![CDATA[@FruityCup FruityCup]]></dc:creator>
+        <description><![CDATA[ <p><strong>SUDAO-IP-19:</strong></p>
+<p><strong>Zero-based Budgeting Infrastructure</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>This document is to ratify our current budgeting structure as written in our SuperUMAn DAO Design Principles.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<ul>
+<li>All teams will request all their budgetary needs from the Treasury team.</li>
+<li>Every team’s multisig funds will be moved to the Treasury teams multisig.</li>
+<li>The treasury team will set aside $X of their choosing for operational costs / grants / emergencies.</li>
+<li>The treasury team will come up with plans on how to utilize the rest of the leftover funds.</li>
+<li>There will be an announcement made to the rest of the DAO of what the Treasury team plans on doing with these leftover funds. It will then be put to a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Governance of the SuperUMAn DAO - Preamble</strong></p>
+<p><strong>From:</strong></p>
+<p>Topics that require broad consensus for the DAO itself or require the use of our resources should go through governance, including requests for the treasury to unlock tranches of funds. Strategy management decisions and membership management would also be confirmed by governance.</p>
+<p><strong>To:</strong></p>
+<p>Topics that require broad consensus for the DAO itself or require the use of our resources should go through <strong>our formal</strong> governance <strong>process</strong>, including requests for the <strong>SuperUMAn DAO</strong> treasury to unlock tranches of funds. <strong>This will not include funds the treasury team manages in its multisig which will have its own separate consensus process</strong>. Strategy management decisions and membership management would also be confirmed by governance.</p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Funding Allocation for Teams</strong></p>
+<p><strong>From:</strong></p>
+<p>It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget each quarter, a minimum of three weeks before the end of epoch. These requests would be aggregated together and then put forward as a governance proposal.</p>
+<p>It would be expected that each team budget request should not exceed a value of greater than $2500 (excluding any team based compensation). Funds in excess of this value should be considered a bounty or grant project and would require a dedicated governance proposal for the funds to be released. Team funds will be managed through a multi-sig composed of members of that team in a 2 of 3 structure.</p>
+<p><strong>To:</strong></p>
+<p>It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget as needed to the <strong>Treasury team. It will be dispersed from the Treasury team’s multisig if approved by the treasury team.</strong> Team funds will be managed through a multi-sig composed of members of that team in <strong>at least</strong> a 2 of 3 structure.</p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Emergency Funds:</strong></p>
+<p><strong>From:</strong></p>
+<p><strong>Emergency Funds</strong></p>
+<p>Additionally there should be a “petty cash” wallet controlled by the Treasury team through a 2 of 3 multisig, initially funded to the value of $25k that can be used as an emergency budget. This will be replenished through the governance process. Requests from DAO members to the emergency fund should only be made for activities which can demonstrate a critical need which is time-sensitive, which will then be evaluated by the Treasury team. Should the request be granted, a retrospective should be conducted to ensure emergency requests are minimised.</p>
+<p><strong>To:</strong></p>
+<p><strong>“Petty cash” Funds</strong></p>
+<p>Additionally there should be a “petty cash” wallet controlled by the Treasury team <strong>multisig of an amount of their choosing for operational costs / grants / emergencies. The multisig must at least be a 2 of 3.</strong></p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Treasury Governance:</strong></p>
+<p><strong>From:</strong></p>
+<p>The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure.</p>
+<p><strong>To:</strong></p>
+<p>The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure. <strong>The Treasury team will come up with a plan to utilize funds that are within its multisig and not part of its “petty cash” stash. It will make an announcement to the DAO of its plans for the funds and set up a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>: NONE</p> ]]></description>
+        <link>..
+        <pubDate>Tue, 20 Sep 2022 13:46:46 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1665</guid>
+      </item>
+  </channel>
+</rss>

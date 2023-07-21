@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+    <link>..
+    <description>**SUDAO-IP-4**
+
+**Governance SnapShot Quorum**
+
+**Rationale**
+
+* As it stands the Snapshot quorum is fully dependent on how many members have voted on the Discourse.
+* With weighted voting it makes more sense for quorum to be 50% of the total voting power of the entire DAO.
+* Currently to increase the chance of a proposal going through, you want less members to participate in the Discourse formal governance process to decrease the quorum on Snapshot
+* It would be beneficial to have good showings for every vote and to have the majority of members actively participating and be aware of any potential changes to the DAO.
+
+**Content of the Proposal**:
+
+Change the quorum on snapshot to 50% of the total voting power of the DAO from 50% of the number of members that voted on the discourse formal proposal.
+
+**Proposed amendment to Governance of the SuperUMAn DAO:**
+
+(The following would make a change within ‘Details of governance Mechanism’
+
+under stage 4 on the 2nd to last sentence. ‘Snapshot Vote’. As well as amend the quorum calculation process to the expedited governance track.)
+
+**Amendment to ‘Details of Governance Mechanism’:**
+
+**Sentence to be changed from:**
+
+This snapshot vote requires a 51% majority and a quorum of 50% of the number of people who voted on the discourse poll.
+
+**Sentence to be changed to:**
+
+This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO.
+
+**Amendment to ‘Expedited Governance Track’:**
+
+**Will change from:**
+
+The quorum for the snapshot vote (Stage 4) is 70% of voters from Stage 3;
+
+**Will change to:**
+
+The quorum for the Snapshot vote (Stage 4) is 70% of total voting power of the entire DAO;
+
+**What on-chain actions might this proposal entail**:
+
+None at this time.
+
+[poll type=multiple results=always min=1 max=1 public=true chartType=bar]
+# Would you formally support this proposal?
+* Yes
+* More Discussion Needed (Please leave a comment below)
+* No
+[/poll]</description>
+    
+    <lastBuildDate>Wed, 16 Feb 2022 00:19:03 +0000</lastBuildDate>
+    <category>Formal Proposal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 16 Feb 2022 11:03:55 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-24</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[PVMihalache]]></dc:creator>
+        <description><![CDATA[
+            <p>33 votes… Good turn-up at the pool</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 16 Feb 2022 00:19:03 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-23</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>All membership in the DAO’s total voting power! When the proposal went up in discord I made sure to ask about the 70% and it seemed like people were in favor at the time. Of course we should continue these discussions but just know that if we do run into problems with quorum for either governance track we can always change it!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 14:02:36 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-22</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>As governance officially started within the last 2 weeks its too early to say if were already struggling with voter participation, for instance the last 3 governance votes have all passed and have been over the 50% quorum which is preset in snapshot!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 14:00:14 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-21</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey surf n turf! As I mentioned before we can always adjust these numbers if we find it to be too difficult or too easy to reach quorum!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 13:57:42 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-20</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[gruad]]></dc:creator>
+        <description><![CDATA[
+            <p>Small nit I don’t know the difference between “in the DAO” and “in the entire DAO” so I would as that the two just be made consistent (or if there is a difference it is made clearer). My larger concern is whether we have discussed the specific percentages enough for expedited process.  I agree with others that perhaps we can reference existing DAOs success with 70% (if available) and think a bit about whether it can be gamed (or needs to be higher/lower for other reasons).</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 13:43:16 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-19</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[Inalittlewhile1]]></dc:creator>
+        <description><![CDATA[
+            <p>I do like the idea of including all voting power of the DAO, though the comments raise good points. Are these quorums too high? If a change means we struggle to pass proposals at this early point, that wouldn’t be good. Maybe we should wait on this to see how our votes are going?</p>
+<p>We are changing parts of governance without giving it much of a trial first. Maybe this proposal should be revisited with altered terms in the not too distant future?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 13:11:24 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-18</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[Victorfela]]></dc:creator>
+        <description><![CDATA[
+            <p>I do agree with what Surf said here. And this is a big concern as for expedited proposals to move quickly a 70% quorum might not be too flexible as time is of the essence. And we can’t deny the fact that there are still struggles surrounding voting participation.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 12:43:59 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-17</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[Berry]]></dc:creator>
+        <description><![CDATA[
+            <p>Much of the discussion isn’t based on if this is a reasonable change, but rather the basis for the percentages in the first place.</p>
+<p>I’m in favour of the changes. If we become unstuck we can revisit.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 11:47:25 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-16</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[SurfTranquille]]></dc:creator>
+        <description><![CDATA[
+            <p>It also seems to me that 70% is a bit much. Especially for expedited proposals where time is of the essence. Failing to reach quorum might actually have the opposite effect of what is needed when in emergency situations…</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 11:07:03 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-15</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[Bananachain_Nanner]]></dc:creator>
+        <description><![CDATA[
+            <p>How about one introduces sunset clauses - meaning that a proposal is only valid for a certain amout of time (1 year e.g.) - to see how it works in practice - after which it has to be revistited and then either passed permanently or adapted - perhaps again with sunshine clause. As was pointed out - voting power rests predominantly with UMAsters. Voting and quorum requirements if too tightly written, can lead to an impasse.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 15 Feb 2022 11:04:01 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-14</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[arcology]]></dc:creator>
+        <description><![CDATA[
+            <p>We can do a quick back of the envelope calculation.</p>
+<p>From a conversation with Henry on Feb 8, there are currently 81 members:<br>
+18 UMs, 25 SUs, 38 Recruits.</p>
+<p>Given that UMs have 20 votes, SUs have 10 and Recruits have 1, the total DAO voting power would be:</p>
+<p>(18 x 20 + 25 x 10 + 38 x 1) = <strong>648</strong></p>
+<p>To arrive at 50% of this number would be 324, so at least 16 UMs and 1 SU have to vote to reach majority, or some combination thereof.</p>
+<p>Note: for expedited governance you need 70% voting power which is 454, so at least all UMs + 10 SUs need to vote at a minimum to reach quorum!</p>
+<p>As the voting power is skewed towards UMs, it is important that SUs to vote too!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 14 Feb 2022 06:52:26 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-13</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>This is one of those situations where we wont exactly know if 50% is either too difficult to acquire or too easy until we go through the process! UMAster numbers are dependent on the total membership of the DAO. So as long as the majority of UMAsters are participating on snapshot 50% should be perfectly doable! But as I said before we wont really know until we give it a chance. <img src=".. title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 13 Feb 2022 16:04:18 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-12</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[Ap0ll0517]]></dc:creator>
+        <description><![CDATA[
+            <p>What would the new numbers look like? I think we should evaluate if we can meet this threshold with the new proposed numbers. Like look at the total voting power and also how it would be distributed. Then we can determine how many participants we would need in order to pass something. Will 50% quorum mean 16 people need to vote or 25 or 9? Would 70% be achievable with the new voting power structure?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 13 Feb 2022 15:49:29 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-11</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[neondaemon]]></dc:creator>
+        <description><![CDATA[
+            <p>OK  yes I was just trying to think ahead when our DAO is larger.<br>
+As we’ve talked about before  getting people to vote is a challenge. May need a carrot and stick approach though more carrots (poaps etc) is preferable <img src=".. title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sat, 12 Feb 2022 16:33:21 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-10</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey neon these are very valid concerns! As smiley said if all UMAsters participated in governance currently they would be able to pass a proposal, actually I think its at about 16/18 UMAsters. These numbers will obviously shift and if it starts to become an issue we can always propose something like youre suggesting at 33% and 50%. But for the time being it shouldnt be a big issue!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sat, 12 Feb 2022 15:56:18 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-9</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Right now its the current number! After every membership tier change we will be updating this number. Hope that answers your question. <img src=".. title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sat, 12 Feb 2022 15:54:18 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-8</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[Ap0ll0517]]></dc:creator>
+        <description><![CDATA[
+            <p>Is this number including new amounts of voting power that will come with the new NFTs? Or the current amounts that are included with the current NFTs?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sat, 12 Feb 2022 14:36:49 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-7</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[smiley7]]></dc:creator>
+        <description><![CDATA[
+            <p>I think it shouldn’t be such a big issue. I mean, according to Active status doc which was ratified recently, there’s 18 active UMAsters with total voting power of 360 and 20 active SuperUMAns with total voting power of 400 which means that even if only half of them votes qourum should be reached with majority. At least for regular governance.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sat, 12 Feb 2022 10:53:25 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-6</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[Heruvim78]]></dc:creator>
+        <description><![CDATA[
+            <p>what are the percentages in other daos, anyone know, just to compare?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sat, 12 Feb 2022 10:31:43 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-5</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[neondaemon]]></dc:creator>
+        <description><![CDATA[
+            <p>Seeking a quorum of 50% of the voting power of the DAO for normal proposals and 70% for expedited proposals is a big ask. Maybe consider 33% and 50% respectively?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sat, 12 Feb 2022 10:14:21 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-4</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey there! The current total is 648.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sat, 12 Feb 2022 10:08:19 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-3</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[Ap0ll0517]]></dc:creator>
+        <description><![CDATA[
+            <p>What is the voting power within the DAO?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 11 Feb 2022 19:41:15 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-2</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-4: Governance Snapshot Quorum ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-4</strong></p>
+<p><strong>Governance SnapShot Quorum</strong></p>
+<p><strong>Rationale</strong></p>
+<ul>
+<li>As it stands the Snapshot quorum is fully dependent on how many members have voted on the Discourse.</li>
+<li>With weighted voting it makes more sense for quorum to be 50% of the total voting power of the entire DAO.</li>
+<li>Currently to increase the chance of a proposal going through, you want less members to participate in the Discourse formal governance process to decrease the quorum on Snapshot</li>
+<li>It would be beneficial to have good showings for every vote and to have the majority of members actively participating and be aware of any potential changes to the DAO.</li>
+</ul>
+<p><strong>Content of the Proposal</strong>:</p>
+<p>Change the quorum on snapshot to 50% of the total voting power of the DAO from 50% of the number of members that voted on the discourse formal proposal.</p>
+<p><strong>Proposed amendment to Governance of the SuperUMAn DAO:</strong></p>
+<p>(The following would make a change within ‘Details of governance Mechanism’</p>
+<p>under stage 4 on the 2nd to last sentence. ‘Snapshot Vote’. As well as amend the quorum calculation process to the expedited governance track.)</p>
+<p><strong>Amendment to ‘Details of Governance Mechanism’:</strong></p>
+<p><strong>Sentence to be changed from:</strong></p>
+<p>This snapshot vote requires a 51% majority and a quorum of 50% of the number of people who voted on the discourse poll.</p>
+<p><strong>Sentence to be changed to:</strong></p>
+<p>This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO.</p>
+<p><strong>Amendment to ‘Expedited Governance Track’:</strong></p>
+<p><strong>Will change from:</strong></p>
+<p>The quorum for the snapshot vote (Stage 4) is 70% of voters from Stage 3;</p>
+<p><strong>Will change to:</strong></p>
+<p>The quorum for the Snapshot vote (Stage 4) is 70% of total voting power of the entire DAO;</p>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>None at this time.</p>
+<p><a href=".. to view the poll.</a></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Thu, 10 Feb 2022 14:55:39 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-624-1</guid>
+        <source url=".. Governance Snapshot Quorum ( PASSED )</source>
+      </item>
+  </channel>
+</rss>

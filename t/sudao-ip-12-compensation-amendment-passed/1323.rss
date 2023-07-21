@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-12: Compensation Amendment ( PASSED )</title>
+    <link>..
+    <description>**SUDAO-IP-12**
+
+**Compensation Amendment**
+
+**Rationale:**
+
+In our [SuperUMAn DAO - Design Principles V2](.. under Compensation to Contributors it is stated that, “there should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters”. This doesn’t allow us the flexibility to make changes to our compensation as needed. This isn’t to say there will not/never be a stable allocation but to allow flexibility to pay out in $UMA instead of stables. We also need to be mindful of who is to receive some sort of ‘stable’ monthly compensation whether it be $UMA tokens or stable coins. This would allow us to be more intentional with how we distribute the monthly ‘stables’ compensation.
+
+**Content of the Proposal:**
+
+This document is to ratify stablecoin compensation.
+
+* Change the wording in [SuperUMAn DAO - Design Principles V2](.. under Compensation to Core Contributors to allow for more flexibility pertaining to compensation.Check under the “Changes to” section in this document.
+
+**Reasoning:**
+
+* This would allow us the flexibility to payout in $UMA tokens or stablecoins.
+* This also means that we can be more intentional with who would receive a monthly ‘stable’ compensation whether that be $UMA or $USDC.
+* Takes pressure off having to sell $UMA for stablecoins.
+* Allows flexibility for our Budget and Compensation plan.
+
+**Changes to** [SuperUMAn DAO - Design Principles V2](..
+
+**Under Compensation to Contributors:**
+
+**From:**
+
+It would be expected that the compensation of members of the SuperUMAn DAO should be centrally allocated from the treasury. While the precise allocation and mechanism for this compensation will be the subject of a governance proposal, it is suggested that such an allocation should adhere to some basic principles:
+
+* There should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters
+* Quarterly KPI options should be available for all DAO members
+* There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.
+
+**To:**
+
+It would be expected that the compensation of members of the SuperUMAn DAO should be centrally allocated from the treasury. The precise allocation and mechanism for this compensation will be subject **to our budget and compensation plan which needs to be ratified each quarter through our governance process.The specific currencies in the compensation plan can include, but not limited to, a combination of stablecoins, KPI options, and native tokens.** It is suggested that such an allocation should adhere to some basic principles:
+
+* **Quarterly KPI options should be available for SuperUMAn tier and above.**
+* **There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.**
+* **A fixed monthly amount of but not limited to $USDC and/or $UMA tokens to be considered for core contributors each quarter.**
+
+**What on-chain actions might this proposal entail:**
+
+None at this time
+
+[poll type=multiple results=always min=1 max=1 public=true chartType=bar close=2022-04-26T16:30:00.000Z]
+# **Would you formally support this poll?**
+* **Yes**
+* **More Discussion Needed (Please leave a comment below)**
+* **No**
+[/poll]</description>
+    
+    <lastBuildDate>Sun, 24 Apr 2022 11:27:45 +0000</lastBuildDate>
+    <category>Formal Proposal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-12: Compensation Amendment ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 24 Apr 2022 11:42:47 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1323-4</guid>
+        <source url=".. Compensation Amendment ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-12: Compensation Amendment ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey DC thanks so much for this feedback! I think these are changes that can be added to the design principles separately when we create a proposal to update some of the more outdated or poorly worded sections of that document! Thanks for the feedback!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 24 Apr 2022 11:27:45 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1323-3</guid>
+        <source url=".. Compensation Amendment ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-12: Compensation Amendment ( PASSED )</title>
+        <dc:creator><![CDATA[Deadcoin]]></dc:creator>
+        <description><![CDATA[
+            <p>I vote yes, but wanted to note that I ask some wording be changed before this becomes an official proposal to be voted on and go on record.<br>
+Changes I would kindly ask for:</p>
+<ol>
+<li>
+<p>Can we use emphasis <em><strong>and</strong></em> Bold from now on instead of just <strong>bold</strong>? It is hard to quickly differentiate the difference for those with any eyesight disabilities.</p>
+</li>
+<li>
+<p>It would be expected that the compensation of members of the SuperUMAn DAO should be <em><strong>centrally</strong></em> allocated from the treasury.</p>
+</li>
+</ol>
+<p><em><strong>Not all compensation is centralized to our treasury. Some will be paid by Tip.cc wallet and individual team multis.( A majority of comp will be allocated…)</strong></em></p>
+<ol start="3">
+<li>I would also ask to change “native tokens” to UMA tokens.</li>
+</ol>
+<p><em><strong>We are separate from UMA, as Across is. Unfortunately, we have no token.</strong></em><br>
+<img src=".. title=":v:" class="emoji only-emoji" alt=":v:" loading="lazy" width="20" height="20"></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 22 Apr 2022 12:44:15 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1323-2</guid>
+        <source url=".. Compensation Amendment ( PASSED )</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-12: Compensation Amendment ( PASSED )</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-12</strong></p>
+<p><strong>Compensation Amendment</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>In our <a href=".. DAO - Design Principles V2</a> under Compensation to Contributors it is stated that, “there should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters”. This doesn’t allow us the flexibility to make changes to our compensation as needed. This isn’t to say there will not/never be a stable allocation but to allow flexibility to pay out in $UMA instead of stables. We also need to be mindful of who is to receive some sort of ‘stable’ monthly compensation whether it be $UMA tokens or stable coins. This would allow us to be more intentional with how we distribute the monthly ‘stables’ compensation.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<p>This document is to ratify stablecoin compensation.</p>
+<ul>
+<li>Change the wording in <a href=".. DAO - Design Principles V2</a> under Compensation to Core Contributors to allow for more flexibility pertaining to compensation.Check under the “Changes to” section in this document.</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>This would allow us the flexibility to payout in $UMA tokens or stablecoins.</li>
+<li>This also means that we can be more intentional with who would receive a monthly ‘stable’ compensation whether that be $UMA or $USDC.</li>
+<li>Takes pressure off having to sell $UMA for stablecoins.</li>
+<li>Allows flexibility for our Budget and Compensation plan.</li>
+</ul>
+<p><strong>Changes to</strong> <a href=".. DAO - Design Principles V2</a>:</p>
+<p><strong>Under Compensation to Contributors:</strong></p>
+<p><strong>From:</strong></p>
+<p>It would be expected that the compensation of members of the SuperUMAn DAO should be centrally allocated from the treasury. While the precise allocation and mechanism for this compensation will be the subject of a governance proposal, it is suggested that such an allocation should adhere to some basic principles:</p>
+<ul>
+<li>There should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters</li>
+<li>Quarterly KPI options should be available for all DAO members</li>
+<li>There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.</li>
+</ul>
+<p><strong>To:</strong></p>
+<p>It would be expected that the compensation of members of the SuperUMAn DAO should be centrally allocated from the treasury. The precise allocation and mechanism for this compensation will be subject <strong>to our budget and compensation plan which needs to be ratified each quarter through our governance process.The specific currencies in the compensation plan can include, but not limited to, a combination of stablecoins, KPI options, and native tokens.</strong> It is suggested that such an allocation should adhere to some basic principles:</p>
+<ul>
+<li><strong>Quarterly KPI options should be available for SuperUMAn tier and above.</strong></li>
+<li><strong>There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.</strong></li>
+<li><strong>A fixed monthly amount of but not limited to $USDC and/or $UMA tokens to be considered for core contributors each quarter.</strong></li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p>None at this time</p>
+<p><a href=".. to view the poll.</a></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 19 Apr 2022 16:29:52 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1323-1</guid>
+        <source url=".. Compensation Amendment ( PASSED )</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+    <link>..
+    <description>**SUDAO-IP-2**
+**Expedited Governance**
+Author: arcology
+
+**Executive Summary**
+This proposal adds an &#39;expedited governance&#39; track to allow proposals which are important and under time pressure to be ratified more quickly, with some exclusions.
+
+This proposal is not eligible for expedited governance (for obvious reasons).
+
+**Rationale/Motivation**
+The [current governance process](.. has a maximum timeframe of 21 days from start to finish for a prospective proposal to go through. This creates unnecessary overhead and time lost if the content of the proposal is important to the functioning of the DAO, and/or if the proposal in question is under time pressure to be executed. 
+
+An example is the delay of the enactment of Compound&#39;s code tweaks to patch the [overcompensation token incident](.. due to the typical governance process timeframe, where an expedited governance track can help reduce the effects of loss.
+
+**Content of the Proposal/Specification**:
+The expedited governance process overrides the existing governance procedure by removing the need for an optional temperature check and compulsory signal (Stage 1 and 2), by allowing a proposal to directly enter the formal proposal phase (Stage 3) for a shorter timeframe and also proceed to Snapshot phase (Phase 4), under a shorter timeframe given that the proposal passes up to this point.
+
+There are additional requirements to allow proposals to proceed under the expedited governance track:
+
+1. **The proposal in question must be eligible**. As of this writing, eligibility is open for all with the following exclusions:
+a. Proposals for membership status changes;
+b. Proposals for compensation level changes.
+2. **Authors must declare in the originating thread that they intend for the proposal to go through the expedited governance track.**
+3. **The quorum for the formal proposal (Stage 3) is limited and raised to 50% for all SUs and above** (ie superUMAns and UMAsters), with a **minimum endorsement from 5 UMAsters;**
+4. **The threshold for a Stage 3 passing vote needs to be a supermajority** (67% and above);
+5. **The quorum for the snapshot vote (Stage 4) is 75% of voters** from Stage 3;
+6. **The threshold for a Stage 4 passing vote is 80%.**
+7. **Stage 3 and Stage 4 timelines can be reduced to 48 hours each.**
+8. **If a vote fails in expedited governance at any point, the proposal in question cannot be placed again under expedited governance** and is required to go through the normal governance process.
+
+**Visual Guide**
+Please right click and open this image in new tab/window for full size.
+![governance flowchart|353x500](upload://qQX4jJDX8ITiiTp5lsnlCfso07Q.jpeg)
+
+
+[poll type=regular results=always chartType=bar groups=Recruits,Superumans,Umasters close=2022-02-08T16:00:00.000Z]
+# Would you be in favor of this &#39;Expedited Governance&#39; proposal?
+* Yes
+* More discussions needed
+* No
+[/poll]</description>
+    
+    <lastBuildDate>Fri, 04 Feb 2022 01:40:00 +0000</lastBuildDate>
+    <category>Signal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 07 Feb 2022 16:48:49 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-12</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[arcology]]></dc:creator>
+        <description><![CDATA[
+            <p>The formal proposal is now live here.</p>
+<aside class="quote quote-modified" data-post="1" data-topic="531">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img loading="lazy" alt="" width="20" height="20" src=".. class="avatar">
+    <a href=".. Expedited Governance (FORMAL PROPOSAL)</a> <a class="badge-wrapper  bullet" href=".. class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Once a signal proposal has received 5 likes to indicate that it has a level of support within the community, it can be posted as a formal proposal.">Formal Proposal</span></a>
+  </div>
+  <blockquote>
+    SUDAO-IP-2 
+Expedited Governance 
+Author: arcology 
+Status: Stage 2 - Formal Proposal 
+Executive Summary 
+This proposal adds an ‘expedited governance’ track to allow proposals which are important and under time pressure to be ratified more quickly, with some exclusions. 
+This proposal is not eligible for expedited governance (for obvious reasons). 
+Rationale/Motivation 
+The <a href=".. rel="noopener nofollow ugc">current governance process</a> has a maximum timeframe of 21 days from start to finish for a prospective proposal to go through…
+  </blockquote>
+</aside>
+
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 04 Feb 2022 01:40:00 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-11</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[arcology]]></dc:creator>
+        <description><![CDATA[
+            <p>The expedited governance proposal will be added as a rider clause in the original Principles document if passed.</p>
+<p>I will repost the proposal as-is for the Formal Proposal - appreciate if more UMAsters show their support by posting in favor - and those who voted ‘more discussions needed’ can kindly speak up about your concerns - I (and others here who support this) would be happy to talk through it to reach an agreeable solution.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 04 Feb 2022 01:34:24 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-10</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[Inalittlewhile1]]></dc:creator>
+        <description><![CDATA[
+            <p>It may be better if we just have a new poll as I think more about it. No harm.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Thu, 03 Feb 2022 18:27:24 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-9</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[Inalittlewhile1]]></dc:creator>
+        <description><![CDATA[
+            <p>Eight likes. Reading through the gov docs, only the Formal Proposal asks for a poll while the Signal is for a temp check.</p>
+<p>Anyhow, we have the support to move this from Signal to a Formal Proposal. It would be awesome if we could carry the poll over somehow. We may want to link to this poll in the Formal Proposal this time.</p>
+<p>Thoughts <a class="mention" href=".. ?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Thu, 03 Feb 2022 18:25:42 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-8</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[Inalittlewhile1]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for the summary of mitigation possible attack vectors. Assuming this proposal goes to snapshot and passes, will the final version be amended into our DAO Design Principals? Just wanted to verify that, and possibly add that to a final draft.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Thu, 03 Feb 2022 18:11:24 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-7</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[arcology]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi <a class="mention" href=".. great question!</p>
+<p>A governance attack is a valid concern. There are several ways to attempt to mitigate this:</p>
+<ol>
+<li>
+<p>You will need at least 5 UMAsters to endorse the proposal. Currently there are 18 so this means you will need at least 1/3 of them to activate this track. Of course - this can be raised further but I want to balance high barrier of entry vs nimbleness of going down this track (this is a fast track but I don’t want to overburden with governance hurdles either). Having said that I don’t want to see the UMAsters class having a mutiny…!</p>
+</li>
+<li>
+<p>The threshold for quorum is raised to 50% of the SUs (including UMAsters) - that’s about 20 people.</p>
+</li>
+<li>
+<p>The passing vote needs to be at least 2/3. While in a gov attack scenario a differing vote would not be likely, there is a timeframe alloted for countervotes to be cast, and even if Stage 3 passes, the Snapshot proposal is another step where the SU DAO can vote against it (and veto the proposal).</p>
+</li>
+<li>
+<p>Failed proposals cannot go through the fast track process again.</p>
+</li>
+</ol>
+<p>I hope this answers your questions - key control levers being high quorum, high passing vote and 2 step process. But we may want to initiate probably a circuit breaker in the form of a DAO-controlled emergency veto function, maybe Risk Labs might be able to come in here. Open to more suggestions.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 02 Feb 2022 02:23:20 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-5</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[poopster]]></dc:creator>
+        <description><![CDATA[
+            <p>I think at the least it merits further discussion. btw, well written post <a class="mention" href="..
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 02 Feb 2022 01:40:05 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-4</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[Inalittlewhile1]]></dc:creator>
+        <description><![CDATA[
+            <p>I think it’s a valid concern, but one that will have much less weight once we deploy Optimistic Governance. At that point, even an emergency vote would have a liveness period to be disputed. in reply to hash_errors comment.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 02 Feb 2022 00:15:56 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-3</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[hash_error]]></dc:creator>
+        <description><![CDATA[
+            <p>Are there any other foreseeable occasions that need to be included in step 1?<br>
+Could control of  the DAO’s future governance process by a cohort of organized voters exploit this in it’s current draft?</p>
+<p>I’m in support of the need being contemplated here.</p>
+<p>Just want to make sure a scenario where a group of umamasters couldn’t get together to rush through changes voting weights/rights to take control and then subsequently use standard governance process finish a takeover.</p>
+<p>As example.</p>
+<p>I’m sure ya’ll would never go there…but just in case…does a circuit breaker or additional items need to be added to 1?</p>
+<p>Thx</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 01 Feb 2022 19:53:59 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-2</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+        <dc:creator><![CDATA[arcology]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-2</strong><br>
+<strong>Expedited Governance</strong><br>
+Author: arcology</p>
+<p><strong>Executive Summary</strong><br>
+This proposal adds an ‘expedited governance’ track to allow proposals which are important and under time pressure to be ratified more quickly, with some exclusions.</p>
+<p>This proposal is not eligible for expedited governance (for obvious reasons).</p>
+<p><strong>Rationale/Motivation</strong><br>
+The <a href=".. rel="noopener nofollow ugc">current governance process</a> has a maximum timeframe of 21 days from start to finish for a prospective proposal to go through. This creates unnecessary overhead and time lost if the content of the proposal is important to the functioning of the DAO, and/or if the proposal in question is under time pressure to be executed.</p>
+<p>An example is the delay of the enactment of Compound’s code tweaks to patch the <a href=".. rel="noopener nofollow ugc">overcompensation token incident</a> due to the typical governance process timeframe, where an expedited governance track can help reduce the effects of loss.</p>
+<p><strong>Content of the Proposal/Specification</strong>:<br>
+The expedited governance process overrides the existing governance procedure by removing the need for an optional temperature check and compulsory signal (Stage 1 and 2), by allowing a proposal to directly enter the formal proposal phase (Stage 3) for a shorter timeframe and also proceed to Snapshot phase (Phase 4), under a shorter timeframe given that the proposal passes up to this point.</p>
+<p>There are additional requirements to allow proposals to proceed under the expedited governance track:</p>
+<ol>
+<li>
+<strong>The proposal in question must be eligible</strong>. As of this writing, eligibility is open for all with the following exclusions:<br>
+a. Proposals for membership status changes;<br>
+b. Proposals for compensation level changes.</li>
+<li><strong>Authors must declare in the originating thread that they intend for the proposal to go through the expedited governance track.</strong></li>
+<li>
+<strong>The quorum for the formal proposal (Stage 3) is limited and raised to 50% for all SUs and above</strong> (ie superUMAns and UMAsters), with a <strong>minimum endorsement from 5 UMAsters;</strong>
+</li>
+<li>
+<strong>The threshold for a Stage 3 passing vote needs to be a supermajority</strong> (67% and above);</li>
+<li>
+<strong>The quorum for the snapshot vote (Stage 4) is 75% of voters</strong> from Stage 3;</li>
+<li><strong>The threshold for a Stage 4 passing vote is 80%.</strong></li>
+<li><strong>Stage 3 and Stage 4 timelines can be reduced to 48 hours each.</strong></li>
+<li>
+<strong>If a vote fails in expedited governance at any point, the proposal in question cannot be placed again under expedited governance</strong> and is required to go through the normal governance process.</li>
+</ol>
+<p><strong>Visual Guide</strong><br>
+Please right click and open this image in new tab/window for full size.<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href=".. data-download-href=".. title="governance flowchart"><img src=".. alt="governance flowchart" data-base62-sha1="qQX4jJDX8ITiiTp5lsnlCfso07Q" width="353" height="500" srcset=".. .. 1.5x, .. 2x" data-small-upload="..
+<p><a href=".. to view the poll.</a></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 01 Feb 2022 16:32:01 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-505-1</guid>
+        <source url=".. Expedited Governance (PASSED)</source>
+      </item>
+  </channel>
+</rss>

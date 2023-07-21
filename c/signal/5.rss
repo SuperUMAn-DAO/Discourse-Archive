@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse=".. xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>Signal - SuperUMAns Discourse</title>
+    <link>..
+    <description>Topics in the &#39;Signal&#39; category Proposals to the SuperUMAn DAO can be made in this category to obtain feedback.</description>
+    
+      <lastBuildDate>Mon, 03 Apr 2023 15:41:18 +0000</lastBuildDate>
+      <atom:link href=".. rel="self" type="application/rss+xml" />
+        <item>
+          <title>SUDAO-IP-21: Membership, Treasury, and Voting Updates [PASSED]</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-21</strong></p>
+<p><strong>Membership, Treasury, and Voting Updates</strong></p>
+<p><strong>Rationale</strong></p>
+<p>As part of the DAO restructuring there are multiple updates needed in order for us to move forward.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<ul>
+<li>
+<p>Add a discord role called, ‘Core SuperUMAns’ to those that continue to show up and contribute to the DAO. Core SuperUMAns: Bananchain, Deadcoin, EverythingBlockchain, Fruitycup, gmsteele, Gruad, Heruvim78, neondaemon, Poopster, PVMihalache, Victorfela, Surftranquille</p>
+</li>
+<li>
+<p>Update to the SuperUMAn role: The SuperUMAn role is for members that might not have the time nor desire to contribute to the SU DAO but are still considered part of the community. If one wishes to move up and have voting rights to Core SuperUMAn it must be voted upon by the Core SuperUMAns (51%) on discord. Everyone with the current SU role and not part of the Core SU role will remain SuperUMAns.</p>
+</li>
+<li>
+<p>Update for the treasury team so that when investment decisions are made in their meetings they don’t need consensus from the entire DAO. The signers on the main treasury eth wallet and the treasury team polygon wallet are the decision makers and executioners of any proposed transactions.</p>
+</li>
+<li>
+<p>Voting updates to change from a multi tiered structure to a simpler flat structure. SU NFTs will no longer be used to reach consensus. Whenever a decision needs to be made it will be done through a discord poll. Only Core SuperUMAns will be allowed to vote (51%). Polls will be up for 3-7 days and require no quorum. Core SuperUMAns must be tagged in the discord when the proposal goes up to be valid.</p>
+</li>
+<li>
+<p>Updating DAO recruitment to be free flowing. When members are needed we can start a recruitment campaign and outline the process without needing to add it to our design principles. When we don’t have a need for more members we can simply stop and place recruitment on pause.</p>
+</li>
+<li>
+<p>Removal of UMAsters and Recruits from our design principles.</p>
+</li>
+<li>
+<p>Update how the main Treasury wallet is managed, going from automatic dispersal with safesnap to manual dispersal via multisig.</p>
+</li>
+<li>
+<p>If ratified there will be a follow-up proposal that will update our Design Principles to reflect all the changes.</p>
+</li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>NONE</p>
+            <p><small>7 posts - 6 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Mon, 03 Apr 2023 15:41:18 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1395</guid>
+          <source url=".. Membership, Treasury, and Voting Updates [PASSED]</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-20:</strong></p>
+<p><strong>Snapshot Quorum Change</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>This document is to ratify our current Snapshot Quorum as written in our SuperUMAn DAO Design Principles.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<ul>
+<li>Change snapshot quorum from needing 50% of total voting power to no quorum.</li>
+<li>There still needs to be a simple majority (51%) to pass a proposal through snapshot.</li>
+<li>Remove quorum from the “Formal Proposal and Poll” proposal stage. It will simply need a simple majority (51%) to pass.</li>
+<li>Change the Discourse poll minimum timeline from 5-7 days to 3-7 days which matches the Snapshot phase.</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Governance of the SuperUMAn DAO - Stage 3 Formal Proposal and Poll</strong></p>
+<p><strong>From:</strong></p>
+<p>A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No<br>
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for 5-7 days. Formal proposals will be announced on a Discord announcements channel</li>
+</ul>
+<p><strong>To:</strong></p>
+<p>A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No<br>
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. <strong>The poll will run for 3-7 days</strong>. Formal proposals will be announced on a Discord announcements channel</li>
+</ul>
+<p><strong>Under Governance of the SuperUMAn DAO - Stage 4 Snapshot Vote</strong></p>
+<p><strong>From:</strong></p>
+<p>If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO. The snapshot will be open for 3-7 days.</p>
+<p><strong>To:</strong></p>
+<p>If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. <strong>This snapshot vote requires a 51% majority and no quorum.</strong> The snapshot will be open for 3-7 days.</p>
+<p><strong>Under Governance of the SuperUMAn DAO - Normal Track / Regular Governance</strong></p>
+<p><strong>From:</strong></p>
+<p>The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify the membership tiers which will be reflected in Discord roles in order that the members meeting the quorum requirement can be identified. The minimum amount of time it would take for a proposal to be passed is 8 days.</p>
+<p><strong>To:</strong></p>
+<p>The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify <strong>members who are eligible to participate in the governance process.</strong> The minimum amount of time it would take for a proposal to be passed is <strong>6</strong> days.</p>
+<p><strong>What on-chain actions might this proposal entail:</strong> NONE</p>
+            <p><small>5 posts - 4 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Mon, 07 Nov 2022 22:50:12 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1383</guid>
+          <source url=".. Quorum Changes [PASSED]</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-19: Zero-based Budgeting Infrastructure (PASSED)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-19:</strong></p>
+<p><strong>Zero-based Budgeting Infrastructure</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>This document is to ratify our current budgeting structure as written in our SuperUMAn DAO Design Principles.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<ul>
+<li>All teams will request all their budgetary needs from the Treasury team.</li>
+<li>Every team’s multisig funds will be moved to the Treasury teams multisig.</li>
+<li>The treasury team will set aside $X of their choosing for operational costs / grants / emergencies.</li>
+<li>The treasury team will come up with plans on how to utilize the rest of the leftover funds.</li>
+<li>There will be an announcement made to the rest of the DAO of what the Treasury team plans on doing with these leftover funds. It will then be put to a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Governance of the SuperUMAn DAO - Preamble</strong></p>
+<p><strong>From:</strong></p>
+<p>Topics that require broad consensus for the DAO itself or require the use of our resources should go through governance, including requests for the treasury to unlock tranches of funds. Strategy management decisions and membership management would also be confirmed by governance.</p>
+<p><strong>To:</strong></p>
+<p>Topics that require broad consensus for the DAO itself or require the use of our resources should go through <strong>our formal</strong> governance <strong>process</strong>, including requests for the <strong>SuperUMAn DAO</strong> treasury to unlock tranches of funds. <strong>This will not include funds the treasury team manages in its multisig which will have its own separate consensus process</strong>. Strategy management decisions and membership management would also be confirmed by governance.</p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Funding Allocation for Teams</strong></p>
+<p><strong>From:</strong></p>
+<p>It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget each quarter, a minimum of three weeks before the end of epoch. These requests would be aggregated together and then put forward as a governance proposal.</p>
+<p>It would be expected that each team budget request should not exceed a value of greater than $2500 (excluding any team based compensation). Funds in excess of this value should be considered a bounty or grant project and would require a dedicated governance proposal for the funds to be released. Team funds will be managed through a multi-sig composed of members of that team in a 2 of 3 structure.</p>
+<p><strong>To:</strong></p>
+<p>It is recognized that the teams which comprise the SuperUMAn DAO may have general ongoing costs. Teams should submit requests for funding with a detailed budget as needed to the <strong>Treasury team. It will be dispersed from the Treasury team’s multisig if approved by the treasury team.</strong> Team funds will be managed through a multi-sig composed of members of that team in <strong>at least</strong> a 2 of 3 structure.</p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Emergency Funds:</strong></p>
+<p><strong>From:</strong></p>
+<p><strong>Emergency Funds</strong></p>
+<p>Additionally there should be a “petty cash” wallet controlled by the Treasury team through a 2 of 3 multisig, initially funded to the value of $25k that can be used as an emergency budget. This will be replenished through the governance process. Requests from DAO members to the emergency fund should only be made for activities which can demonstrate a critical need which is time-sensitive, which will then be evaluated by the Treasury team. Should the request be granted, a retrospective should be conducted to ensure emergency requests are minimised.</p>
+<p><strong>To:</strong></p>
+<p><strong>“Petty cash” Funds</strong></p>
+<p>Additionally there should be a “petty cash” wallet controlled by the Treasury team <strong>multisig of an amount of their choosing for operational costs / grants / emergencies. The multisig must at least be a 2 of 3.</strong></p>
+<p><strong>Under Managing the Treasury of the SuperUMAn DAO - Treasury Governance:</strong></p>
+<p><strong>From:</strong></p>
+<p>The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure.</p>
+<p><strong>To:</strong></p>
+<p>The main funds of the treasury will be held in a smart contract and dispersed via an on-chain mechanism using SafeSnap with added security provided by UMA’s Optimistic Oracle, when available. If a governance proposal to allocate funds is passed, the funds will be automatically distributed to the identified source as part of the governance procedure. <strong>The Treasury team will come up with a plan to utilize funds that are within its multisig and not part of its “petty cash” stash. It will make an announcement to the DAO of its plans for the funds and set up a 24 hour discord poll that needs 51% majority and no quorum to pass. Only SuperUMAns and above may participate in this poll.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>: NONE</p>
+            <p><small>4 posts - 3 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Tue, 20 Sep 2022 13:46:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1376</guid>
+          <source url=".. Zero-based Budgeting Infrastructure (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-18: Ambassador Compensation Reform</title>
+          <dc:creator><![CDATA[arcology]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-18</strong><br>
+<strong>Ambassador Compensation Reform</strong></p>
+<p><strong>Executive Summary</strong><br>
+This proposal is to utilize 5000 KPI Option tokens from the SU Treasury to create:</p>
+<ol>
+<li>An additional distribution for the Ambassadors only</li>
+<li>To create a series of bounties for successful integrations.</li>
+</ol>
+<p><strong>Motivation</strong><br>
+The Q3 SU compensation distribution framework was managed by Risk Labs and the current results show a significant disparity between compensation amount, actual work done and potential value of the work. Most of the SU DAO agrees that the Ambassadors create the most value for the operations of the SUs in terms of vision and also the objectives set out by UMA DAO in said KPI. Therefore, this proposal attempts to address this disparity and to better incentivize Ambassadors to continue to do meaningful work.</p>
+<p><strong>Specification</strong><br>
+This proposal will request the SU DAO Treasury to bring forward 5000 KPI Option tokens previously earmarked to the Products team to do 2 things.</p>
+<ol>
+<li>
+<p>Using 3000 KPI Option tokens, conduct a 2nd round distribution for the <strong>Ambassador team only.</strong> To address the limitations of the previous distribution, the following rules are recommended to be applied:<br>
+a. those with over 1000 KPI option tokens from the combined distribution will not be eligible to join this round. (ie Deadcoin, Fruitycup, arcology, Amadex is not eligible)<br>
+b. For avoidance of doubt, only the Ambassadors as listed from the previous Coordinape chart is eligible.<br>
+c. Those who want to join this distribution must post in the forum to opt-in and state why they should be included.<br>
+d. Coordinape or similar spreadsheet + peer consensus mechanism from previous team comp-related calls can be used instead.</p>
+</li>
+<li>
+<p>Using 2000 KPI Option tokens, create a forward-thinking fund to incentivize integrations. It will work like this:<br>
+a. A centralized location with all active leads to be created/reused.<br>
+b. Each lead shall have a Person-in-Charge, and their respective team members (if any).<br>
+<strong>c. If the lead turns into a successful integration, 200 KPI Option tokens are rewarded for the integration team.</strong><br>
+d. A member can join multiple integration teams.<br>
+e. The PIC is responsible to split the proceeds of the KPI Option bounty with their teammates (if any).<br>
+f. This fund allows 10 leads (10 x 200 = 2000 KPI Option tokens) to be funded concurrently this epoch.<br>
+g. There is no partial payout. If there is a true integration, the 200 KPI options will be paid out in full.</p>
+</li>
+</ol>
+            <p><small>4 posts - 4 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Sun, 03 Jul 2022 16:23:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1354</guid>
+          <source url=".. Ambassador Compensation Reform</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-17 - Repayment of Eth Denver sponsorship support SIGNAL</title>
+          <dc:creator><![CDATA[Berry]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-17</strong></p>
+<p><strong>Repayment of Eth Denver sponsorship support</strong></p>
+<p><strong>Rationale</strong><br>
+In the run up to Eth Denver it was clear that there was not enough time to finish the SUDAO governance system, nor the treasury management systems, required to make a payment to cover our sponsorship of the event.<br>
+A plea was submitted to any SuperUMAn who might be able to lend stables to the DAO pending repayment once governance and treasury management had been setup. This plea was met by four SuperUMAns and the payment was made on time to the benefit of the DAO.<br>
+This proposal is aimed at making those who lent stables to the DAO whole.</p>
+<p><strong>Content of the Proposal</strong>:<br>
+That the SUDAO Treasury team make plans and deploy a mechanism to repay those who lent funds.</p>
+<p>The funds lent, along with proof can be found here:<br>
+<a href=".. rel="noopener nofollow ugc">.. </a></p>
+<p><strong>Reasoning:</strong></p>
+<p>SUDAO always pays its debts.</p>
+<p><strong>What on-chain actions might this proposal entail</strong>:<br>
+A payment from the multisig to the four addresses that made payments for the sponsorship with the corresponding USDC amount on the Polygon network. To view these please see the google doc link above.</p>
+<p>(this proposal requires five likes before moving forward)</p>
+<p>Nb this proposal has been posted already under SUDAO-IP-16 in the wrong area of our discourse forum. On chain action changes have been made so please read carefully.</p>
+            <p><small>11 posts - 6 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Wed, 15 Jun 2022 20:52:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1352</guid>
+          <source url=".. - Repayment of Eth Denver sponsorship support SIGNAL</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-16: Team Lead Nomination Process [Passed but being reworked]</title>
+          <dc:creator><![CDATA[Ponmile]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-16</strong></p>
+<p><strong>Team Lead Nomination Process</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>There is a need for guidance in determining a process for replacing team leads that either no longer wish to be a team lead or take a leave of absence. This will assist for whether the team lead takes a short leave or needs to be fully replaced.</p>
+<p><strong>Content of the proposal:</strong></p>
+<ul>
+<li>To be a team lead one must be a UMAster or Core SuperUMAn.</li>
+<li>If a team lead is not performing their duties or is absent for at least a month, the team lead nomination process will begin.</li>
+<li>If a team lead isn’t performing their duties then there must be reasoning behind the call for a new team lead vote to take place. The reasoning will be submitted along with a discord poll that needs 51% majority of SuperUMAns to support in order for the team lead nomination process to begin.</li>
+<li>Create a role called sub-team lead. Each team will be required to have at least 1-2 sub-team lead(s) who will assist the team lead directly. If a team lead needs to take a short leave of absence or will miss team meetings then the sub-team lead will fill in. The sub-team lead(s) ultimate goal is to keep the team moving forward when the team lead is unavailable. Leading calls, continuing to work on their team’s goals, providing guidance, etc. It will be up to each team to decide who the sub team lead(s) will be.</li>
+<li>At the end of each quarter there is to be a team lead nomination process for all teams.</li>
+<li>The team lead nomination process will be held for 5 days. A UMAster or Core SuperUMAn may either self nominate or be nominated by another SuperUMAn. If nominated by another SuperUMAn there must be acknowledgement by either reacting to the nomination or replying to accept the nomination. After 5 days a 24/48 hour discord poll will be put up by the operations team. The nominations with the most SuperUMAn votes will become team leads. In the event of a tie another poll will be put up with the tied nominees</li>
+<li>It will be documented on notion and discord as to who are the current team and sub-team lead(s).</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>Team leads can be either Core Superumans or UMAsters because there might not actually be a qualified or interested UMAster to take over as team lead thus giving us a larger pool to work with.</li>
+<li>There will be times when a team lead goes AWOL or just isn’t really meeting the needs of a team and a new team leads process will need to begin right away. If gone for too long the team leads process should begin ASAP. If not meeting the teams needs there will need to be reasoning to back up this claim and approval by the DAO for a team leads nomination process for that specific team to begin.</li>
+<li>Sub team leads will play a major role in the overall team structure as the ones to step in when the team leads won’t be available. We’re facing some serious issues where a team lead goes absent and then a team’s functions/momentum starts to see a rapid decline.</li>
+<li>The end of quarter team leads nomination process is important because ultimately a team lead might want to step down, another team member might be seen as a better fit, and overall it just guarantees we are currently putting the best possible members in these positions each quarter.</li>
+</ul>
+<p><strong>Changes to <a href=".. rel="noopener nofollow ugc">SuperUMAn DAO - Design Principles V2 - Google Docs</a></strong></p>
+<p><strong>Under structure of the SuperUMAn DAO after preamble.</strong></p>
+<p>A team lead can be either an UMAster or a Core SuperUMAn.The process will be done at the end of each quarter or when a team lead is not performing their duties with a reasoning behind the call for a new team lead.The reasoning will be submitted along with a discord poll that needs 51% majority of SuperUMAns to support in order for the team lead nomination process to begin.</p>
+<p>There’ll be a new role called sub team lead whose goal is to keep the team moving forward when the team lead is unavailable. Leading calls, continuing to work on their team’s goals, providing guidance, etc. The sub team lead will be chosen by the team leads. The nomination process will be held for 5 days. An UMAster or Core SuperUMAn may either self nominate or be nominated by another SuperUMAn.</p>
+<p>If nominated by another SuperUMAn there must be acknowledgement by either reacting to the nomination or replying to accept the nomination. After 5 days a 24/48 hour discord poll will be put up by the operations team. The nominations with the most SuperUMAn votes will become team leads. In the event of a tie another poll will be put up with the tied nominees.</p>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p>none at this time</p>
+            <p><small>11 posts - 8 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Wed, 18 May 2022 13:35:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1346</guid>
+          <source url=".. Team Lead Nomination Process [Passed but being reworked]</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-15: Team Reporting [PASSED]</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-15</strong></p>
+<p><strong>Team Reporting</strong></p>
+<p><strong>Rationale</strong><br>
+There is a lack of clarity of exactly what each team’s accomplishments, goals and problems/issues are. There is also a large effort that is going into better communicating internally and externally about the DAOs overall goals and accomplishments. This report that each team is tasked to create will help with initiatives such as the newsletter and keeping UMA DAO informed of the ongoings of the SuperUMAns. This will also help us be better prepared when it comes time to approach UMA DAO with our next funding proposal. Overall this will be a great exercise for each team to write down their goals, reflect on any issues, and show off their accomplishments all while bolstering our communications efforts.</p>
+<p><strong>Content of the Proposal</strong>:<br>
+This document is to create a formal process for teams to report their accomplishments and goals on a bi-weekly basis.</p>
+<ul>
+<li>Each team will have a dedicated channel underneath <span class="hashtag">#getting-started</span> named <span class="hashtag">#reports</span>
+</li>
+<li>The report will be due on a bi-weekly timeline, specifically every 2nd and 4th Monday of each month.</li>
+<li>Operations will create the channels for each team and also check for reports the day after a report is due to ensure there has been a report made. If a report has not been made operations will remind the team that the report is due.</li>
+<li>Overall it will be up to each team to manage who is responsible for creating the report and making sure it’s posted on discord by each due date.</li>
+<li>It’s recommended that each team assign two people to be responsible for these reports.</li>
+<li>We encourage each team to set up their own google calendar to help keep track of the due dates and to help stay organized overall.</li>
+<li>The <span class="hashtag">#reports</span> channel should also be strictly reports and any comments made that aren’t reports will be deleted.</li>
+<li>Format would be simplistic: Long term goals, short term goals, accomplishments, problems/issues</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>Every 2nd Monday is an easy way for each team to keep track of when another report is due.</li>
+<li>Having the <span class="hashtag">#reports</span> live under each team’s dedicated category would make it very easy for anyone to keep up with the happenings of each team.</li>
+<li>Operations will assist more heavily in the beginning but then play a lesser role by only reminding teams if a report is late. Ultimately each team will need to come up with how they will be putting up reports on the specified days.</li>
+<li>It’s highly recommended that team leads aren’t the ones actually creating these reports. The biggest role a team lead should play is helping decide who would be responsible for the reports, checking reports, and continuously coming up with goals/ iterating on goals.</li>
+<li>A team google calendar can help keep any important dates/deadlines in one place including when a report is due.</li>
+<li>The format is kept pretty generic as this isn’t meant to be a complicated exercise. It would be good to see the types of problems each team is running into as well.</li>
+</ul>
+<p><strong>Changes to</strong> <a href=".. DAO - Design Principles V2 - Google Docs</a>:</p>
+<p><strong>Under Structure of the SuperUMAn DAO after Preamble :</strong></p>
+<p><strong>Team Reporting</strong><br>
+Each team will be self-reporting in a public channel every two weeks. This channel will be located beneath each teams <span class="hashtag">#getting-started</span> channels named <span class="hashtag">#reports</span>. The report will be due every second Monday each month. Operations will check for reports the day after a report is due to ensure there has been a report made. If a report has not been made operations will remind the team that the report is due. There will be four pieces of information each report must have: Long term goals, Short term goals, accomplishments, and any problems/issues (if applicable).</p>
+<p><strong>What on-chain actions might this proposal entail</strong>:<br>
+none at this time</p>
+            <p><small>4 posts - 3 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Wed, 11 May 2022 12:26:01 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1342</guid>
+          <source url=".. Team Reporting [PASSED]</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-14: Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-14</strong></p>
+<p><strong>Recruits, Alumni, and Honorary DAOplomats Amendments</strong></p>
+<p><strong>Rationale</strong></p>
+<p>This document is to ratify a recruits offboarding process, removal of inactive Alumni that dont have a NFT from our roster, and removal of Honorary DAOplomats as a membership tier.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<ul>
+<li>
+<p>Rename the ‘Alumni Promotions’ to ‘Alumni Redesignation + Recruits Offboarding’</p>
+</li>
+<li>
+<p>‘Alumni Redesignation + Recruits offboarding’ to now include inactive recruits list alongside inactive SuperUMAns list.</p>
+</li>
+<li>
+<p>The onboarding team, operations masters, and team leads will be requested to provide names of inactive recruits. This will happen the week before ‘Alumni Redesignation + Recruits Offboarding’ tier change process.</p>
+</li>
+<li>
+<p>All names collected during that week will be added to the inactive recruits list.</p>
+</li>
+<li>
+<p>There will be a clear distinction between the inactive SuperUMAns list and inactive Recruits list.</p>
+</li>
+<li>
+<p>If a recruit is deemed inactive by the DAO they will have their NFTs burned or blacklisted, effectively removing them from our governance structure, removing the recruits discord role and being given the ‘UMAn’ discord role.</p>
+</li>
+<li>
+<p>Honorary DAOplomats to be removed from our governance structure but remain as a discord role.</p>
+</li>
+<li>
+<p>Those that are added onto the inactive lists will be contacted directly via DM once the ‘Alumni redesignation + Recruits offboarding’ process goes live.</p>
+</li>
+<li>
+<p>Clarify that only SuperUMAns may vote to exclude those added to the inactive lists.</p>
+</li>
+<li>
+<p>Removal of any Alumni that are currently on our roster but never actively tried to get their Alumni NFT. If any Alumni are in the SuperUMAn server and have the Alumni discord tag, and don’t have the Alumni NFT, they will be contacted once more to see if they are interested in participating in our governance process. They will be given a week to respond. All the rest of the Alumni will be removed from our roster list which can be viewed here: <a href=".. Members | Table View (notion.site)</a></p>
+</li>
+<li>
+<p>Alumnis that don’t respond after 1 week and currently have the Alumni discord tag but don’t have the Alumni NFT or aren’t interested to receive the Alumni NFT will have their Alumni discord tag removed and given the ‘UMAn’ tag.</p>
+</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>
+<p>As the alumni promotions already have a solid structure it makes sense to simply add an inactive recruits list that will follow along the same process.</p>
+</li>
+<li>
+<p>The only difference is inactive recruits have their NFT burned/blacklisted and are completely removed from our governance structure. They will be given a ‘UMAn’ discord role.</p>
+</li>
+<li>
+<p>This will lower the quorum needed to pass governance proposals and keep each of our tiers active and vibrant.</p>
+</li>
+<li>
+<p>As honorary DAOplomats are more so friends of the DAO and after 4 months we haven’t had any interested in participating in governance, it doesn’t make sense to involve them directly in our governance structure.</p>
+</li>
+<li>
+<p>Our full roster has about 33 Alumni listed. Out of 33 about only 2 or 3 actually cared to receive their Alumni NFT. This is inflating our membership numbers tremendously and it’s recommended we remove inactive Alumni from our roster to get an accurate active membership count.</p>
+</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Initial Membership and Membership Tiers:</strong></p>
+<p><strong>From:</strong></p>
+<p>The founding members of the SuperUMAn DAO will be comprised of</p>
+<ul>
+<li>Those who currently hold the UMAster, SuperUMAn and Recruit tags on discord at the 31st December 2021.</li>
+<li>Specific others who are identified as those whose influence would add value to the DAO, such as those who hold the Honorary DAOplomats tag</li>
+</ul>
+<p>It is recognised that while all of the above groups have a stake in the development and wellbeing of the DAO, some of the above are more closely aligned with its mission, and have a greater stake in the DAO’s growth than others, consequently it is suggested that there is a three tier system in place to allow the level of influence in the DAO to reflect those differential stakes.</p>
+<p>Tier membership will confer differential voting rights through a multiplier effect.</p>
+<p>The proposed tiers are</p>
+<ul>
+<li>Basic (Recruits + Honorary DAOplomats + Alumni): one member, one vote</li>
+<li>SuperUMAns - enhanced: one member, 10 votes</li>
+<li>UMAsters - enhanced plus: one member 20 votes</li>
+</ul>
+<p>These voting parameters can be modified by governance.</p>
+<p>Members of the DAO will be identified by an NFT tied to a wallet address that they provide. That NFT and wallet will be used both as a means of voting in the governance process, and also as the wallet identifier of any compensation due to them as DAO members.</p>
+<p><strong>To:</strong></p>
+<p>The founding members of the SuperUMAn DAO will be comprised of</p>
+<ul>
+<li>Those who currently hold the UMAster, SuperUMAn and Recruit tags on discord at the 31st December 2021.</li>
+<li>Specific others who are identified as those whose influence would add value to the DAO, such as those who hold the Honorary DAOplomats tag</li>
+</ul>
+<p>It is recognised that while all of the above groups have a stake in the development and wellbeing of the DAO, some of the above are more closely aligned with its mission, and have a greater stake in the DAO’s growth than others, consequently it is suggested that there is a three tier system in place to allow the level of influence in the DAO to reflect those differential stakes.</p>
+<p>Tier membership will confer differential voting rights through a multiplier effect.</p>
+<p>The proposed tiers are</p>
+<ul>
+<li>Basic <strong>(Recruits + Alumni):</strong> one member, one vote</li>
+<li>SuperUMAns - enhanced: one member, 10 votes</li>
+<li>UMAsters - enhanced plus: one member 20 votes</li>
+</ul>
+<p>These voting parameters can be modified by governance.</p>
+<p>Members of the DAO will be identified by an NFT tied to a wallet address that they provide. That NFT and wallet will be used both as a means of voting in the governance process, and also as the wallet identifier of any compensation due to them as DAO members.</p>
+<p><strong>Under Who has Governance Power:</strong></p>
+<p><strong>From:</strong></p>
+<p>Members of the DAO belong to one of three tiers - Basic, SuperUMAn and UMAster. These tiers are indicated by NFTs belonging to DAO members and provided either at the founding of the DAO or when a new member is recruited.</p>
+<p>These tiers of memberships confer differential voting rights.</p>
+<p>The tiers are</p>
+<ul>
+<li>Basic (Recruits + Honorary DAOplomats + Alumni)</li>
+</ul>
+<p>baseline: one member, 1 vote</p>
+<ul>
+<li>SuperUMAn<br>
+enhanced: one member, 10 votes</li>
+<li>UMAster<br>
+enhanced plus: one member, 20 votes</li>
+</ul>
+<p><strong>To:</strong></p>
+<p>Members of the DAO belong to one of three tiers - Basic, SuperUMAn and UMAster. These tiers are indicated by NFTs belonging to DAO members and provided either at the founding of the DAO or when a new member is recruited.</p>
+<p>These tiers of memberships confer differential voting rights.</p>
+<p>The tiers are</p>
+<ul>
+<li>Basic <strong>(Recruits + Alumni)</strong>
+</li>
+</ul>
+<p>baseline: one member, 1 vote</p>
+<ul>
+<li>SuperUMAn<br>
+enhanced: one member, 10 votes</li>
+<li>UMAster<br>
+enhanced plus: one member, 20 votes</li>
+</ul>
+<p><strong>Under Mechanism for Confirming Membership Tier changes <span class="hashtag">#4:</span></strong></p>
+<p><strong>From:</strong></p>
+<ol start="4">
+<li>The Operations Teams will collate nominations from teams of SuperUMAns who are being recommended to be moved to Alumni. The Operations team will organise an emoji based poll for SuperUMAns to Alumni, with min of 5 emojis to exclude from the proposal.</li>
+</ol>
+<p><strong>To:</strong></p>
+<p><strong>4. ‘Alumni Redesignation + Recruits Offboarding’</strong></p>
+<p>The Operations <strong>Team</strong> will collate nominations from <strong>team leads, operations masters, and the onboarding team for inactive recruits and inactive SuperUMAns the week before the discord poll goes live. There will be two separate lists, inactive recruits and inactive SuperUMAns, that will be posted on Discord.</strong> The Operations team will <strong>organize</strong> an emoji based poll for SuperUMAns to Alumni <strong>and Recruits offboarding,</strong> with <strong>a minimum</strong> of 5 emojis to <strong>be excluded</strong> from the proposal. <strong>Only SuperUMAns are allowed to vote on this poll and the poll will run for 1 week. If an individual is on the inactive list they can’t vote for themselves to be removed from the list.</strong></p>
+<p><strong>This tier membership change process will run in the middle and end of every epoch. Each SuperUMAn and recruit that make it on either of the ‘Alumni Redesignation + Recruits Offboarding’ lists will be informed directly via discord DM when the poll goes live. If a recruit nominee is not excluded at the end of 7 days then, pending the snapshot vote, will have their NFT burned/blacklisted, recruits tags removed, and given the ‘UMAn’ discord tag. If a SuperUMAn nominee is not excluded from their list after 7 days then, pending the snapshot vote, will have their NFT burned/blacklisted and given an Alumni NFT as well as removing their SuperUMAn discord tag and given the ‘Alumni’ tag.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>:<br>
+None at this time</p>
+            <p><small>5 posts - 2 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Mon, 25 Apr 2022 16:09:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1331</guid>
+          <source url=".. Recruits, Alumni, and Honorary DAOplomats Amendments (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-13: Budget and Compensation Plan Epoch 2(Q2&#39;22) [Passed]</title>
+          <dc:creator><![CDATA[Henrystats]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-13: Budget and Compensation Plan Epoch 2(Q2’22)</strong></p>
+<p>This proposal is to define the budget and compensation plan for epoch 2 of the SuperUMAn DAO (April 1st, 2022 - June 30th, 2022).</p>
+<p><strong>DAO Balance Sheet</strong></p>
+<p>Here’s the DAO balances across it’s <a href=".. and <a href=".. safes:</p>
+<p>$UMA - 52,866</p>
+<p>$USDC - 22,386.27</p>
+<p>$MATIC - 1.97</p>
+<p>$ETH - 6.57</p>
+<p>$WETH - 1.61</p>
+<p>N.B: 34,205 $UMA of the $52,866 is currently in 75,000 suINT-s &amp; 2976.36 suINT-l as collateral with a proposal ongoing to unlock that collateral.</p>
+<p>Here’s a <a href=".. breakdown</a> of the DAO’s balance sheet, this includes the $USDC balance across each team’s Msig including their budget for this current epoch.</p>
+<p><strong>Executive Summary</strong></p>
+<p>As per the SU DAO Design Principles, a budget and compensation plan should:</p>
+<ol>
+<li>Have sufficient stables to provide a level of stability for our members at all eligible tiers</li>
+<li>Distribute KPI Options that’s similar to the framework of prev. epochs</li>
+<li>Meet our pre-defined requirements for team budgets to enable operational costs to be covered</li>
+<li>Have an allocation of funds for gas &amp; transaction costs</li>
+<li>Have sufficient reserves such that we can allocate to our defined emergency fund, while also considering additional tipping collateral, DAO actions, sponsorships, grants, bounties etc.</li>
+</ol>
+<p>This Budget and Proposal plan proposes using our $UMA balance sheet ( 52,866 $UMA across our Polygon &amp; Ethereum safes ) to compensate DAO members for <span class="hashtag">#1</span> as defined in our DAO Design Principles. As well as making sure we have enough gas for transactions, an emergency fund in place, and all team’s multi-sigs topped up to at least $2500. KPI options are not within the scope of this proposal and will be dependent on approval of our long term funding grant to UMA DAO.</p>
+<p><strong>Rationale:</strong></p>
+<p>Due to our original funding proposal getting taken down after feedback from UMA DAO/Risk Labs we are now trying to find a way to continue paying our active contributors, make sure we can cover all operational costs, top up team multi-sigs, maintain an emergency fund, have enough gas reserves for transactions, etc. This proposal will show we can continue our normal operations except for the minting of KPI options which would be dependent on our long term funding grant’s approval. The compensation part is based on a <a href=".. poll</a> vote to determine the runway length to be either 3, 6, 9, or 12 months long. With a supermajority of 72%, 3 months is the runway time length we are proposing.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<p>This budget and compensation plan proposes that the DAO uses 52,866 $UMA to compensate DAO members. We still have a sufficient amount of gas for our ethereum and polygon safes at 6.57 $ETH and $1.99 $MATIC. We have over $20,000 USDC sitting idly to top up all teams back to $2500 for this quarter and support initiatives like the POAP lottery which is $5000 USDC that the governance team manages.KPI options collateral, minting, and distribution for this quarter would be dependent on our long term funding grant’s approval.</p>
+<p>DAO members will be compensated in $UMA tokens using a 7-day Twap of $UMA’s price at the time of monthly compensation distribution.</p>
+<p><strong>UMA’s Floor Price</strong></p>
+<p>The floor price of 3.7$ per UMA was calculated as the price at which CoC = PfC. One of the <a href=".. steps</a> in securing UMA’s Optimistic Oracle is maintaining CoC &gt; PfC where CoC is the cost of corruption and PfC is the profit from corruption. When that ratio becomes unbalanced, UMA uses the funds from the Store to perform “buy and burn” operations on the $UMA tokens to <a href=".. CoC &gt; PfC.</p>
+<p><strong>How we derived the price 3.7$</strong></p>
+<pre><code class="lang-auto">CoC = Cost of Corruption = Cost to buy 51% of total $UMA tokens
+Total UMA circulating supply - 66,000,000
+
+UMA’s price at the time of calculation - 6.4$
+
+Coc = 51% of 66,000,000 * 6,4$
+
+= 33,660,000 * 6.4$
+
+= 215M$
+
+PfC = 125M$ at the time of calculation according to data from [UMAverse ](..
+
+To calculate the floor price we need:
+
+51% of 66,000,00 * floor price = 125M$
+
+33,660,000 * Floor price = 125M$
+
+Floor price = 125M$ / 33,660,000 = 3.71$
+</code></pre>
+<p><strong>TWAP Value</strong></p>
+<p>Stables compensation will be replaced with compensation in $UMA tokens contingent on SUDAO-IP-12 being ratified. In order to determine the number of $UMA tokens distributed at the time of monthly compensation a 7-day TWAP will be used to determine UMA’s price.</p>
+<p>The 7-day TWAP value is calculated using the average of UMA’s closing price in the previous 7 days at the time of submitting the SCD proposal. UMA’s closing price is calculated using the <a href=".. price identifier</a>.</p>
+<p>If the Twap Value falls below 3,7 $UMA then the price used to calculate the number of $UMA tokens distributed will be replaced with 3.7$.</p>
+<p><strong>Additional Notes:</strong></p>
+<ul>
+<li>Allocation for stable compensation will be ~$186,000 (97% of 52k $UMA).</li>
+<li>There’ll be no allocation for quarterly KPI Options as that will be determined by our funding proposal to UMA DAO.</li>
+<li>
+<a href=".. timers</a> will also be compensated.</li>
+<li>Top up all teams multi-sigs with the $USDC sitting in the treasury’s polygon safe back to $2500 and an extra $5000 USDC for the POAP lottery to the governance team’s multi-sig.</li>
+</ul>
+<p><strong>The compensation details are below:</strong></p>
+<ul>
+<li>1506$/month for UMAsters</li>
+<li>805$/month for Core SuperUMAns</li>
+<li>421$/month for Basic SuperUMAns</li>
+<li>4551$/month for Full Timers</li>
+</ul>
+<p>Values have been pulled from the final working documents that were presented on Discord prior to this vote.</p>
+<p><a href=".. DAO - Compensation Structure (Epoch 2)</a></p>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>This is a somewhat doomsday scenario accounting for if 1 $UMA were to be equivalent to $3.7 USDC. If UMA were to stay around $6 or go up we would have a decent amount of UMA left over at the end of this quarter.</li>
+<li>Going into this epoch there was an expectation that we would have a funding proposal approved by UMA DAO to be able to use for our compensation and budgets of Q2 ‘22. Our initial proposal has been taken down and we are now working on a more long term proposal but this also means we won’t be able to pay contributors if we are solely waiting on the next funding proposal to pass in order to do so.</li>
+<li>There should be an expectation that this is the last quarter we will be using this compensation structure as we plan on setting up a new infrastructure and revamping how contributors get compensated.</li>
+<li>There isn’t enough time to come up with a totally new compensation structure and continue paying contributors. Thus we decided to move forward with compensation based off of a runway of our current funds.</li>
+<li>The DAO currently doesn’t have enough funds to meet the predefined requirements in our DAO design principles. We’re unable to distribute KPI Options to members and also offer a sufficient stable amount to DAO members.</li>
+</ul>
+<p><strong>Drawback / Risks:</strong></p>
+<ul>
+<li>If we are unable to get our long term funding grant approved by at least the middle to end of July ‘22, ~3 months, we would potentially be unable to continue to pay contributors or have to significantly reduce the amount we can afford to pay out.</li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail</strong>:<br>
+None at this time.</p>
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Sat, 23 Apr 2022 16:00:19 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1327</guid>
+          <source url=".. Budget and Compensation Plan Epoch 2(Q2&#39;22) [Passed]</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-12: Compensation Amendment (PASSED)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-12</strong></p>
+<p><strong>Compensation Amendment</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>In our <a href=".. DAO - Design Principles V2</a> under Compensation to Contributors it is stated that, “there should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters”. This doesn’t allow us the flexibility to make changes to our compensation as needed. This isn’t to say there will not/never be a stable allocation but to allow flexibility to pay out in $UMA instead of stables. We also need to be mindful of who is to receive some sort of ‘stable’ monthly compensation whether it be $UMA tokens or stable coins. This would allow us to be more intentional with how we distribute the monthly ‘stables’ compensation.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<p>This document is to ratify stablecoin compensation.</p>
+<ul>
+<li>Change the wording in <a href=".. DAO - Design Principles V2</a> under Compensation to Core Contributors to allow for more flexibility pertaining to compensation.Check under the “Changes to” section in this document.</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>This would allow us the flexibility to payout in $UMA tokens or stablecoins.</li>
+<li>This also means that we can be more intentional with who would receive a monthly ‘stable’ compensation whether that be $UMA or $USDC.</li>
+<li>Takes pressure off having to sell $UMA for stablecoins.</li>
+<li>Allows flexibility for our Budget and Compensation plan.</li>
+</ul>
+<p><strong>Changes to</strong> <a href=".. DAO - Design Principles V2</a>:</p>
+<p><strong>Under Compensation to Contributors:</strong></p>
+<p><strong>From:</strong></p>
+<p>It would be expected that the compensation of members of the SuperUMAn DAO should be centrally allocated from the treasury. While the precise allocation and mechanism for this compensation will be the subject of a governance proposal, it is suggested that such an allocation should adhere to some basic principles:</p>
+<ul>
+<li>There should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters</li>
+<li>Quarterly KPI options should be available for all DAO members</li>
+<li>There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.</li>
+</ul>
+<p><strong>To:</strong></p>
+<p>It would be expected that the compensation of members of the SuperUMAn DAO should be centrally allocated from the treasury. The precise allocation and mechanism for this compensation will be subject <strong>to our budget and compensation plan which needs to be ratified each quarter through our governance process.The specific currencies in the compensation plan can include, but not limited to, a combination of stablecoins, KPI options, and native tokens.</strong> It is suggested that such an allocation should adhere to some basic principles:</p>
+<ul>
+<li><strong>Quarterly KPI options should be available for SuperUMAn tier and above.</strong></li>
+<li><strong>There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.</strong></li>
+<li><strong>A fixed monthly amount of but not limited to $USDC and/or $UMA tokens to be considered for core contributors each quarter.</strong></li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p>None at this time</p>
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Tue, 19 Apr 2022 16:11:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1322</guid>
+          <source url=".. Compensation Amendment (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-11: Mechanics of suINT KPI Options Redemption (PASSED)</title>
+          <dc:creator><![CDATA[Henrystats]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-11: Mechanics of suINT KPI Options Redemption</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>In <a href=".. a one time proposal to solve the blockers around distribution of our suINT 1st epoch KPI Options.</p>
+<p><strong>The main blocker being:</strong></p>
+<p><code>A snapshot vote is unable to trigger the SU safe into the actions of approving contract collateral or minting the Long / Short tokens. We require an alternate method.</code></p>
+<p>Our epoch 1 KPI Options (suINT) has now expired and the DAO currently holds 75,000 suINT short tokens and 2,976 suINT long tokens.</p>
+<p>It is hereby put forth that the Treasury team’s Gnosis Multi-sig safe handles the steps in a similar mechanic described in <a href=".. to allow us redeem our now expired KPI Options for their underlying collateral ($UMA tokens).</p>
+<p><strong>Content of the proposal</strong></p>
+<p><strong>Proposed Mechanics</strong></p>
+<ul>
+<li>The SU DAO Treasury’s Polygon safe will be authorized by a successful vote of this proposal to send 75,000 suINT short tokens and 2,976 suINT long tokens to the Treasury’s team Multi-sig.</li>
+<li>The Treasury team Multi-sig will redeem our expired KPI Options for their underlying collateral ($UMA tokens)</li>
+<li>Immediately following the redemption of said tokens, the Treasury team Multi-sig will send the redeemed $UMA tokens to the SU DAO Treasury’s Polygon Safe.</li>
+</ul>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p>Ratification of this proposal via quorum on a snapshot vote would trigger the SU DAO Treasury’s Polygon Safe to send 75,000 suINT short tokens and 2,976 suINT long tokens to the Treasury’s Team Gnosis Multi - Sig.</p>
+<p><strong>Here’s the Treasury’s Team Gnosis Multi-sig Address:</strong></p>
+<p><a href="..
+            <p><small>6 posts - 3 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Mon, 18 Apr 2022 22:20:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1317</guid>
+          <source url=".. Mechanics of suINT KPI Options Redemption (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-10: Tier Membership Timeline Amendments ( PASSED )</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-10</strong></p>
+<p><strong>Tier Membership Timeline Amendments</strong></p>
+<p><strong>Rationale</strong></p>
+<p>Tier membership changes take a lot of manpower and energy to manage. There’s also growing concern that members are coming in as recruits and then being promoted too quickly, not giving them enough time to acclimate to our culture. The 6 week promotions process stemmed from previous epochs where UMA would do an activity check that would determine if an individual were to receive KPI options. Our payout systems and processes are very different from how we used to do things and it makes sense to change our promotions process to every quarter.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<p>This document is to ratify the timeline to which we hold our promotions process.</p>
+<ul>
+<li>
+<p>Change our promotions process from every 6 weeks to once per quarter.</p>
+</li>
+<li>
+<p>This would apply to recruits to superUMAns process and basic superUMAns to core superUMAns process.</p>
+</li>
+<li>
+<p>This doesn’t apply to the Core SuperUMAns to UMAster process because this is already on a quarterly basis.</p>
+</li>
+<li>
+<p>The two tier membership changes that are subject to change would be run on the final 2 weeks of each quarter/epoch.</p>
+</li>
+<li>
+<p>The only process that will be unchanged at the 6 week/halfway mark is ‘Alumni Promotions’.</p>
+</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>
+<p>There is a lot of work that has to be done to create the promotions process, facilitate it, put up proposals, put up discord polls, announcing all the changes, keeping track of all the changes, making sure all questions are answered, reminding people of how the promotions process works, asking people to burn their NFTs, minting new NFTs, updating snapshot quorum, needing to change the snapshot block number, reaching out to all individuals on the inactive list, etc.</p>
+</li>
+<li>
+<p>There is growing concern that individuals are moving up too quickly without being fully integrated into our culture!</p>
+</li>
+<li>
+<p>Every 6 weeks we have core members of our DAO having to focus a lot of their time and energy, 2 weeks out of every epoch, to facilitate this process.</p>
+</li>
+<li>
+<p>Having this process take place once a quarter is much more manageable.</p>
+</li>
+<li>
+<p>Alumni promotions being the only process to still take place every 6 weeks will allow us to continue to ‘trim the fat’ and wouldn’t require an enormous amount of effort to implement by operations. This will also make it easier to reach quorum as inactive members increase the quorum but don’t contribute to the vote!</p>
+</li>
+</ul>
+<p><strong>Changes to</strong> <a href=".. DAO - Design Principles V2</a>:</p>
+<p><strong>Under Becoming SuperUMAn:</strong></p>
+<p><strong>From</strong>:</p>
+<p>There will be a clearly defined process for a recruit to move to the SuperUMAn role as defined by the governance process. This may include</p>
+<ul>
+<li>Completion of educational courses</li>
+<li>Engagement with an allocated mentor from their chosen team</li>
+<li>Evidence of active participation in the DAO</li>
+<li>An example of a concrete initiative</li>
+<li>Sponsorship by an existing SuperUMAn who can vouch for their activity.</li>
+</ul>
+<p>The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place every six weeks, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.</p>
+<p><strong>To</strong>:</p>
+<p>There will be a clearly defined process for a recruit to move to the SuperUMAn role as defined by the governance process. This may include</p>
+<ul>
+<li>Completion of educational courses</li>
+<li>Engagement with an allocated mentor from their chosen team</li>
+<li>Evidence of active participation in the DAO</li>
+<li>An example of a concrete initiative</li>
+<li>Sponsorship by an existing SuperUMAn who can vouch for their activity.</li>
+</ul>
+<p>The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place <strong>on the last 2 weeks of each epoch</strong>, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.</p>
+<p>Under <strong>Membership of the SuperUMAn DAO</strong> after <strong>Becoming SuperUMAn:</strong></p>
+<p><strong>Becoming Core SuperUMAn:</strong></p>
+<p><strong>A Core SuperUMAn is not officially part of the membership of the DAO as becoming a Core SuperUMAn doesn’t change their voting weight. Their voting weight is the same as a SuperUMAn. Core SuperUMAn are seen as consistent contributing members of the DAO which have a large enough impact to receive higher compensation compared to a SuperUMAn.</strong></p>
+<p><strong>There will be a promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote that will take place in the last 2 weeks of each epoch. This process is further defined under Mechanism for Confirming Membership Tier changes.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>None at this time</p>
+            <p><small>5 posts - 4 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Fri, 08 Apr 2022 12:13:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1306</guid>
+          <source url=".. Tier Membership Timeline Amendments ( PASSED )</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-9: Stables Compensation Withholding due to Inactivity (Passed)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-9</strong></p>
+<p><strong>Stables Compensation Withholding due to Inactivity</strong></p>
+<p><strong>Rationale</strong></p>
+<p>There have been incidents ,each epoch, when a DAO member goes inactive for a long period of time without notice. We don’t have a process other than offboarding to alumni, every 6 weeks, to put a stop to stables compensation. This process will give the DAO a quicker way to prevent compensating an inactive member on a monthly basis so as to better utilize the DAO’s resources.</p>
+<p><strong>This document is to ratify the process to withhold compensation due to inactivity.</strong></p>
+<ul>
+<li>
+<p>Create an ‘Out of Office’ channel in discord so members of the DAO can give notice when they expect to be out of the office and the duration.</p>
+</li>
+<li>
+<p>Operations team will do a check-up on all members of the DAO that receive stables compensation at the beginning of each month. They will use discord, dework, check the ‘Out of Office’ discord channel, and confer with team leads to confirm whether any member should be considered inactive.</p>
+</li>
+<li>
+<p>If any member is deemed inactive they will be placed on an inactive list and contacted via DM’s to be made aware. This will give them a chance to show proof of work done for the DAO during that month in the ‘inactive thread’. They will also be provided a link to that thread.</p>
+</li>
+<li>
+<p>The ‘inactive thread’ will be within the ‘SuperUMAn Lair’ channel on discord. It will contain the list of inactive members and be open for 5 days.</p>
+</li>
+<li>
+<p>Similar to the ‘Alumni Promotions’ each member will need 8 SuperUMAns, 4 of which are UMAsters, to react to their name if they believe that that individual should be taken off the inactive list.</p>
+</li>
+<li>
+<p>If they fail to be taken off the list after 5 days, they will be added to the next snapshot distribution proposal, the proposal that distributes the stables compensation for that month, as ‘inactive members’. This will also include their compensation tier level. That proposal will not have these members on the payout list for that distribution. Effectively distributing funds and preventing ‘inactive’ members from getting compensated.</p>
+</li>
+<li>
+<p>This will not change the tier of the individual as that will be decided during the alumni promotions.</p>
+</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>
+<p>An ‘Out of Office’ channel will allow any member to officially give the DAO notice of when they’ll be unavailable. This will be taken into consideration when determining inactivity for that month.</p>
+</li>
+<li>
+<p>Operations is already doing a similar check for alumni promotions of activity every ~6 weeks… We can apply that process of determining activity to this one.</p>
+</li>
+<li>
+<p>There’s no way to actually confirm with 100% confidence that someone has been inactive without giving them a chance to defend themself. That is why we contact them and allow them 5 days to be given a chance to show proof of work.</p>
+</li>
+<li>
+<p>Compensation withholding is a big deal and needing the support of 8 SuperUMAns, 4 of which are UMAsters seems reasonable. Because this process is similar to tier membership changes, if they aren’t taken off the inactive list, would go through the same process of a 24 hour snapshot vote with no quorum and simple majority</p>
+</li>
+</ul>
+<p><strong>Changes to</strong> <a href=".. DAO - Design Principles V2</a>:</p>
+<p><strong>Within Managing the Treasury of the SuperUMAn DAO after Compensation to Contributors:</strong></p>
+<p><em>Stables Compensation Withholding due to Inactivity</em></p>
+<p>At the beginning of each month there will be an activity check for the previous month by the operations team. DAO members that receive stables compensation will be checked for contributions to the DAO during that month. This check will include discord activity, dework task completions, the ‘Out of Office’ channel, and conferring with team leads. If a member is still deemed inactive they will be contacted via DM with a link to the ‘inactive thread’.</p>
+<p>This ‘inactive thread’ will be within the SuperUMAn lair channel and will contain the inactive list. Each inactive member will be listed separately and must receive at least 8 SuperUMAn votes, 4 of them being UMAsters, to be taken off this list. This thread will remain open for 5 days. If after 5 days the member hasn’t been taken off the list then they will be added to the next snapshot distribution proposal, the proposal that distributes the stables compensation for that month, as ‘inactive members’. This will also include their compensation tier level. That proposal will not have these members on the payout list for that distribution.</p>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p>None at this time</p>
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Thu, 24 Mar 2022 14:46:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-1299</guid>
+          <source url=".. Stables Compensation Withholding due to Inactivity (Passed)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-7: Mechanics of suINT KPI Options (PASSED)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <h2>
+<a name="sudao-ip-7-mechanics-of-suint-kpi-options-1" class="anchor" href=".. Mechanics of suINT KPI Options</h2>
+<p><strong>Rationale</strong></p>
+<p>SuINT KPI Options has passed full quorum on <a href=".. this proposal only applies to the mechanics of minting and distribution of said tokens.</p>
+<p>The need to define the mechanics arises from the inability of the main SU safe to complete the necessary steps. This comes as a result of removing all signatories from the main safe, now controlled solely through a snapshot vote.</p>
+<p>A snapshot vote is unable to trigger the SU safe into the actions of approving contract collateral or minting the Long / Short tokens. We require an alternate method.</p>
+<p>It is hereby put forth that the Ambassador team’s Gnosis MultiSig safe handles the steps described in ‘Proposed Mechanics’ below to enable the final distribution of our suINT KPI options.</p>
+<p><strong>Content of the proposal</strong></p>
+<p><strong>Proposed Mechanics:</strong></p>
+<ol>
+<li>Add gruad and poopster as backup signatories to the ambassador’s gnosis safe if for any reason the original ambassador signatories are unable to sign.</li>
+<li>The main SU Treasury safe will be authorized by a successful vote of this proposal to send the UMA tokens required to mint suINT KPI options, per our <a href=".. compensation plan</a>, to the Ambassador Gnosis MultiSig.</li>
+<li>The Ambassador MultiSig will then approve the contract collateral ($UMA) and mint the ratified amount of Long / Short tokens.</li>
+<li>Immediately following the minting of said tokens, the Ambassador Gnosis MultiSig will send all the suINT Long / Short tokens to the main SuperUMAn DAO safe.</li>
+<li>A following snapshot vote will be required to send out the ratified distribution of the Long tokens. The main SU safe will hold the Short Pair until expiry and redemption of the contract.</li>
+</ol>
+<p><strong>Security Considerations</strong></p>
+<p>It is recognized by the DAO as well as the Ambassador signatories that the above proposal carries certain risks. It would require only a short period of time for the Ambassador team to perform the process described above.</p>
+<p>A two of three MultiSig makes for a quick and smooth mechanical process. It also requires an amount of trust by the wider DAO that the Ambassador signatories will indeed carry out the steps as described above. The signatories on the Ambassador team consist of <strong>inalittlewhile</strong>, <strong>arcology</strong>, and <strong>coach</strong>. If this proposal is approved the signatory roster will include <strong>gruad</strong> and <strong>poopster</strong> as backups.</p>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p><strong>Ratification of this proposal via quorum on a snapshot vote would trigger the main SU safe to send 45,000 UMA tokens to the Ambassador Gnosis MultiSig.</strong></p>
+            <p><small>7 posts - 5 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Tue, 01 Mar 2022 17:58:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-998</guid>
+          <source url=".. Mechanics of suINT KPI Options (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-6: UMAster Amendments (PASSED)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-6: UMAster Amendments</strong></p>
+<p><strong>Rationale</strong></p>
+<p>Due to uncertainty in our SuperUMAn DAO - Design Principles around UMAster promotions and after feedback it was clear some amendments were needed surrounding the UMAster elections.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<p>This document is to ratify the membership tier change process for UMAsters.</p>
+<ul>
+<li>
+<p>Change the UMAster election time period from every six weeks to every quarter.</p>
+</li>
+<li>
+<p>If an UMAster gets outvoted during the UMAster election process they get redesignated as a Core SuperUMAn which is solely for compensation purposes.</p>
+</li>
+<li>
+<p>Update the UMAster membership tier change process from being only self-nomination to either a normal nomination and/or self-nomination process. If a Core SuperUMAn or UMAster is nominated by someone else then they need to acknowledge/accept the nomination.</p>
+</li>
+<li>
+<p>Only Core SuperUMAns and current UMAsters can self-nominate or be nominated for the position of UMAster.</p>
+</li>
+<li>
+<p>Recruits are unable to vote in the UMAster elections.</p>
+</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>
+<p>The current election time period is very brief. Six weeks can fly by and every UMAster should be given enough time to prove themselves of their newly appointed position. Three months might still be too short of a time period but it’s a good enough middle-ground compared to the current timeframe.</p>
+</li>
+<li>
+<p>If a UMAster is outvoted during an election it makes sense for them to be considered a Core SuperUMAn instead of SuperUMAn. This eases the compensation reduction and shows them that they are still key members of the DAO. And because elections are not 100% accurate in determining the value of one’s contributions this seems like a good middle ground.</p>
+</li>
+<li>
+<p>Only Core SuperUMAns and current UMAsters should be able to become nominees in the UMAster election. This aligns with our SuperUMAns to Core SuperUMAns membership compensation change process. As you must already be a SuperUMAn to be considered for the Core SuperUMAn compensation. This ensures that all nominees have received support from at least 5 UMAsters and 3 SuperUMAns and have been active members of the DAO for at least half an epoch.</p>
+</li>
+<li>
+<p>After feedback on our current process being only self-nomination there should be an option to formally nominate as well. As long as the nominee meets the criteria of either being a Core SuperUMAn or current UMAster it won’t change how the UMAster process runs.</p>
+</li>
+<li>
+<p>Recruits are valuable members of the DAO and are the fresh blood the DAO needs to survive. The only issue is the lack of time actually spent in the DAO to make an informed decision. In alignment with the SuperUMAn to Core SuperUMAn membership tier change structure it makes sense to keep it to SuperUMAn and above can vote in the UMAster election.</p>
+</li>
+</ul>
+<p><strong>Changes to [SuperUMAn DAO - Design Principles]</strong></p>
+<p>Under Mechanism for Confirming Membership Tier changes:</p>
+<p><strong>From:</strong></p>
+<ol>
+<li>Nominations for UMAsters open for 5 days and will be indicated by a self-nomination process through emoji, where if the number of nominations exceeds the number of spaces, a Discord poll for UMAsters will be conducted indicating number of vacancies, Those who receive the highest votes receive the UMAster places. In the event of a tie, a second poll will be run between the tied members.</li>
+</ol>
+<p><strong>To:</strong></p>
+<ol>
+<li>Nominations for UMAsters open for 5 days and will be indicated by <strong>nomination or a self-nomination process</strong> through emoji, where if the number of nominations exceeds the number of spaces, a Discord poll for UMAsters will be conducted indicating the number of vacancies. <strong>If a Core SuperUMAn or UMAster is nominated by someone else then they need to accept the nomination by replying to the nomination &amp; adding their emoji reaction, to be considered for the role. Nominees may only consist of current UMAsters and Core SuperUMAns. Only SuperUMAn tier and above may vote in the election.</strong> Those who receive the highest votes receive the UMAster places. In the event of a tie, a second poll will be run between the tied members.</li>
+</ol>
+<p><strong>Under Becoming Umaster:</strong></p>
+<p><strong>From:</strong></p>
+<p>UMAsters are the critical elements of the DAO’s functioning and take on specific responsibilities for an area of work, either taking on a specific role or function or generally providing DAO leadership. It is expected that team leads would be UMAsters.</p>
+<p>UMAsters should comprise no more than 20% of the membership of the DAO. The definition of an UMAster is somewhat subjective and it is recognised that members may value different qualities in different members based around their commitment and responsibility.</p>
+<p>The promotions process will occur through a soft consensus based around a Discord poll followed by a confirmatory governance vote that will take place every six weeks with an indication of the number of vacancies available. Once the UMAsters are identified, their SuperUMAn NFT will be burnt and a new UMAster NFT will be minted and issued.</p>
+<p>UMAsters will be re-elected every six weeks.</p>
+<p><strong>To:</strong></p>
+<p>UMAsters are the critical elements of the DAO’s functioning and take on specific responsibilities for an area of work, either taking on a specific role or function or generally providing DAO leadership. It is expected that team leads would be UMAsters.</p>
+<p>UMAsters should comprise no more than 20% of the membership of the DAO. The definition of an UMAster is somewhat subjective and it is recognised that members may value different qualities in different members based around their commitment and responsibility.</p>
+<p>The promotions process will occur through a soft consensus based around a Discord poll followed by a confirmatory governance vote that will take place every six weeks with an indication of the number of vacancies available. Once the UMAsters are identified, their SuperUMAn NFT will be burnt and a new UMAster NFT will be minted and issued. In the case they were already an UMAster they will retain their existing UMAster NFT.</p>
+<p><strong>UMAsters will be re-elected every quarter.</strong></p>
+<p><strong>To be added Under Exiting the DAO after Reactivating SuperUMAn status:</strong></p>
+<p><strong>UMAster Role Redesignation</strong></p>
+<p><strong>In the event an existing UMAster does not get reelected during an UMAster election they will be redesignated to Core SuperUMAn which is solely a compensation level. Their UMAster NFT will be burned and replaced with a SuperUMAn NFT.</strong></p>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>None at this time</p>
+            <p><small>4 posts - 3 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Thu, 24 Feb 2022 14:44:09 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-928</guid>
+          <source url=".. UMAster Amendments (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-5: Proxy Tokens for Tipping (PASSED)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-5: Proxy Tokens for Tipping</strong></p>
+<p><strong>Rationale</strong><br>
+So far we have been using our actual KPI Option tokens loaded into Tip.cc Bot to distribute tips, and have been doing so on Ethereum. This means we have been paying Ethereum gas fees for loading Tip.cc Bot, and recipients have been spending Ethereum gas fees (as KPI Options) for withdrawal.</p>
+<p>More importantly, each time we add a new KPI Options token to the Tip.cc Bot we have to pay a $1000 fee (currently, 6 months ago it was $500).</p>
+<p><strong>Content of the Proposal:</strong></p>
+<p>To tackle these points I’m proposing that for tipping, in place of our actual KPI Options token, we use:</p>
+<ol>
+<li>A blank token</li>
+<li>Minting on Polygon</li>
+<li>A limited in supply to ensure 1:1 matching, this epoch, with actual KPI Options minted for use as tips</li>
+<li>This blank token added on Tip.cc Bot only one time</li>
+</ol>
+<p><strong>We would then tip as we normally would, and for redemption follow this approach:</strong></p>
+<ul>
+<li>Recipients can claim the actual KPI Options, at any point or at the end of an epoch, by sending their accumulated blank tokens to their team leads</li>
+<li>Given that the KPI Options are almost certainly going to be on Polygon it would be easy and cheap for (batch) sending KPI Options from Treasury</li>
+<li>At the end of an epoch, all team leads send the tokens back to Operations and/or Treasury team, for redistribution next epoch</li>
+<li>A tally would be done to ensure as much of the original token amount distributed that epoch is returned</li>
+<li>We can always mint more blank tokens to match KPI Options needs over time</li>
+<li>In the next epoch, to further reduce the chance of gaming the system, we could hike the equivalence to 10 blank:1 KPI option (TBD next epoch)</li>
+</ul>
+<p><strong>Additional Notes:</strong></p>
+<ol>
+<li>Polygon has extremely low gas fees, normally around $0.01 or less - reduces loading costs</li>
+<li>As we are using the token for a single purpose it makes sense to only have to add it the one time on tip bot</li>
+<li>Recipients no longer need to be taught how to withdraw from Tip.cc Bot, only how to tip</li>
+<li>By using a blank token we resolve any security &amp; financial concerns of having actual tokens locked in Tip.cc Bot, in case it goes down/withdrawals are not working</li>
+<li>This adds a bit of operational overhead, but it eases the experience for end-users and could promote more widespread tipping</li>
+<li>We can institute this as soon as Teams have their budgets allocated to their multi-sigs, without having to wait for suINT (SU Epoch 1 KPI Options) to be minted</li>
+</ol>
+<p><strong>What on-chain actions might this proposal entail:</strong></p>
+<p>None at this time</p>
+            <p><small>7 posts - 5 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Wed, 23 Feb 2022 19:04:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-919</guid>
+          <source url=".. Proxy Tokens for Tipping (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-4: Governance Snapshot Quorum (PASSED)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-4</strong></p>
+<p><strong>Governance SnapShot Quorum</strong></p>
+<p><strong>Rationale</strong></p>
+<ul>
+<li>
+<p>As it stands the Snapshot quorum is fully dependent on how many members have voted on the Discourse.</p>
+</li>
+<li>
+<p>With weighted voting it makes more sense for quorum to be 50% of the total voting power of the entire DAO.</p>
+</li>
+<li>
+<p>Currently to increase the chance of a proposal going through, you want less members to participate in the Discourse formal governance process to decrease the quorum on Snapshot</p>
+</li>
+<li>
+<p>It would be beneficial to have good showings for every vote and to have the majority of members actively participating and be aware of any potential changes to the DAO.</p>
+</li>
+</ul>
+<p><strong>Content of the Proposal</strong>:</p>
+<p>Change the quorum on snapshot to 50% of the total voting power of the DAO from 50% of the number of members that voted on the discourse formal proposal.</p>
+<p><strong>Proposed amendment to Governance of the SuperUMAn DAO:</strong></p>
+<p>(The following would make a change within ‘Details of governance Mechanism’</p>
+<p>under stage 4 on the 2nd to last sentence. ‘Snapshot Vote’. As well as amend the quorum calculation process to the expedited governance track.)</p>
+<p><strong>Amendment to ‘Details of Governance Mechanism’:</strong></p>
+<p><strong>Sentence to be changed from:</strong></p>
+<p>This snapshot vote requires a 51% majority and a quorum of 50% of the number of people who voted on the discourse poll.</p>
+<p><strong>Sentence to be changed to:</strong></p>
+<p>This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO.</p>
+<p><strong>Amendment to ‘Expedited Governance Track’:</strong></p>
+<p><strong>Will change from:</strong></p>
+<p>The quorum for the snapshot vote (Stage 4) is 70% of voters from Stage 3;</p>
+<p><strong>Will change to:</strong></p>
+<p>The quorum for the Snapshot vote (Stage 4) is 70% of total voting power of the entire DAO;</p>
+<p><strong>What on-chain actions might this proposal entail</strong>:</p>
+<p>None at this time.</p>
+            <p><small>4 posts - 2 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Wed, 09 Feb 2022 12:00:34 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-613</guid>
+          <source url=".. Governance Snapshot Quorum (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-3: SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+          <dc:creator><![CDATA[Wraithers]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-3</strong><br>
+<strong>SuperUMAn DAO Budget and Compensation Plan</strong></p>
+<hr>
+<p><strong>Executive Summary</strong><br>
+This proposal defines the budget and compensation plan for SuperUMAn DAO Epoch 1 (Jan '22 - Mar '22). As per the SU DAO Design Principles, the team worked on defining proposals that:</p>
+<ol>
+<li>
+<p>Has sufficient stables to provide a level of stability for our members at all eligible tiers</p>
+</li>
+<li>
+<p>Distributes KPI Options that’s similar to the framework of prev. epochs</p>
+</li>
+<li>
+<p>Meets our pre-defined requirements for team budgets to enable operational costs to be covered</p>
+</li>
+<li>
+<p>Have an allocation of funds for gas &amp; transaction costs</p>
+</li>
+<li>
+<p>Sufficient reserves such that we can allocate to our defined emergency fund, while also considering additional tipping collateral, DAO actions, sponsorships, grants, bounties etc.</p>
+</li>
+</ol>
+<p>Please note that as the transfer multi-sig was funded with 100,000 UMA at the end of Dec, we have to use a working USD value for UMA. As the treasury seeding details are being worked out, we have opted for a conservative 1 UMA = 5.7 USD for this budget and all calculations within.</p>
+<p>This proposal does not contain:</p>
+<ul>
+<li>The plan for using proxy tokens for tipping and the value in KPI Options (possibly) that each proxy token will be worth</li>
+<li>The mechanism or details of how peer-evaluation will be carried out, or the distribution of KPI options as a result of the same</li>
+</ul>
+<hr>
+<p><strong>Rationale</strong><br>
+This is a required governance step as the Design Principles were setup to allow the DAO members to structure and vote in our own budget and compensation plans.</p>
+<p>We have worked through 11 options of the overall DAO budget, including 4 versions of the compensation breakdown, to arrive at a proposal that aims to best balance the responsibilities of the DAO and the expectations of our members.</p>
+<hr>
+<p><strong>Content of the Proposal</strong>:</p>
+<p>The budget breakdown for this epoch works on an operating treasury value assumed to be $570,000:</p>
+<ul>
+<li>Allocation for compensation in stables is approx. 26% i.e. <strong>$150,000</strong>
+</li>
+<li>Allocation for quarterly KPI Options (which are being designed separately) is 45% i.e. <strong>$256,500</strong> (45,000 UMA)</li>
+<li>Operational costs for each of the 9 teams was set as $2,500/epoch, hence the allocation is approx. 3.9% i.e. <strong>$22,500</strong>
+</li>
+<li>Allocation for gas costs for launching contracts &amp; SU DAO operations is approx. 3.6% i.e. <strong>$20,520</strong>
+</li>
+<li>The remaining percentage covers the $25,000 emergency fund, grants/bounties/dev support, additional collateral for tipping, and overall reserves at approx. 21.1% i.e. <strong>$120,480</strong>
+</li>
+</ul>
+<p>The compensation details will be shared below in the order noted in the Design Principles:</p>
+<p><strong>There should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters</strong></p>
+<ul>
+<li>
+<strong>$406/month</strong> for SuperUMAns</li>
+<li>
+<strong>$821/month</strong> for Core SuperUMAns</li>
+<li>
+<strong>$1524/month</strong> for UMAster</li>
+</ul>
+<p><strong>Quarterly KPI options should be available for all DAO members</strong><br>
+Note: We will be minting the KPI options with 45,000 UMA and splitting the distribution as follows</p>
+<ul>
+<li>
+<strong>100 KPI Options</strong> for Basic Members</li>
+<li>
+<strong>900 KPI Options</strong> for SuperUMAns</li>
+<li>
+<strong>1000 KPI Options</strong> for Core SuperUMAns</li>
+<li>
+<strong>1100 KPI Options</strong> for UMAsters</li>
+</ul>
+<p><strong>There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.</strong></p>
+<ul>
+<li>
+<strong>17,500 KPI Options</strong> i.e. approx. 23.3% of overall allocation for KPI Options</li>
+</ul>
+<p>Values have been pulled from the final working documents that were presented on Discord prior to this vote with only minor updates to reflect the number of KPI Options to be sent:</p>
+<ul>
+<li><a href=".. class="inline-onebox" rel="noopener nofollow ugc">SU DAO - Budget - Google Sheets</a></li>
+<li><a href=".. class="inline-onebox" rel="noopener nofollow ugc">SU DAO - Compensation Structure - Google Sheets</a></li>
+</ul>
+<hr>
+<p><strong>What on-chain actions might this proposal entail</strong>:<br>
+None at this time</p>
+            <p><small>14 posts - 12 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Sun, 06 Feb 2022 14:53:03 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-558</guid>
+          <source url=".. SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP-2 Expedited Governance (PASSED)</title>
+          <dc:creator><![CDATA[arcology]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP-2</strong><br>
+<strong>Expedited Governance</strong><br>
+Author: arcology</p>
+<p><strong>Executive Summary</strong><br>
+This proposal adds an ‘expedited governance’ track to allow proposals which are important and under time pressure to be ratified more quickly, with some exclusions.</p>
+<p>This proposal is not eligible for expedited governance (for obvious reasons).</p>
+<p><strong>Rationale/Motivation</strong><br>
+The <a href=".. rel="noopener nofollow ugc">current governance process</a> has a maximum timeframe of 21 days from start to finish for a prospective proposal to go through. This creates unnecessary overhead and time lost if the content of the proposal is important to the functioning of the DAO, and/or if the proposal in question is under time pressure to be executed.</p>
+<p>An example is the delay of the enactment of Compound’s code tweaks to patch the <a href=".. rel="noopener nofollow ugc">overcompensation token incident</a> due to the typical governance process timeframe, where an expedited governance track can help reduce the effects of loss.</p>
+<p><strong>Content of the Proposal/Specification</strong>:<br>
+The expedited governance process overrides the existing governance procedure by removing the need for an optional temperature check and compulsory signal (Stage 1 and 2), by allowing a proposal to directly enter the formal proposal phase (Stage 3) for a shorter timeframe and also proceed to Snapshot phase (Phase 4), under a shorter timeframe given that the proposal passes up to this point.</p>
+<p>There are additional requirements to allow proposals to proceed under the expedited governance track:</p>
+<ol>
+<li>
+<strong>The proposal in question must be eligible</strong>. As of this writing, eligibility is open for all with the following exclusions:<br>
+a. Proposals for membership status changes;<br>
+b. Proposals for compensation level changes.</li>
+<li><strong>Authors must declare in the originating thread that they intend for the proposal to go through the expedited governance track.</strong></li>
+<li>
+<strong>The quorum for the formal proposal (Stage 3) is limited and raised to 50% for all SUs and above</strong> (ie superUMAns and UMAsters), with a <strong>minimum endorsement from 5 UMAsters;</strong>
+</li>
+<li>
+<strong>The threshold for a Stage 3 passing vote needs to be a supermajority</strong> (67% and above);</li>
+<li>
+<strong>The quorum for the snapshot vote (Stage 4) is 75% of voters</strong> from Stage 3;</li>
+<li><strong>The threshold for a Stage 4 passing vote is 80%.</strong></li>
+<li><strong>Stage 3 and Stage 4 timelines can be reduced to 48 hours each.</strong></li>
+<li>
+<strong>If a vote fails in expedited governance at any point, the proposal in question cannot be placed again under expedited governance</strong> and is required to go through the normal governance process.</li>
+</ol>
+<p><strong>Visual Guide</strong><br>
+Please right click and open this image in new tab/window for full size.<br>
+</p><div class="lightbox-wrapper"><a class="lightbox" href=".. data-download-href=".. title="governance flowchart"><img src=".. alt="governance flowchart" data-base62-sha1="qQX4jJDX8ITiiTp5lsnlCfso07Q" width="353" height="500" srcset=".. .. 1.5x, .. 2x" data-small-upload="..
+<p><a href=".. to view the poll.</a></p>
+            <p><small>11 posts - 5 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Tue, 01 Feb 2022 16:32:01 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-505</guid>
+          <source url=".. Expedited Governance (PASSED)</source>
+        </item>
+        <item>
+          <title>SUDAO-IP 1: Active Status (PASSED)</title>
+          <dc:creator><![CDATA[FruityCup]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p><strong>SUDAO-IP 1</strong></p>
+<p><strong>Active Status</strong></p>
+<p><strong>Rationale</strong></p>
+<p>The reason Active Status is important is because it provides a way to separate inactive members from active members. This will give us an accurate count of how many members are eligible for compensation and governance. There is also another document attached to ‘Active Status’ called ‘Core SuperUMAn’. In ‘Core SuperUMAn’ there is a process outlined for a SuperUMAn to become a ‘Core SuperUMAn’. This is for compensation purposes only not voting power. ‘Core’ was decided by UMA team last epoch and now we need a decentralized way to determine which SuperUMAns are core.</p>
+<p><strong>Content of the Proposal</strong>:</p>
+<p><strong>The Active Status list!:</strong></p>
+<p>This list is to give us an accurate account of our membership situation as of 01/11/22! As we get closer to launching the DAO we are going to want accurate information for compensation and uMaster status! So below is a fairly detailed account of how many active, inactive, and semi-active members there are.</p>
+<p><strong>‘Core SuperUMAns’</strong></p>
+<p>‘Core SuperUMAns’ outlines the process for a SuperUMAn to become a Core SuperUMAn! This is for compensation purposes only, it doesn’t change their voting power. This is relevant to this document because ‘core’ was a given role for compensation last epoch by the UMA team. We now need a decentralized way to determine how a SuperUMAn can become a Core SuperUMAn. There is a section at the bottom of this proposal dedicated to ‘Core SuperUMAns’.</p>
+<p><strong>Process:</strong></p>
+<p>This document will be posted in the SuperUMAn DAO discord for 1 week before going through the official governance process. During this time members can dispute and be reached out via pings/DMs. The community can then vote, via Discord emoji poll (51%), on the disputes at the end of the week and finalize the changes to the proposal. The proposal will then go through the SU governance process.</p>
+<p><strong>Key</strong></p>
+<p>*Inactive - Has not typed in the Discord in at least 4-6 weeks, the latter half of the last epoch, and is ineligible for compensation. (Their last active date is noted next to their name)</p>
+<p>*Semi-Active - Has typed within the last month but has been infrequent; ineligible for compensation.</p>
+<p>*Active - Has been actively participating within the last month in discord; eligible for compensation.</p>
+<p>*Retain - Honorary DAOplomats that have gone inactive but bring enough value to be reached out to if they haven’t opted in for KPI options.</p>
+<p>*Inactive Honorary DAOplomats will have to ‘opt-in’ through Discord emoji reaction by a certain deadline, to join the SuperUMAn DAO (qualifying them for Basic member KPI Options, shared between Recruits and Alumni).</p>
+<p>*Alumni - SuperUMAns that have stepped down from their position.</p>
+<p>*Bounty Hunter - Those who join the DAO to perform a paid task such as dev work but wouldnt be considered recruits. They can opt-in for recruit status as there would be value to recruit them into the DAO.</p>
+<p>*UMIP Review - Either a member or former member of the UMIP review team who would be able to opt-in for recruit rewards. Will reach out to inform of the DAO interest on having them on board and to opt-in if interested.</p>
+<p>*UMAsters can comprise up to 20% of the DAO.</p>
+<p>*Core - it relates to the splitting of SuperUMAns into “core” and “ordinary” based off of last epochs compensation tier list.</p>
+<p>*UMA - SuperUMAns that have been promoted to UMA team member aren’t eligible for SU compensation after clarifying with Clayton | UMA. Will move them to Honorary DAOplomat status with other UMA team members that are involved with the DAO and are ineligible for compensation.</p>
+<p><strong>UMAsters (19)</strong></p>
+<p><strong>Active (18)</strong></p>
+<ol>
+<li>AbsoluteUnit</li>
+<li>Coach</li>
+<li>Deadcoin</li>
+<li>EAsports</li>
+<li>Ericbal</li>
+<li>Henrystats</li>
+<li>Fruitycup</li>
+<li>Inalittlewhile</li>
+<li>JBamadeus</li>
+<li>Mide</li>
+<li>Neondaemon</li>
+<li>Poapster</li>
+<li>Ponmile</li>
+<li>PVMihalache</li>
+<li>SurfTranquille</li>
+<li>Therealtuna</li>
+<li>Timigraphicks</li>
+<li>Wraithers</li>
+</ol>
+<p><strong>Inactive (1)</strong></p>
+<ol>
+<li>SeanG (11/12/21)</li>
+</ol>
+<p><strong>SuperUMAns (46)</strong></p>
+<p><strong>Active (20)</strong></p>
+<ol>
+<li>Alex - Documentor</li>
+<li>Arcology</li>
+<li>Berry</li>
+<li>Crushhhh (currently Core)</li>
+<li>Doubledee</li>
+<li>EverythingBlockChain (currently Core)</li>
+<li>Gruad</li>
+<li>Hiten</li>
+<li>Hash-error (currently Core)</li>
+<li>Heruvim78</li>
+<li>Kris (currently Core)</li>
+<li>Mazygio (currently Core)</li>
+<li>Nithin shylendra (currently Core)</li>
+<li>rHorse (currently Core)</li>
+<li>Shellpen</li>
+<li>ShroomPOWER (aka PowerVesting)</li>
+<li>Thatcryptogal</li>
+<li>Zer8</li>
+<li>0xMitz</li>
+<li>MANUEL</li>
+</ol>
+<p><strong>Semi active (5)</strong></p>
+<ol>
+<li>JJC</li>
+<li>Tomo</li>
+<li>UMA verse</li>
+<li>Walter Wolf</li>
+<li>Tenzent</li>
+</ol>
+<p><strong>Inactive (17)</strong></p>
+<ol>
+<li>
+<strong>eq</strong> (10/08/21)</li>
+<li>Adrian | DFX (06/07/21)</li>
+<li>Angrydeer (08/12/21)</li>
+<li>Ap0ll0517.eth (11/03/21)</li>
+<li>Cryptouf (10/10/21)</li>
+<li>DAO Jones (06/27/21)</li>
+<li>Edsonalcala (10/14/21)</li>
+<li>Feddas (08/20/21)</li>
+<li>Indigo (08/04/21)</li>
+<li>Jzjallday (09/03/21)</li>
+<li>Momomo (11/14/21)</li>
+<li>Orbby12 (10/19/21)</li>
+<li>ProjectEqual (10/01/21)</li>
+<li>Rielyc01 (06/14/21)</li>
+<li>Supachimp (10/05/21)</li>
+<li>Tacocat (10/20/21)</li>
+<li>Tritium ((07/20/21)</li>
+</ol>
+<p><strong>Stepped down or left the Discord (4)</strong></p>
+<ol>
+<li>0xEvan(stepped down)</li>
+<li>Bitznbrew(stepped down)</li>
+<li>Chillzone(left)</li>
+<li>Noel(left)</li>
+</ol>
+<p><strong>Recruits (25)</strong></p>
+<p><strong>Active (18)</strong></p>
+<ol>
+<li>Gr8ness</li>
+<li>Sofiat</li>
+<li>Victor Fela</li>
+<li>AH_Wolf</li>
+<li>David (please DYOR…)</li>
+<li>Lystic</li>
+<li>Gmsteele</li>
+<li>smiley7</li>
+<li>fiyin</li>
+<li>markh.eth</li>
+<li>samsmith</li>
+<li>Teefah</li>
+<li>aakansha.eth</li>
+<li>efosa</li>
+<li>SBSINGH</li>
+<li>Kyon.Ada</li>
+<li>ByrontheArtist</li>
+<li>Adeleke</li>
+</ol>
+<p><strong>Inactive (6)</strong></p>
+<ol>
+<li>Siapalo</li>
+<li>Blacktv</li>
+<li>Birchskin</li>
+<li>Buy</li>
+<li>Lawrence</li>
+<li>3scavli3r</li>
+</ol>
+<p><strong>Honorary DAO-plomats (48)</strong></p>
+<p><strong>Active (4)</strong></p>
+<ol>
+<li>Crusher</li>
+<li>Tap.eth</li>
+<li>Britt | UMA (non-eligible)</li>
+<li>BabySpoox | UMA (non-eligible)</li>
+</ol>
+<p><strong>Semi-active (6)</strong></p>
+<ol>
+<li>Ernest_of_Gaia</li>
+<li>Fran</li>
+<li>Frogmonkee</li>
+<li>Icarusz</li>
+<li>Motif</li>
+<li>Tobowers</li>
+</ol>
+<p><strong>Inactive (39)</strong></p>
+<ol>
+<li>Omen (11/15/21)</li>
+<li>0xNacho (No info)</li>
+<li>Acesontop (10/10/21)</li>
+<li>Alex Wilson (04/02/21)</li>
+<li>AlexEKoren (no info)</li>
+<li>Arosh (no info)</li>
+<li>Beeradley (no info)</li>
+<li>Brag (08/07/21)</li>
+<li>CarelessDoge (11/03/21)</li>
+<li>Devinaconley (no info)</li>
+<li>Dunks411 (10/28/21)</li>
+<li>Giantkin (11/02/21)</li>
+<li>Huxwell (10/21/21)</li>
+<li>Jonto (07/23/21)</li>
+<li>Joshf (no info)</li>
+<li>Joyce (09/21/21)</li>
+<li>Matz (11/15/21)</li>
+<li>Messchen (09/15/21)</li>
+<li>MrMeridian (11/09/21)</li>
+<li>Nico (10/28/21)</li>
+<li>Noema (10/27/21)</li>
+<li>Paul_apivat (08/11/21)</li>
+<li>Pepperoni Jo3 (11/23/21)</li>
+<li>Rliriano (09/12/21)</li>
+<li>Sponge (09/29/21)</li>
+<li>Steffen (10/01/21)</li>
+<li>ReconLion(no info)</li>
+<li>Thesmith (11/09/21)</li>
+<li>Tritium (07/20/21)</li>
+<li>Twilight Pirate (09/30/21)</li>
+<li>Wezek (07/20/21)</li>
+<li>Willyfox (10/31/21)</li>
+<li>Yonks (09/20/21)</li>
+<li>Angyts.eth (08/10/21) (retain)</li>
+<li>Chris2F (07/23/21) (retain)</li>
+<li>Eagle (11/14/21) (retain)</li>
+<li>Erin Dana (11/19/21) (retain)</li>
+<li>HowToRep (11/05/21) (retain)</li>
+<li>Joe.78 (10/09/21) (retain)</li>
+<li>Tanman (09/28/21) (retain)</li>
+</ol>
+<p><strong>UMIP Review</strong></p>
+<ol>
+<li>Yuen</li>
+<li>Hexi</li>
+<li>Anu</li>
+</ol>
+<p><strong>Bounty Hunters</strong></p>
+<ol>
+<li>Zapata</li>
+<li>Rau</li>
+</ol>
+<p><strong>Alumni</strong></p>
+<ol>
+<li>0xEvan</li>
+<li>BitznBrew</li>
+</ol>
+<p><strong>‘Core SuperUMAns’ Process:</strong></p>
+<p><strong>Context:</strong></p>
+<ul>
+<li>As per previous epochs the Core SuperUMAns level is only intended to be a compensation level; please refer to compensation projections for differences <a href=".. Spreadsheet</a>
+</li>
+<li>A Core SuperUMAn has the same voting power and NFTs as any other SuperUMAn</li>
+<li>In previous epochs the UMA team centrally managed the Core SuperUMAn level</li>
+<li>Given that we are now a DAO we need a process that allows the community to promote a SuperUMAn to Core SuperUMAn compensation level</li>
+</ul>
+<p><strong>Promotion Process:</strong></p>
+<ul>
+<li>One must be a SuperUMAn to be eligible to self nominate for promotion to Core SuperUMAn.</li>
+<li>A SuperUMAn can’t apply for both Core SuperUMAn and UMAster at the same time.</li>
+<li>Core SuperUMAn nominations will follow a similar process as UMAsters such that they need to self-nominate themselves for the compensation level through emoji</li>
+<li>They will start at the same time as UMAster nominations and will be open for 5 days</li>
+<li>Currently there’s no cap on how many SuperUMAns can be promoted to Core SuperUMAn provided they receive the minimum number of votes by their peers as detailed below.</li>
+<li>By the end of the 5 day period, the Operations team will collect testimonials, from 1 UMAster and 1 other SuperUMAn for each self-nominated SuperUMAn.</li>
+<li>These testimonials, gathered up to 1 day after the nomination period, would serve as approval of the final nominations.</li>
+<li>For the DAO to approve the promotion, the combined testimonials for that SuperUMAn would go up as a 24 hour emoji-based poll and have to receive 8 emoji responses: 5 from UMAsters and 3 from SuperUMAns</li>
+</ul>
+<p><strong>Important Considerations</strong></p>
+<ul>
+<li>The recommendation is to merge this proposal with the Active Status proposal so that it can be voted on together in governance and accordingly be ready in time for the upcoming Membership Tier changes</li>
+<li>Given that the joint proposal impacts the Membership Tier changes, if there are any delays during the governance process, it is recommended to have a short delay in Membership Tier changes</li>
+</ul>
+<p><strong>Proposed amendment to Governance of the SuperUMAn DAO</strong></p>
+<p><strong>(The following should be added within ‘Mechanism for Confirming Tier changes’</strong></p>
+<p><strong>after point 1. ‘UMAsters nomination process’.)</strong></p>
+<ol start="2">
+<li>Starting alongside UMAster nominations, the nominations for Core SuperUMAns open for 5 days and will be indicated by a self-nomination process through emoji. The Operations team has a buffer of up to 1 day afterwards to collect a testimonial from 1 UMAster and 1 other SuperUMAn for approval of each self-nomination. A 24 hour emoji based poll for each SuperUMAn promotion to Core SuperUMAn, is organized by Operations Team by combining the two testimonials. A minimum of 8 emoji responses, 5 from UMAsters and 3 from SuperUMAns, is required in order for the SuperUMAn to be added to the proposal as a Core SuperUMAn.</li>
+</ol>
+<p><strong>What on-chain actions might this proposal entail</strong>:  The on-chain actions are linked to minting the NFTs and issuing them to the correct tier level of each member.</p>
+<p><strong>Proposal must reach 5 likes within 7 days to move onto the next phase of governance!</strong></p>
+            <p><small>19 posts - 16 participants</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Sat, 29 Jan 2022 15:53:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-404</guid>
+          <source url=".. 1: Active Status (PASSED)</source>
+        </item>
+        <item>
+          <title>About the Signal category</title>
+          <dc:creator><![CDATA[mhairi]]></dc:creator>
+          <category>Signal</category>
+          <description><![CDATA[
+            <p>Proposals to the SuperUMAn DAO can be made in this category to obtain feedback.</p>
+<p>If the post receives 5 likes, it can then pass to the formal proposal stage.</p>
+<p>If the proposal has not received 5 likes after 7 days then the topic will be closed.</p>
+<p>Anyone can make a proposal. Proposals will be announced on the Discord <span class="hashtag">#proposal-announcements</span> channel.</p>
+<p>Signal proposals should be numbered with SUDAO-IP.  An example is given in SUDAO-IP 0</p>
+<p><em>note that before a proposal is posted on Discourse, it is recommended to start a discussion in the <span class="hashtag">#proposals</span> channel of Discord to gain initial feedback.</em></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href=".. full topic</a></p>
+          ]]></description>
+          <link>..
+          <pubDate>Tue, 28 Dec 2021 14:08:28 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">discourse.superumans.xyz-topic-14</guid>
+          <source url=".. the Signal category</source>
+        </item>
+  </channel>
+</rss>

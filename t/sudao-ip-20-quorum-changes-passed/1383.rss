@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+    <link>..
+    <description>**SUDAO-IP-20:**
+
+**Snapshot Quorum Change**
+
+**Rationale:**
+
+This document is to ratify our current Snapshot Quorum as written in our SuperUMAn DAO Design Principles.
+
+**Content of the Proposal:**
+
+* Change snapshot quorum from needing 50% of total voting power to no quorum.
+* There still needs to be a simple majority (51%) to pass a proposal through snapshot.
+* Remove quorum from the “Formal Proposal and Poll” proposal stage. It will simply need a simple majority (51%) to pass.
+* Change the Discourse poll minimum timeline from 5-7 days to 3-7 days which matches the Snapshot phase.
+
+**Changes to [SuperUMAn DAO - Design Principles V2 - Google Docs](..
+
+**Under Governance of the SuperUMAn DAO - Stage 3 Formal Proposal and Poll**
+
+**From:**
+
+A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements
+- Yes
+- More Discussion
+- No
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for 5-7 days. Formal proposals will be announced on a Discord announcements channel
+
+**To:**
+
+A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements
+- Yes
+- More Discussion
+- No
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. **The poll will run for 3-7 days**. Formal proposals will be announced on a Discord announcements channel
+
+**Under Governance of the SuperUMAn DAO - Stage 4 Snapshot Vote**
+
+**From:**
+
+If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO. The snapshot will be open for 3-7 days.
+
+**To:**
+
+If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. **This snapshot vote requires a 51% majority and no quorum.** The snapshot will be open for 3-7 days.
+
+**Under Governance of the SuperUMAn DAO - Normal Track / Regular Governance**
+
+**From:**
+
+The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify the membership tiers which will be reflected in Discord roles in order that the members meeting the quorum requirement can be identified. The minimum amount of time it would take for a proposal to be passed is 8 days.
+
+**To:**
+
+The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify **members who are eligible to participate in the governance process.** The minimum amount of time it would take for a proposal to be passed is **6** days.
+
+**What on-chain actions might this proposal entail:** NONE</description>
+    
+    <lastBuildDate>Tue, 08 Nov 2022 00:51:41 +0000</lastBuildDate>
+    <category>Signal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 08 Nov 2022 01:04:31 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1383-5</guid>
+        <source url=".. Quorum Changes [PASSED]</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[gr8ness]]></dc:creator>
+        <description><![CDATA[
+            <p>Fruity i love and salute all you do</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 08 Nov 2022 00:51:41 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1383-4</guid>
+        <source url=".. Quorum Changes [PASSED]</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[Victorfela]]></dc:creator>
+        <description><![CDATA[
+            <p>Neat! Thank you Fruity.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 08 Nov 2022 00:40:47 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1383-3</guid>
+        <source url=".. Quorum Changes [PASSED]</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[PVMihalache]]></dc:creator>
+        <description><![CDATA[
+            <p>Let’s make SU great again!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 07 Nov 2022 23:04:10 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1383-2</guid>
+        <source url=".. Quorum Changes [PASSED]</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-20: Quorum Changes [PASSED]</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-20:</strong></p>
+<p><strong>Snapshot Quorum Change</strong></p>
+<p><strong>Rationale:</strong></p>
+<p>This document is to ratify our current Snapshot Quorum as written in our SuperUMAn DAO Design Principles.</p>
+<p><strong>Content of the Proposal:</strong></p>
+<ul>
+<li>Change snapshot quorum from needing 50% of total voting power to no quorum.</li>
+<li>There still needs to be a simple majority (51%) to pass a proposal through snapshot.</li>
+<li>Remove quorum from the “Formal Proposal and Poll” proposal stage. It will simply need a simple majority (51%) to pass.</li>
+<li>Change the Discourse poll minimum timeline from 5-7 days to 3-7 days which matches the Snapshot phase.</li>
+</ul>
+<p><strong>Changes to <a href=".. DAO - Design Principles V2 - Google Docs</a>:</strong></p>
+<p><strong>Under Governance of the SuperUMAn DAO - Stage 3 Formal Proposal and Poll</strong></p>
+<p><strong>From:</strong></p>
+<p>A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No<br>
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for 5-7 days. Formal proposals will be announced on a Discord announcements channel</li>
+</ul>
+<p><strong>To:</strong></p>
+<p>A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements</p>
+<ul>
+<li>Yes</li>
+<li>More Discussion</li>
+<li>No<br>
+In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. <strong>The poll will run for 3-7 days</strong>. Formal proposals will be announced on a Discord announcements channel</li>
+</ul>
+<p><strong>Under Governance of the SuperUMAn DAO - Stage 4 Snapshot Vote</strong></p>
+<p><strong>From:</strong></p>
+<p>If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO. The snapshot will be open for 3-7 days.</p>
+<p><strong>To:</strong></p>
+<p>If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse. <strong>This snapshot vote requires a 51% majority and no quorum.</strong> The snapshot will be open for 3-7 days.</p>
+<p><strong>Under Governance of the SuperUMAn DAO - Normal Track / Regular Governance</strong></p>
+<p><strong>From:</strong></p>
+<p>The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify the membership tiers which will be reflected in Discord roles in order that the members meeting the quorum requirement can be identified. The minimum amount of time it would take for a proposal to be passed is 8 days.</p>
+<p><strong>To:</strong></p>
+<p>The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify <strong>members who are eligible to participate in the governance process.</strong> The minimum amount of time it would take for a proposal to be passed is <strong>6</strong> days.</p>
+<p><strong>What on-chain actions might this proposal entail:</strong> NONE</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 07 Nov 2022 22:50:12 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1383-1</guid>
+        <source url=".. Quorum Changes [PASSED]</source>
+      </item>
+  </channel>
+</rss>

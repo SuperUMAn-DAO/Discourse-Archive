@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-15: Team Reporting [PASSED]</title>
+    <link>..
+    <description>**SUDAO-IP-15**
+
+**Team Reporting**
+
+**Rationale**
+There is a lack of clarity of exactly what each team’s accomplishments, goals and problems/issues are. There is also a large effort that is going into better communicating internally and externally about the DAOs overall goals and accomplishments. This report that each team is tasked to create will help with initiatives such as the newsletter and keeping UMA DAO informed of the ongoings of the SuperUMAns. This will also help us be better prepared when it comes time to approach UMA DAO with our next funding proposal. Overall this will be a great exercise for each team to write down their goals, reflect on any issues, and show off their accomplishments all while bolstering our communications efforts.
+
+**Content of the Proposal**:
+This document is to create a formal process for teams to report their accomplishments and goals on a bi-weekly basis.
+
+* Each team will have a dedicated channel underneath #getting-started named #reports
+* The report will be due on a bi-weekly timeline, specifically every 2nd and 4th Monday of each month.
+* Operations will create the channels for each team and also check for reports the day after a report is due to ensure there has been a report made. If a report has not been made operations will remind the team that the report is due.
+* Overall it will be up to each team to manage who is responsible for creating the report and making sure it&#39;s posted on discord by each due date.
+* It&#39;s recommended that each team assign two people to be responsible for these reports.
+* We encourage each team to set up their own google calendar to help keep track of the due dates and to help stay organized overall.
+* The #reports channel should also be strictly reports and any comments made that aren&#39;t reports will be deleted.
+* Format would be simplistic: Long term goals, short term goals, accomplishments, problems/issues
+
+**Reasoning:**
+* Every 2nd Monday is an easy way for each team to keep track of when another report is due.
+* Having the #reports live under each team&#39;s dedicated category would make it very easy for anyone to keep up with the happenings of each team.
+* Operations will assist more heavily in the beginning but then play a lesser role by only reminding teams if a report is late. Ultimately each team will need to come up with how they will be putting up reports on the specified days.
+* It&#39;s highly recommended that team leads aren’t the ones actually creating these reports. The biggest role a team lead should play is helping decide who would be responsible for the reports, checking reports, and continuously coming up with goals/ iterating on goals.
+* A team google calendar can help keep any important dates/deadlines in one place including when a report is due.
+* The format is kept pretty generic as this isn&#39;t meant to be a complicated exercise. It would be good to see the types of problems each team is running into as well.
+
+**Changes to** [SuperUMAn DAO - Design Principles V2 - Google Docs](..
+
+**Under Structure of the SuperUMAn DAO after Preamble :**
+
+**Team Reporting**
+Each team will be self-reporting in a public channel every two weeks. This channel will be located beneath each teams #getting-started channels named #reports. The report will be due every second Monday each month. Operations will check for reports the day after a report is due to ensure there has been a report made. If a report has not been made operations will remind the team that the report is due. There will be four pieces of information each report must have: Long term goals, Short term goals, accomplishments, and any problems/issues (if applicable).
+
+**What on-chain actions might this proposal entail**: 
+none at this time</description>
+    
+    <lastBuildDate>Thu, 12 May 2022 01:23:15 +0000</lastBuildDate>
+    <category>Signal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-15: Team Reporting [PASSED]</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 13 May 2022 12:03:10 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1342-4</guid>
+        <source url=".. Team Reporting [PASSED]</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-15: Team Reporting [PASSED]</title>
+        <dc:creator><![CDATA[arcology]]></dc:creator>
+        <description><![CDATA[
+            <p>While I agree that there should be some degree of accountability and team reporting, the proposed cadence of a report every 2 weeks is too short. As such I’m currently against this proposal in its current wording.<br>
+For my part, given that Ambassador teams need a lot of time for outreach and doing the work to implementation of the integration, I suggest this is done once a month or even twice an epoch.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Thu, 12 May 2022 01:23:15 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1342-3</guid>
+        <source url=".. Team Reporting [PASSED]</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-15: Team Reporting [PASSED]</title>
+        <dc:creator><![CDATA[Heruvim78]]></dc:creator>
+        <description><![CDATA[
+            <p>i agree with this as we do not know much about others and if you are active only in one two teams, you may seem inactive to others and you may think others are inactive if you are not checking other teams. you may need someone to be some kind of supervisor to check all the teams and do some monthly or epoch activity report. this would be good. two weeks is not enough. one month should be at least, as it will be quite a bit of work.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 11 May 2022 14:41:01 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1342-2</guid>
+        <source url=".. Team Reporting [PASSED]</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-15: Team Reporting [PASSED]</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-15</strong></p>
+<p><strong>Team Reporting</strong></p>
+<p><strong>Rationale</strong><br>
+There is a lack of clarity of exactly what each team’s accomplishments, goals and problems/issues are. There is also a large effort that is going into better communicating internally and externally about the DAOs overall goals and accomplishments. This report that each team is tasked to create will help with initiatives such as the newsletter and keeping UMA DAO informed of the ongoings of the SuperUMAns. This will also help us be better prepared when it comes time to approach UMA DAO with our next funding proposal. Overall this will be a great exercise for each team to write down their goals, reflect on any issues, and show off their accomplishments all while bolstering our communications efforts.</p>
+<p><strong>Content of the Proposal</strong>:<br>
+This document is to create a formal process for teams to report their accomplishments and goals on a bi-weekly basis.</p>
+<ul>
+<li>Each team will have a dedicated channel underneath <span class="hashtag">#getting-started</span> named <span class="hashtag">#reports</span>
+</li>
+<li>The report will be due on a bi-weekly timeline, specifically every 2nd and 4th Monday of each month.</li>
+<li>Operations will create the channels for each team and also check for reports the day after a report is due to ensure there has been a report made. If a report has not been made operations will remind the team that the report is due.</li>
+<li>Overall it will be up to each team to manage who is responsible for creating the report and making sure it’s posted on discord by each due date.</li>
+<li>It’s recommended that each team assign two people to be responsible for these reports.</li>
+<li>We encourage each team to set up their own google calendar to help keep track of the due dates and to help stay organized overall.</li>
+<li>The <span class="hashtag">#reports</span> channel should also be strictly reports and any comments made that aren’t reports will be deleted.</li>
+<li>Format would be simplistic: Long term goals, short term goals, accomplishments, problems/issues</li>
+</ul>
+<p><strong>Reasoning:</strong></p>
+<ul>
+<li>Every 2nd Monday is an easy way for each team to keep track of when another report is due.</li>
+<li>Having the <span class="hashtag">#reports</span> live under each team’s dedicated category would make it very easy for anyone to keep up with the happenings of each team.</li>
+<li>Operations will assist more heavily in the beginning but then play a lesser role by only reminding teams if a report is late. Ultimately each team will need to come up with how they will be putting up reports on the specified days.</li>
+<li>It’s highly recommended that team leads aren’t the ones actually creating these reports. The biggest role a team lead should play is helping decide who would be responsible for the reports, checking reports, and continuously coming up with goals/ iterating on goals.</li>
+<li>A team google calendar can help keep any important dates/deadlines in one place including when a report is due.</li>
+<li>The format is kept pretty generic as this isn’t meant to be a complicated exercise. It would be good to see the types of problems each team is running into as well.</li>
+</ul>
+<p><strong>Changes to</strong> <a href=".. DAO - Design Principles V2 - Google Docs</a>:</p>
+<p><strong>Under Structure of the SuperUMAn DAO after Preamble :</strong></p>
+<p><strong>Team Reporting</strong><br>
+Each team will be self-reporting in a public channel every two weeks. This channel will be located beneath each teams <span class="hashtag">#getting-started</span> channels named <span class="hashtag">#reports</span>. The report will be due every second Monday each month. Operations will check for reports the day after a report is due to ensure there has been a report made. If a report has not been made operations will remind the team that the report is due. There will be four pieces of information each report must have: Long term goals, Short term goals, accomplishments, and any problems/issues (if applicable).</p>
+<p><strong>What on-chain actions might this proposal entail</strong>:<br>
+none at this time</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 11 May 2022 12:26:01 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1342-1</guid>
+        <source url=".. Team Reporting [PASSED]</source>
+      </item>
+  </channel>
+</rss>

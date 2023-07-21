@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+    <link>..
+    <description>**SUDAO-IP-3**
+**SuperUMAn DAO Budget and Compensation Plan**
+
+---
+**Executive Summary**
+This proposal defines the budget and compensation plan for SuperUMAn DAO Epoch 1 (Jan &#39;22 - Mar &#39;22). As per the SU DAO Design Principles, the team worked on defining proposals that:
+1. Has sufficient stables to provide a level of stability for our members at all eligible tiers
+
+2. Distributes KPI Options that&#39;s similar to the framework of prev. epochs
+
+3. Meets our pre-defined requirements for team budgets to enable operational costs to be covered
+
+4. Have an allocation of funds for gas &amp; transaction costs 
+
+5. Sufficient reserves such that we can allocate to our defined emergency fund, while also considering additional tipping collateral, DAO actions, sponsorships, grants, bounties etc. 
+
+Please note that as the transfer multi-sig was funded with 100,000 UMA at the end of Dec, we have to use a working USD value for UMA. As the treasury seeding details are being worked out, we have opted for a conservative 1 UMA = 5.7 USD for this budget and all calculations within.
+
+This proposal does not contain:
+- The plan for using proxy tokens for tipping and the value in KPI Options (possibly) that each proxy token will be worth
+- The mechanism or details of how peer-evaluation will be carried out, or the distribution of KPI options as a result of the same
+
+---
+**Rationale**
+This is a required governance step as the Design Principles were setup to allow the DAO members to structure and vote in our own budget and compensation plans.
+
+We have worked through 11 options of the overall DAO budget, including 4 versions of the compensation breakdown, to arrive at a proposal that aims to best balance the responsibilities of the DAO and the expectations of our members.
+
+---
+
+**Content of the Proposal**:
+
+The budget breakdown for this epoch works on an operating treasury value assumed to be $570,000:
+- Allocation for compensation in stables is approx. 26% i.e. **$150,000**
+- Allocation for quarterly KPI Options (which are being designed separately) is 45% i.e. **$256,500** (45,000 UMA)
+- Operational costs for each of the 9 teams was set as $2,500/epoch, hence the allocation is approx. 3.9% i.e. **$22,500**
+- Allocation for gas costs for launching contracts &amp; SU DAO operations is approx. 3.6% i.e. **$20,520**
+- The remaining percentage covers the $25,000 emergency fund, grants/bounties/dev support, additional collateral for tipping, and overall reserves at approx. 21.1% i.e. **$120,480**
+
+The compensation details will be shared below in the order noted in the Design Principles:
+
+**There should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters**
+- **$406/month** for SuperUMAns
+- **$821/month** for Core SuperUMAns
+- **$1524/month** for UMAster
+
+**Quarterly KPI options should be available for all DAO members**
+Note: We will be minting the KPI options with 45,000 UMA and splitting the distribution as follows
+- **100 KPI Options** for Basic Members
+- **900 KPI Options** for SuperUMAns
+- **1000 KPI Options** for Core SuperUMAns
+- **1100 KPI Options** for UMAsters
+
+**There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.**
+- **17,500 KPI Options** i.e. approx. 23.3% of overall allocation for KPI Options
+
+Values have been pulled from the final working documents that were presented on Discord prior to this vote with only minor updates to reflect the number of KPI Options to be sent:
+- ..
+- ..
+
+---
+**What on-chain actions might this proposal entail**: 
+None at this time
+
+[poll type=regular results=on_vote public=true chartType=bar close=2022-02-11T22:30:00.000Z]
+# Proposal Approval
+* Yes
+* More Discussion
+* No
+[/poll]</description>
+    
+    <lastBuildDate>Thu, 10 Feb 2022 13:22:36 +0000</lastBuildDate>
+    <category>Formal Proposal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[FruityCup]]></dc:creator>
+        <description><![CDATA[
+            
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Fri, 11 Feb 2022 13:43:06 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-12</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[gruad]]></dc:creator>
+        <description><![CDATA[
+            <p>Agreed.  <a class="mention" href=".. seems to be everywhere at once and I can only assume he either gets zero sleep or has a twin held hostage in a remote location tied to discord… <img src=".. title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Thu, 10 Feb 2022 13:22:36 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-11</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[gruad]]></dc:creator>
+        <description><![CDATA[
+            <p>We are already preparing a Budget for the second epoch.  While individual teams will need to define their needs we will keep track for the remainder of this epoch and suggest adjustments to budgets based on variance.  The vast majority of our budget is fixed in the sense that it is based on membership and levels so I suspect 99% of the decision will be centered around a general discussion of compensation.  I would note that this budget is designed around expectations that the UMA DAO will re-up some form of enDAOment for us to continue our work.  Right now we are cash flow negative as the SUDAO so it will be imperative that we can demonstrate to the UMA DAO and RL we are creating value in excess of our proposal for refunding.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Thu, 10 Feb 2022 13:20:48 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-10</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[poopster]]></dc:creator>
+        <description><![CDATA[
+            <p>I feel like this subject has been thoroughly picked to death and we have found the best iteration. Big thank yo to <a class="mention" href=".. for putting this together.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Wed, 09 Feb 2022 03:27:01 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-9</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[Wraithers]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey <a class="mention" href=".. thanks so much for the question.</p>
+<p>I believe <a class="mention" href=".. has already answered this to a degree and I only wanted to point out that if you check the <a href=".. rel="noopener nofollow ugc">Google Sheet for Compensation</a>, you’ll see what he was referring to in column Q, with regards to team-based compensation from peer-evaluation <img src=".. title=":blush:" class="emoji" alt=":blush:"></p>
+<p><strong>How</strong> that process is to be run wasn’t in scope for this proposal, hence why in this proposal it was noted:</p>
+<blockquote>
+<p>This proposal does not contain:</p>
+<ul>
+<li>The mechanism or details of how peer-evaluation will be carried out, or the distribution of KPI options as a result of the same</li>
+</ul>
+</blockquote>
+<p>and hence defined as:</p>
+<blockquote>
+<p><strong>There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.</strong></p>
+<ul>
+<li>
+<strong>17,500 KPI Options</strong> i.e. approx. 23.3% of overall allocation for KPI Options</li>
+</ul>
+</blockquote>
+<p>I hope this answers your questions! <img src=".. title=":+1:" class="emoji" alt=":+1:"></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 08 Feb 2022 18:34:40 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-8</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[arcology]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote group-Recruits" data-username="LiviuC" data-post="4" data-topic="567" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src=".. class="avatar"> LiviuC:</div>
+<blockquote>
+<p>Why is there such a big gap between basic members and SuperUMAn? (Kpi options)?</p>
+<p>Also, should be beneficial for the dao to alocate a budget for active basic members?</p>
+</blockquote>
+</aside>
+<p>I believe the intent would be to have a high proportion of the 17.5k team-based allocation KPI option tranches to reward Recruit contributions. SUs and above would get slightly more stable compensation.</p>
+<aside class="quote group-Umasters" data-username="Wraithers" data-post="3" data-topic="567" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src=".. class="avatar"> Wraithers:</div>
+<blockquote>
+<p>Great question! My understanding is that we would need to review our expenses this quarter, memberships numbers, number of integrations, work on our proposal to UMA for funding for the next epoch and accordingly update the budget and compensation to align.</p>
+<p>I defer to the Treasury team to define the actual process, this is just my thinking <img src=".. title=":blush:" class="emoji" alt=":blush:"></p>
+</blockquote>
+</aside>
+<p>I agree with this approach. Based on all of the membership tier updates mid-epoch, the treasury budgeting and compensation plan would likely happen at the same time.</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 08 Feb 2022 03:36:06 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-7</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[LiviuC]]></dc:creator>
+        <description><![CDATA[
+            <p>Why is there such a big gap between basic members and SuperUMAn? (Kpi options)?</p>
+<p>Also, should be beneficial for the dao to alocate a budget for active basic members?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 07 Feb 2022 12:57:43 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-4</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[Wraithers]]></dc:creator>
+        <description><![CDATA[
+            <p>Great question! My understanding is that we would need to review our expenses this quarter, memberships numbers, number of integrations, work on our proposal to UMA for funding for the next epoch and accordingly update the budget and compensation to align.</p>
+<p>I defer to the Treasury team to define the actual process, this is just my thinking <img src=".. title=":blush:" class="emoji" alt=":blush:"></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Mon, 07 Feb 2022 11:06:31 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-3</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[Berry]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for putting this together. Subject to the approval what is the mechanism for revisiting things for the following epoch?</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 06 Feb 2022 22:58:48 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-2</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-3 - SuperUMAn DAO Budget and Compensation Plan (PASSED)</title>
+        <dc:creator><![CDATA[Wraithers]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-3</strong><br>
+<strong>SuperUMAn DAO Budget and Compensation Plan</strong></p>
+<hr>
+<p><strong>Executive Summary</strong><br>
+This proposal defines the budget and compensation plan for SuperUMAn DAO Epoch 1 (Jan '22 - Mar '22). As per the SU DAO Design Principles, the team worked on defining proposals that:</p>
+<ol>
+<li>
+<p>Has sufficient stables to provide a level of stability for our members at all eligible tiers</p>
+</li>
+<li>
+<p>Distributes KPI Options that’s similar to the framework of prev. epochs</p>
+</li>
+<li>
+<p>Meets our pre-defined requirements for team budgets to enable operational costs to be covered</p>
+</li>
+<li>
+<p>Have an allocation of funds for gas &amp; transaction costs</p>
+</li>
+<li>
+<p>Sufficient reserves such that we can allocate to our defined emergency fund, while also considering additional tipping collateral, DAO actions, sponsorships, grants, bounties etc.</p>
+</li>
+</ol>
+<p>Please note that as the transfer multi-sig was funded with 100,000 UMA at the end of Dec, we have to use a working USD value for UMA. As the treasury seeding details are being worked out, we have opted for a conservative 1 UMA = 5.7 USD for this budget and all calculations within.</p>
+<p>This proposal does not contain:</p>
+<ul>
+<li>The plan for using proxy tokens for tipping and the value in KPI Options (possibly) that each proxy token will be worth</li>
+<li>The mechanism or details of how peer-evaluation will be carried out, or the distribution of KPI options as a result of the same</li>
+</ul>
+<hr>
+<p><strong>Rationale</strong><br>
+This is a required governance step as the Design Principles were setup to allow the DAO members to structure and vote in our own budget and compensation plans.</p>
+<p>We have worked through 11 options of the overall DAO budget, including 4 versions of the compensation breakdown, to arrive at a proposal that aims to best balance the responsibilities of the DAO and the expectations of our members.</p>
+<hr>
+<p><strong>Content of the Proposal</strong>:</p>
+<p>The budget breakdown for this epoch works on an operating treasury value assumed to be $570,000:</p>
+<ul>
+<li>Allocation for compensation in stables is approx. 26% i.e. <strong>$150,000</strong>
+</li>
+<li>Allocation for quarterly KPI Options (which are being designed separately) is 45% i.e. <strong>$256,500</strong> (45,000 UMA)</li>
+<li>Operational costs for each of the 9 teams was set as $2,500/epoch, hence the allocation is approx. 3.9% i.e. <strong>$22,500</strong>
+</li>
+<li>Allocation for gas costs for launching contracts &amp; SU DAO operations is approx. 3.6% i.e. <strong>$20,520</strong>
+</li>
+<li>The remaining percentage covers the $25,000 emergency fund, grants/bounties/dev support, additional collateral for tipping, and overall reserves at approx. 21.1% i.e. <strong>$120,480</strong>
+</li>
+</ul>
+<p>The compensation details will be shared below in the order noted in the Design Principles:</p>
+<p><strong>There should be a stablecoin allocation for members of the DAO who are SuperUMAns or UMAsters</strong></p>
+<ul>
+<li>
+<strong>$406/month</strong> for SuperUMAns</li>
+<li>
+<strong>$821/month</strong> for Core SuperUMAns</li>
+<li>
+<strong>$1524/month</strong> for UMAster</li>
+</ul>
+<p><strong>Quarterly KPI options should be available for all DAO members</strong><br>
+Note: We will be minting the KPI options with 45,000 UMA and splitting the distribution as follows</p>
+<ul>
+<li>
+<strong>100 KPI Options</strong> for Basic Members</li>
+<li>
+<strong>900 KPI Options</strong> for SuperUMAns</li>
+<li>
+<strong>1000 KPI Options</strong> for Core SuperUMAns</li>
+<li>
+<strong>1100 KPI Options</strong> for UMAsters</li>
+</ul>
+<p><strong>There should be a level of compensation allocated to teams for team based compensation including peer evaluation and tipping.</strong></p>
+<ul>
+<li>
+<strong>17,500 KPI Options</strong> i.e. approx. 23.3% of overall allocation for KPI Options</li>
+</ul>
+<p>Values have been pulled from the final working documents that were presented on Discord prior to this vote with only minor updates to reflect the number of KPI Options to be sent:</p>
+<ul>
+<li><a href=".. class="inline-onebox" rel="noopener nofollow ugc">SU DAO - Budget - Google Sheets</a></li>
+<li><a href=".. class="inline-onebox" rel="noopener nofollow ugc">SU DAO - Compensation Structure - Google Sheets</a></li>
+</ul>
+<hr>
+<p><strong>What on-chain actions might this proposal entail</strong>:<br>
+None at this time</p>
+<p><a href=".. to view the poll.</a></p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 06 Feb 2022 22:41:31 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-567-1</guid>
+        <source url=".. - SuperUMAn DAO Budget and Compensation Plan (PASSED)</source>
+      </item>
+  </channel>
+</rss>

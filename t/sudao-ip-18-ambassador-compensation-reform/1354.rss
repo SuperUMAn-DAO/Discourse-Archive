@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom=".. xmlns:dc="..
+  <channel>
+    <title>SUDAO-IP-18: Ambassador Compensation Reform</title>
+    <link>..
+    <description>**SUDAO-IP-18**
+**Ambassador Compensation Reform**
+
+**Executive Summary**
+This proposal is to utilize 5000 KPI Option tokens from the SU Treasury to create:
+1. An additional distribution for the Ambassadors only
+2. To create a series of bounties for successful integrations.
+
+**Motivation**
+The Q3 SU compensation distribution framework was managed by Risk Labs and the current results show a significant disparity between compensation amount, actual work done and potential value of the work. Most of the SU DAO agrees that the Ambassadors create the most value for the operations of the SUs in terms of vision and also the objectives set out by UMA DAO in said KPI. Therefore, this proposal attempts to address this disparity and to better incentivize Ambassadors to continue to do meaningful work.
+
+**Specification**
+This proposal will request the SU DAO Treasury to bring forward 5000 KPI Option tokens previously earmarked to the Products team to do 2 things.
+
+1. Using 3000 KPI Option tokens, conduct a 2nd round distribution for the **Ambassador team only.** To address the limitations of the previous distribution, the following rules are recommended to be applied:
+a. those with over 1000 KPI option tokens from the combined distribution will not be eligible to join this round. (ie Deadcoin, Fruitycup, arcology, Amadex is not eligible)
+b. For avoidance of doubt, only the Ambassadors as listed from the previous Coordinape chart is eligible.
+c. Those who want to join this distribution must post in the forum to opt-in and state why they should be included.
+d. Coordinape or similar spreadsheet + peer consensus mechanism from previous team comp-related calls can be used instead.
+
+2. Using 2000 KPI Option tokens, create a forward-thinking fund to incentivize integrations. It will work like this:
+a. A centralized location with all active leads to be created/reused.
+b. Each lead shall have a Person-in-Charge, and their respective team members (if any).
+**c. If the lead turns into a successful integration, 200 KPI Option tokens are rewarded for the integration team.**
+d. A member can join multiple integration teams.
+e. The PIC is responsible to split the proceeds of the KPI Option bounty with their teammates (if any). 
+f. This fund allows 10 leads (10 x 200 = 2000 KPI Option tokens) to be funded concurrently this epoch.
+g. There is no partial payout. If there is a true integration, the 200 KPI options will be paid out in full.</description>
+    
+    <lastBuildDate>Tue, 05 Jul 2022 15:41:51 +0000</lastBuildDate>
+    <category>Signal</category>
+    <atom:link href=".. rel="self" type="application/rss+xml" />
+      <item>
+        <title>SUDAO-IP-18: Ambassador Compensation Reform</title>
+        <dc:creator><![CDATA[ifun]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for bringing this up arcology. I think this is a great step and one that’s needed - imo ambassadors need a bit of motivation to get the job done and this proposal does justice to that!</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Tue, 05 Jul 2022 15:41:51 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1354-4</guid>
+        <source url=".. Ambassador Compensation Reform</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-18: Ambassador Compensation Reform</title>
+        <dc:creator><![CDATA[PVMihalache]]></dc:creator>
+        <description><![CDATA[
+            <p>I think 10 integrations are achievable and having a bounty make everyone put in that extra 10%</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 03 Jul 2022 22:28:02 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1354-3</guid>
+        <source url=".. Ambassador Compensation Reform</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-18: Ambassador Compensation Reform</title>
+        <dc:creator><![CDATA[gr8ness]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks Arcology for this, I believe the ambassadors will do great this new epoch</p>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 03 Jul 2022 16:36:11 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1354-2</guid>
+        <source url=".. Ambassador Compensation Reform</source>
+      </item>
+      <item>
+        <title>SUDAO-IP-18: Ambassador Compensation Reform</title>
+        <dc:creator><![CDATA[arcology]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>SUDAO-IP-18</strong><br>
+<strong>Ambassador Compensation Reform</strong></p>
+<p><strong>Executive Summary</strong><br>
+This proposal is to utilize 5000 KPI Option tokens from the SU Treasury to create:</p>
+<ol>
+<li>An additional distribution for the Ambassadors only</li>
+<li>To create a series of bounties for successful integrations.</li>
+</ol>
+<p><strong>Motivation</strong><br>
+The Q3 SU compensation distribution framework was managed by Risk Labs and the current results show a significant disparity between compensation amount, actual work done and potential value of the work. Most of the SU DAO agrees that the Ambassadors create the most value for the operations of the SUs in terms of vision and also the objectives set out by UMA DAO in said KPI. Therefore, this proposal attempts to address this disparity and to better incentivize Ambassadors to continue to do meaningful work.</p>
+<p><strong>Specification</strong><br>
+This proposal will request the SU DAO Treasury to bring forward 5000 KPI Option tokens previously earmarked to the Products team to do 2 things.</p>
+<ol>
+<li>
+<p>Using 3000 KPI Option tokens, conduct a 2nd round distribution for the <strong>Ambassador team only.</strong> To address the limitations of the previous distribution, the following rules are recommended to be applied:<br>
+a. those with over 1000 KPI option tokens from the combined distribution will not be eligible to join this round. (ie Deadcoin, Fruitycup, arcology, Amadex is not eligible)<br>
+b. For avoidance of doubt, only the Ambassadors as listed from the previous Coordinape chart is eligible.<br>
+c. Those who want to join this distribution must post in the forum to opt-in and state why they should be included.<br>
+d. Coordinape or similar spreadsheet + peer consensus mechanism from previous team comp-related calls can be used instead.</p>
+</li>
+<li>
+<p>Using 2000 KPI Option tokens, create a forward-thinking fund to incentivize integrations. It will work like this:<br>
+a. A centralized location with all active leads to be created/reused.<br>
+b. Each lead shall have a Person-in-Charge, and their respective team members (if any).<br>
+<strong>c. If the lead turns into a successful integration, 200 KPI Option tokens are rewarded for the integration team.</strong><br>
+d. A member can join multiple integration teams.<br>
+e. The PIC is responsible to split the proceeds of the KPI Option bounty with their teammates (if any).<br>
+f. This fund allows 10 leads (10 x 200 = 2000 KPI Option tokens) to be funded concurrently this epoch.<br>
+g. There is no partial payout. If there is a true integration, the 200 KPI options will be paid out in full.</p>
+</li>
+</ol>
+          <p><a href=".. full topic</a></p>
+        ]]></description>
+        <link>..
+        <pubDate>Sun, 03 Jul 2022 16:23:42 +0000</pubDate>
+        <guid isPermaLink="false">discourse.superumans.xyz-post-1354-1</guid>
+        <source url=".. Ambassador Compensation Reform</source>
+      </item>
+  </channel>
+</rss>
